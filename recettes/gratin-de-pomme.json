@@ -1,0 +1,35 @@
+{
+  "titre": "Gratin de pommes",
+  "description": "Un dessert simple et réconfortant, parfait pour l'hiver.",
+  "portions": 4,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "30 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Pommes",
+      "quantite": "4 pièces"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "50 g"
+    },
+    {
+      "nom": "Cannelle",
+      "quantite": "1 cuillère à café"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "30 g"
+    }
+  ],
+  "etapes": [
+    "Épluchez les pommes et coupez-les en dés.",
+    "Mélangez les pommes avec le sucre et la cannelle.",
+    "Disposez dans un plat à gratin, parsemez de beurre.",
+    "Enfournez 30 minutes à 180°C."
+  ],
+  "image": []
+}

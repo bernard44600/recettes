@@ -1,0 +1,75 @@
+{
+  "titre": "Filet mignon et sa crème au cidre",
+  "description": "Filet mignon de porc mariné et accompagné d'une sauce crémeuse au cidre, pommes et carottes.",
+  "portions": 4,
+  "temps_preparation": "30 mn",
+  "temps_cuisson": "15 mn",
+  "categorie": [
+    "Plat",
+    "Viande"
+  ],
+  "ingredients": [
+    {
+      "nom": "filet mignon de porc",
+      "quantite": "1 pièce"
+    },
+    {
+      "nom": "jeunes carottes",
+      "quantite": "4 pièces"
+    },
+    {
+      "nom": "pommes",
+      "quantite": "4 pièces"
+    },
+    {
+      "nom": "beurre",
+      "quantite": "60 g"
+    },
+    {
+      "nom": "échalote",
+      "quantite": "1 pièce"
+    },
+    {
+      "nom": "moutarde à l'ancienne",
+      "quantite": "2 cuillère à soupe"
+    },
+    {
+      "nom": "crème fraîche semi épaisse",
+      "quantite": "20 cl"
+    },
+    {
+      "nom": "cidre brut",
+      "quantite": "15 cl"
+    },
+    {
+      "nom": "huile d'olive",
+      "quantite": "2 cuillère à soupe"
+    },
+    {
+      "nom": "persil plat",
+      "quantite": "2 brins"
+    },
+    {
+      "nom": "paprika",
+      "quantite": "1 cuillère à café"
+    },
+    {
+      "nom": "sel",
+      "quantite": "sel"
+    },
+    {
+      "nom": "poivre",
+      "quantite": "poivre"
+    }
+  ],
+  "etapes": [
+    "Pelez et hachez l'échalote. Mélangez-la dans un plat creux avec l'huile, la moutarde, sel et poivre. Mettez-y la viande à mariner, 1h au frais.",
+    "Faites chauffer 30 g de beurre dans une cocotte. Mettez-y la viande marinée à dorer à feu vif. Baissez le feu, ajoutez la moitié du cidre, couvrez et laissez mijoter 15 min.",
+    "Dans le même temps, pelez les carottes. Faites-les cuire à l'eau bouillante salée 10 min. Egouttez, réservez au chaud.",
+    "Pelez les pommes et coupez les en quartiers. Faites les dorer avec le reste du beurre dans une poêle, en les retournant délicatement.",
+    "Egouttez le filet mignon, emballez-le dans du papier-alu et laissez reposer.",
+    "Dans la cocotte, sur feu doux, versez le reste du cidre et la crème. Grattez le fond de la cocotte pour décoller les sucs et laissez épaissir 5 min. Effeuillez le persil.",
+    "Coupez la viande en tranches épaisses, disposez-les dans des assiettes avec les pommes et les carottes. Poudrez de paprika, nappez de sauce, parsemez de persil et servez."
+  ],
+  "image": []
+}

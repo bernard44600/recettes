@@ -1,0 +1,61 @@
+{
+  "titre": "Financiers citron pavot",
+  "description": "Emilie, laboratoire. Démouler les financiers sur une grille et laisser refroidir.",
+  "portions": 6,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "15 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Sucre",
+      "quantite": "170 gr"
+    },
+    {
+      "nom": "Blancs d'oeufs",
+      "quantite": "3"
+    },
+    {
+      "nom": "Farine",
+      "quantite": "65 gr"
+    },
+    {
+      "nom": "Poudre d'amande",
+      "quantite": "85 gr"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "100 gr"
+    },
+    {
+      "nom": "Citron confit",
+      "quantite": "75 gr (coupé en dés)"
+    },
+    {
+      "nom": "Graines de pavot",
+      "quantite": "1 cuillère à soupe"
+    },
+    {
+      "nom": "Jus de citron",
+      "quantite": "quelques gouttes"
+    },
+    {
+      "nom": "Miel",
+      "quantite": "1 cuillère à soupe"
+    },
+    {
+      "nom": "Sel",
+      "quantite": "1 pincée"
+    }
+  ],
+  "etapes": [
+    "Mélanger le sucre, le sel, les blancs d'oeufs, quelques gouttes de jus de citron et le miel.",
+    "Incorporer ensuite la farine et la poudre d'amandes préalablement mélangées ensemble.",
+    "Faire fondre le beurre à part et le mélanger à la préparation.",
+    "Ajouter finalement les citrons confits coupés en dés et la cuillère à soupe de graines de pavot.",
+    "Remplir des moules à financiers.",
+    "Cuire environ 15 minutes à 170°C."
+  ],
+  "image": []
+}

@@ -1,0 +1,53 @@
+{
+  "titre": "Tarte citrons amandes",
+  "description": "Vieille recette d'une copine d'école Michèle Gouribon. Servir frais.",
+  "portions": 6,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "40 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Fond de tarte sablée",
+      "quantite": "1"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "150 gr"
+    },
+    {
+      "nom": "Oeufs",
+      "quantite": "4"
+    },
+    {
+      "nom": "Citrons bio",
+      "quantite": "3 (pour le jus des 3 et le zeste de 2)"
+    },
+    {
+      "nom": "Amandes effilées",
+      "quantite": "1 sachet (environ 125 gr)"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "100 gr fondu"
+    },
+    {
+      "nom": "Crème fraîche",
+      "quantite": "1 pot moyen (environ 20 cl)"
+    },
+    {
+      "nom": "Sel",
+      "quantite": "1 pincée"
+    }
+  ],
+  "etapes": [
+    "Dans un saladier, mélangez le sucre, les œufs et le beurre fondu.",
+    "Ajoutez le jus des 3 citrons, le zeste râpé de deux d'entre eux et le pot de crème fraîche. Bien mélanger.",
+    "Répartir toutes les amandes effilées directement sur le fond de pâte sablée.",
+    "Verser délicatement la préparation liquide par-dessus les amandes.",
+    "Cuisson à four moyen (autour de 160°C - 180°C). Pour la durée: surveiller.",
+    "Piquer avec la lame d'un couteau, si elle ressort sèche c'est cuit."
+  ],
+  "image": []
+}

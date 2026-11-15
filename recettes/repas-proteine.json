@@ -1,0 +1,44 @@
+{
+  "slug": "repas-proteine",
+  "titre": "Repas proteine",
+  "description": "Repas complet protéiné. Environ 35g de protéine ; 10g de fibres ; 400kcal",
+  "categorie": [
+    "Plat",
+    "regime"
+  ],
+  "portions": "1",
+  "temps_preparation": "15mn",
+  "temps_cuisson": "20mn",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "80g",
+      "nom": "quinoa cuit (4g prot, fibres)"
+    },
+    {
+      "quantite": "100g",
+      "nom": "blanc de poulet (25g prot)"
+    },
+    {
+      "quantite": "100g",
+      "nom": "brocoli cuit (vitC fibres)"
+    },
+    {
+      "quantite": "50g",
+      "nom": "avocat (graisses, vitE)"
+    },
+    {
+      "quantite": "10g",
+      "nom": "graines de courge (magn, zinc)"
+    },
+    {
+      "quantite": "30g",
+      "nom": "sauce : yaourt grec+citron"
+    }
+  ],
+  "etapes": [
+    "Cuire le quinoa et le poulet (grillé ou poelé)",
+    "Blanchir le brocoli 5mn a l'eau",
+    "Assembler, arroser de sauce"
+  ]
+}

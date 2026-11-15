@@ -1,0 +1,48 @@
+{
+  "titre": "Velouté de lentilles corail et légumes",
+  "description": "Riche en protéines, fibres, vitamines, minéraux",
+  "portions": 1,
+  "temps_preparation": "5 mn",
+  "temps_cuisson": "15 mn",
+  "categorie": [
+    "Soupe",
+    "regime"
+  ],
+  "ingredients": [
+    {
+      "nom": "Lentilles corail cuites",
+      "quantite": "80 g"
+    },
+    {
+      "nom": "Carottes",
+      "quantite": "100 g"
+    },
+    {
+      "nom": "Poireau",
+      "quantite": "50 g"
+    },
+    {
+      "nom": "Lait de coco léger",
+      "quantite": "50 ml"
+    },
+    {
+      "nom": "Bouillon de légumes",
+      "quantite": "200 ml"
+    },
+    {
+      "nom": "Curcuma + poivre",
+      "quantite": "1 pincée"
+    },
+    {
+      "nom": "Huile d’olive",
+      "quantite": "1 c. à café"
+    }
+  ],
+  "etapes": [
+    "Faire revenir le poireau et les carottes émincés dans l’huile d’olive.",
+    "Ajouter les lentilles corail, le bouillon de légumes et les épices. Cuire 15 min.",
+    "Mixer avec le lait de coco. Servir chaud.",
+    "Apport total : ~20 g de protéines, 8 g de fibres, ~250 kcal. Astuce : ajouter une cuillère de levure maltée pour un boost de vitamines B et un goût umami"
+  ],
+  "image": []
+}

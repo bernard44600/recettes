@@ -1,0 +1,41 @@
+{
+  "titre": "Variante crevettes grises ou roses vivantes",
+  "description": "A l'apéro c'est très bon. Faut juste prévoir des petites serviettes pour les mains.",
+  "portions": null,
+  "temps_preparation": "5 mn",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Crevettes grises ou roses vivantes",
+      "quantite": null
+    },
+    {
+      "nom": "Huile d'olive",
+      "quantite": "1 cuillerée à soupe"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "1 noix"
+    },
+    {
+      "nom": "Persil",
+      "quantite": "déjà ciselé"
+    },
+    {
+      "nom": "Ail",
+      "quantite": null
+    },
+    {
+      "nom": "Fleur de sel",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Plutôt que de les faire cuire dans l'eau, on peut les jeter, les saisir (je vous l'accorde, c'est pas cool) dans une poêle bien chaude avec 1 cuillerée à soupe d'huile d'olive et une noix de beurre.",
+    "On y ajoute du persil (déjà ciselé), de l'ail et de la fleur de sel."
+  ],
+  "image": []
+}

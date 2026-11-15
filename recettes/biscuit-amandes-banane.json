@@ -1,0 +1,32 @@
+{
+  "slug": "biscuit-amandes-banane",
+  "titre": "Biscuit amandes banane",
+  "description": "simple et bon",
+  "categorie": [
+    "Dessert"
+  ],
+  "portions": "",
+  "temps_preparation": "15mn",
+  "temps_cuisson": "25mn",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "250 g",
+      "nom": "amandes en poudre"
+    },
+    {
+      "quantite": "3",
+      "nom": "bananes"
+    },
+    {
+      "quantite": "6 c à soupe",
+      "nom": "sirop d'érable"
+    }
+  ],
+  "etapes": [
+    "Faire des petits pâtés, ",
+    "Déposer les sur une feuille de papier sulfurisé ",
+    "Four 180 degrés ",
+    "Cuisson 15 à 20 minutes environ bien surveillé"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "titre": "Poulet rôti aux herbes",
+  "description": "Un grand classique familial, croustillant à l'extérieur et tendre à l'intérieur.",
+  "portions": 4,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "1h 20 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Poulet fermier",
+      "quantite": "1 (1,5 kg)"
+    },
+    {
+      "nom": "Ail",
+      "quantite": "4 gousses"
+    },
+    {
+      "nom": "Thym frais",
+      "quantite": "3 branches"
+    },
+    {
+      "nom": "Huile d'olive",
+      "quantite": "3 c. à soupe"
+    },
+    {
+      "nom": "Pommes de terre",
+      "quantite": "6"
+    }
+  ],
+  "etapes": [
+    "Préchauffer le four à 200°C.",
+    "Frotter le poulet avec l'huile d'olive, saler et poivrer.",
+    "Glisser l'ail et le thym à l'intérieur du poulet.",
+    "Disposer le poulet dans un plat, ajouter les pommes de terre coupées en quartiers autour.",
+    "Enfourner 1h20 en arrosant régulièrement."
+  ],
+  "image": []
+}

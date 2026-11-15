@@ -1,0 +1,58 @@
+{
+  "titre": "Crumble à l'ananas",
+  "description": "C.V.F. n° 75 janv-fév 2001. Fait la première fois pour Sylvie et Patrice, ils ont aimé. Sortez du four, laissez tiédir et servez accompagné d'une jatte de crème fraîche. Le conseil de C.V.F: Si vous voulez un dessert plutôt consistant, ajoutez 3 bananes coupées en rondelles sur la compote d'ananas avant de répartir la pâte.",
+  "portions": 6,
+  "temps_preparation": "30 mn",
+  "temps_cuisson": "1h10",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Ananas",
+      "quantite": "1 gros ou 3 petits "
+    },
+    {
+      "nom": "Oranges",
+      "quantite": "2 jus"
+    },
+    {
+      "nom": "Sucre en poudre",
+      "quantite": "100 g"
+    },
+    {
+      "nom": "Gousses de vanille",
+      "quantite": "2"
+    },
+    {
+      "nom": "Sucre roux (pour la pâte)",
+      "quantite": "125 g"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "125 g"
+    },
+    {
+      "nom": "Amandes en poudre (pour la pâte)",
+      "quantite": "125 g"
+    },
+    {
+      "nom": "Farine (pour la pâte)",
+      "quantite": "125 g"
+    },
+    {
+      "nom": "Cannelle en poudre (pour la pâte)",
+      "quantite": "1 CC"
+    }
+  ],
+  "etapes": [
+    "Pelez les ananas et coupez la chair en dés (ou 3 boites d'ananas en tranches ou morceaux sans sucre ajouté). Pressez les oranges pour en extraire le jus.",
+    "Versez le jus d'orange dans une sauteuse, ajoutez le sucre en poudre, les gousses de vanille fendues dans la longueur et les dés d'ananas. Mettez à chauffer sur feu doux, couvrez et laissez compoter (cuire) 30 mn.",
+    "Préchauffez le four à th 6 (180°C).",
+    "Mettez tous les ingrédients de la pâte (sucre roux, beurre, amandes, farine, cannelle) dans le bol d'un robot et mixez par à-coups jusqu'à l'obtention d'une grosse semoule.",
+    "Répartissez les dés d'ananas cuits dans un plat à four (ou dans des petits plats individuels) préalablement beurré.",
+    "Répartissez la pâte à crumble uniformément dessus.",
+    "Enfournez pour 30 mn si ce sont des plats individuels, ou 45 mn pour un plat familial."
+  ],
+  "image": []
+}

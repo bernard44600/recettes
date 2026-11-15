@@ -1,0 +1,49 @@
+{
+  "titre": "Cuisson crustacés: bigorneaux....",
+  "description": "Les bigorneaux foisonnent sur les rochers de Piriac à la pointe du Castelli ou sur les rochers du Croisic, en plus il y a plein de berniques donc on fait d'une pierre deux coups.",
+  "portions": null,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "5 mn",
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Bigorneaux",
+      "quantite": "Prendre une poignée grosse comme tu veux"
+    },
+    {
+      "nom": "Sel",
+      "quantite": "30g / litre"
+    },
+    {
+      "nom": "Poivre",
+      "quantite": "1 Cuillère à café / litre"
+    },
+    {
+      "nom": "Persil",
+      "quantite": null
+    },
+    {
+      "nom": "Oignon",
+      "quantite": null
+    },
+    {
+      "nom": "Une feuille de laurier",
+      "quantite": "nous on peut en donner il y en a beaucoup dans le jardin"
+    },
+    {
+      "nom": "Pain et beurre demi sel",
+      "quantite": "pour la dégustation"
+    }
+  ],
+  "etapes": [
+    "Avec tous les crustacés pour la cuisson mettre : Sel, Poivre, Persil, Oignon, et une feuille de laurier.",
+    "Les mettre dans l'eau froide avec 30g de sel/litre et 1 cuillère à café de poivre/l.",
+    "Attendre le début de l'ébullition.",
+    "Éteindre le feu, attendre 5 minutes et égoutter.",
+    "Pour les déguster avec grand plaisir : Décoquillez les tranquillement, sans les manger. Réservez les bigorneaux décoquillés dans l'assiette.",
+    "Beurrez une tartine de pain avec du beurre demi sel et étalez les dessus. Dégustez."
+  ],
+  "image": []
+}

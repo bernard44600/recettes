@@ -1,0 +1,77 @@
+{
+  "slug": "chili-con-carn-",
+  "titre": "Chili con carné.",
+  "description": "CVF 168",
+  "categorie": [
+    "Plat"
+  ],
+  "portions": "6-8",
+  "temps_preparation": "35 mn",
+  "temps_cuisson": "3h",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "1.5kg",
+      "nom": "bœuf maigre gitalanois tranche."
+    },
+    {
+      "quantite": "800g",
+      "nom": "haricots rouges au naturel, en boîte."
+    },
+    {
+      "quantite": "",
+      "nom": "2 oignons,"
+    },
+    {
+      "quantite": "3 gousses",
+      "nom": "ail,"
+    },
+    {
+      "quantite": "1 grosse boîte",
+      "nom": "tomates concassées,"
+    },
+    {
+      "quantite": "1 cs",
+      "nom": "concentré de tomates,"
+    },
+    {
+      "quantite": "2 cc",
+      "nom": "chili,"
+    },
+    {
+      "quantite": "",
+      "nom": "piment en poudre,"
+    },
+    {
+      "quantite": "1 cs",
+      "nom": "graines de cumin,"
+    },
+    {
+      "quantite": "1 cs",
+      "nom": "origan séché,"
+    },
+    {
+      "quantite": "2 carrés",
+      "nom": "chocolat,"
+    },
+    {
+      "quantite": "2 tablettes",
+      "nom": "bouillon de bœuf,"
+    },
+    {
+      "quantite": "4 cs",
+      "nom": "huile,"
+    },
+    {
+      "quantite": "",
+      "nom": "sel."
+    }
+  ],
+  "etapes": [
+    "coupez la viande au couteau en tout petits dés, pelez et émincez les oignons, l'ail, préparez du bouillon en diluant les tablettes dans 50cl d'eau très chaude réservez au chaud",
+    "Faites chauffer l’huile dans une cocotte, mettez les oignons et l’ail à fondre doucement, dix minutes en remuant souvent; puis ajoutez la viande et remuez cinq minutes sur le feu vif.",
+    "versez alors dans la cocotte les tomates gouttes le concentré, et le bouillon ajoutez le cumin, l'origan, le chili salez et remuez, couvrez, laissez mijoter 1h30",
+    "Passez ce temps, ajoutez les haricots égouttés, poursuivez la cuisine à couvert et à feu doux 1h15",
+    "À la fin de la cuisson, ajoutez le chocolat et mélangez bien, servez le chili brûlant."
+  ]
+}

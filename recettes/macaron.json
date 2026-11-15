@@ -1,0 +1,35 @@
+{
+  "slug": "macaron",
+  "titre": "Macaron",
+  "description": "Cvf numéro 172 novembre 2016",
+  "categorie": [
+    "Dessert"
+  ],
+  "portions": "",
+  "temps_preparation": "15mn",
+  "temps_cuisson": "25mn",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "1",
+      "nom": "sachet de 125 g de poudre d'amande ou noisette"
+    },
+    {
+      "quantite": "100 g",
+      "nom": "sucre roux"
+    },
+    {
+      "quantite": "1",
+      "nom": "œuf entier et un demi blanc"
+    },
+    {
+      "quantite": "",
+      "nom": "sel"
+    }
+  ],
+  "etapes": [
+    "Mélanger le tout",
+    "Faire des petits tas sans chercher à mettre en forme ou aplatir",
+    "Four 150 degrés durée 25 minutes"
+  ]
+}

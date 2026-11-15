@@ -1,0 +1,43 @@
+{
+  "slug": "tuiles-aux-amandes",
+  "titre": "Tuiles aux amandes",
+  "description": "Transparente légère croustillante toujours appréciée avec un sorbet ou une glace maison et se conserve longtemps",
+  "categorie": [
+    "Dessert"
+  ],
+  "portions": "",
+  "temps_preparation": "10mn",
+  "temps_cuisson": "10mn",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "200 g",
+      "nom": "sucre semoule"
+    },
+    {
+      "quantite": "75 g",
+      "nom": "amandes hachée ou noisette"
+    },
+    {
+      "quantite": "75 g",
+      "nom": "farine"
+    },
+    {
+      "quantite": "75 g",
+      "nom": "beurre fondu"
+    },
+    {
+      "quantite": "2 CC",
+      "nom": "zeste râpé demi orange demi citron jus d'orange"
+    }
+  ],
+  "etapes": [
+    "Mélanger dans l'ordre dans un cul de poule ",
+    "Sucre + amande + farine + jus d'orange du geste + le beurre fondu légèrement refroidi",
+    "Laisser reposer au moins une heure au réfrigérateur pour raffermir la préparation",
+    "Faire cuire sur les plaques Tefal à 200 degrés 10 minutes en faisant des petits tas étalés avec une fourchette trempée dans de l'eau ",
+    "Mouler dès la sortie du four sur un grand rouleau à pâtisserie par exemple ",
+    "Cuisson à surveiller 10 minutes env",
+    "Conserver au sec et au frais"
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "slug": "fayonnaise-mayo-haricots-",
+  "titre": "Fayonnaise (mayo haricots)",
+  "description": "kilometre-0  une mayonnaise végétale ne comprenant que des produits très qualitatifs (huiles notamment) et des haricots blancs, qu’on devrait mettre plus souvent à nos menus car ils sont riches en calcium (120 mg pour 100 g).",
+  "categorie": [
+    "Dessert"
+  ],
+  "portions": "4",
+  "temps_preparation": "5mn",
+  "temps_cuisson": "0",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "100g",
+      "nom": "haricots blancs cuits"
+    },
+    {
+      "quantite": "3cs",
+      "nom": "huile de colza"
+    },
+    {
+      "quantite": "2cs",
+      "nom": "huile d'olive"
+    },
+    {
+      "quantite": "1cs",
+      "nom": "moutarde"
+    },
+    {
+      "quantite": "1cs",
+      "nom": "vinaigre"
+    },
+    {
+      "quantite": "20g",
+      "nom": "echalotte (facultative)"
+    }
+  ],
+  "etapes": [
+    "dans un bol mixer haricots blancs",
+    "ajouter huile de colza olive, vinaigre, moutarde, sel ",
+    "... mixer, c'est fini"
+  ]
+}

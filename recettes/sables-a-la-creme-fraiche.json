@@ -1,0 +1,59 @@
+{
+  "titre": "Sablés à la crème fraîche",
+  "description": "Cadeau de Claire et Jéry, appréciés pour leur légèreté et les formes sympathiques",
+  "portions": "x pers",
+  "temps_preparation": "du temps",
+  "temps_cuisson": "10 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Farine",
+      "quantite": "250 g"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "80 g"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "90 g"
+    },
+    {
+      "nom": "Crème fraîche épaisse",
+      "quantite": "20 cl"
+    },
+    {
+      "nom": "Levure chimique",
+      "quantite": "¼ de sachet"
+    },
+    {
+      "nom": "Sucre vanillé",
+      "quantite": "1 sachet"
+    },
+    {
+      "nom": "Jaune d’œuf",
+      "quantite": "1"
+    },
+    {
+      "nom": "Zeste de citron non traité",
+      "quantite": "1"
+    },
+    {
+      "nom": "Confiture au choix",
+      "quantite": "1 pot"
+    }
+  ],
+  "etapes": [
+    "Dans un bol mélangez la farine avec la levure chimique, le sucre vanillé et le sucre.",
+    "Ajoutez le beurre mou coupé en morceaux, le jaune d'œuf, la crème fraîche et le zeste de citron.",
+    "Travaillez tous les ingrédients pour obtenir une pâte souple.",
+    "Formez une boule, enveloppez-la de film alimentaire et mettez-la au moins 3 heures au réfrigérateur (de préférence toute la nuit).",
+    "Préchauffez le four à 150°C (thermostat 5).",
+    "Étalez la pâte sur 5 mm d’épaisseur puis découpez-la à l’aide d’un emporte-pièce. Posez les biscuits sur une plaque de four tapissée de papier sulfurisé.",
+    "Enfournez 10 min.",
+    "Servez avec de la confiture (ou nature)."
+  ],
+  "image": []
+}

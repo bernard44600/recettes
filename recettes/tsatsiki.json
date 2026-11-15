@@ -1,0 +1,31 @@
+{
+  "titre": "Tsatsiki",
+  "description": "Sauce ou entrée fraîche à base de concombre et yaourt grec, parfaite pour l'été",
+  "portions": 4,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "0 mn (repos : une nuit)",
+  "categorie": [
+    "Entrée",
+    "Sauce"
+  ],
+  "ingredients": [
+    { "nom": "Concombres", "quantite": "2" },
+    { "nom": "Yaourts grecs", "quantite": "1 ou 2" },
+    { "nom": "Menthe fraîche", "quantite": "1/2 bouquet (3-4 branches)" },
+    { "nom": "Jus de citron", "quantite": "1 cuillère à soupe" },
+    { "nom": "Ail", "quantite": "1 petite gousse" },
+    { "nom": "Oignon blanc", "quantite": "1/2" },
+    { "nom": "Ciboulette (ou tige d'oignon blanc)", "quantite": "quelques brins" },
+    { "nom": "Zaatar (facultatif)", "quantite": "1 cuillère à café" },
+    { "nom": "Sel, poivre", "quantite": "selon goût" }
+  ],
+  "etapes": [
+    "Éplucher les concombres, les râper (pépins compris s'ils ne sont pas trop gros, sinon en enlever quelques-uns).",
+    "Les mettre dans une passoire, ajouter une poignée de gros sel, mélanger et laisser dégorger toute une nuit.",
+    "Le lendemain, rincer les concombres à l'eau et les égoutter bien.",
+    "Effeuiller et ciseler la menthe. Émincer l'ail, l'oignon et la ciboulette.",
+    "Dans un saladier, mélanger tous les ingrédients : concombre égoutté, yaourt, menthe, ail, oignon, ciboulette, citron, zaatar, poivre (ajuster le sel en fin).",
+    "Bien mélanger, mettre au frais et déguster."
+  ],
+  "image": []
+}

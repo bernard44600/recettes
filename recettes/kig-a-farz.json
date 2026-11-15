@@ -1,0 +1,54 @@
+{
+  "titre": "Kig-a-farz",
+  "description": "Recette de Maryvonne (Marymoune) maman de Claire. Nécessite d'avoir deux fait-tout et de la main-d'œuvre.",
+  "portions": 10,
+  "temps_preparation": "60 mn",
+  "temps_cuisson": null,
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Poireaux",
+      "quantite": "12"
+    },
+    {
+      "nom": "Carottes",
+      "quantite": null
+    },
+    {
+      "nom": "Chou vert",
+      "quantite": "1 ?"
+    },
+    {
+      "nom": "Lard salé",
+      "quantite": null
+    },
+    {
+      "nom": "Farine de froment",
+      "quantite": null
+    },
+    {
+      "nom": "Farine de sarrasin",
+      "quantite": null
+    },
+    {
+      "nom": "Oignons",
+      "quantite": null
+    },
+    {
+      "nom": "Beurre",
+      "quantite": null
+    },
+    {
+      "nom": "Raisins secs",
+      "quantite": "facultatif ?"
+    }
+  ],
+  "etapes": [
+    "Préparer les légumes (poireaux, carottes, chou) et les viandes (lard salé).",
+    "Préparer les pâtes à farz (far breton salé) à base de farine de sarrasin et de froment.",
+    "Mettre à cuire le tout en utilisant les deux fait-tout de manière organisée."
+  ],
+  "image": []
+}

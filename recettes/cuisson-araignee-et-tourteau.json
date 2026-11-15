@@ -1,0 +1,41 @@
+{
+  "titre": "Cuisson araignée et tourteau",
+  "description": "La chair de l'araignée est beaucoup plus fine que celle du tourteau. Choisir une femelle quand on peut aussi (plus pleine en général). Manger TIÈDE comme la plupart des crustacés, bien meilleur au goût que le froid tue. Prévoir du temps et de l'outillage.",
+  "portions": null,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "15-20 mn",
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Araignée ou tourteau",
+      "quantite": "1"
+    },
+    {
+      "nom": "Gros sel, poivre",
+      "quantite": null
+    },
+    {
+      "nom": "Oignon coupé",
+      "quantite": "1"
+    },
+    {
+      "nom": "Bouquet garni",
+      "quantite": "laurier et thym attachés avec de la ficelle de cuisine"
+    },
+    {
+      "nom": "Mayonnaise ou aïoli maison",
+      "quantite": "si possible"
+    }
+  ],
+  "etapes": [
+    "Avant cuisson, l'endormir au congélateur 1/4 d'heure pendant que le court bouillon se prépare.",
+    "Faire un court bouillon (eau salée avec du gros sel, poivre, oignon coupé, une feuille de laurier, thym...) et porter à ébullition.",
+    "Mettre l'araignée dans l'eau bouillante pour la saisir.",
+    "A partir de la prochaine ébullition compter 15 à 20 minutes puis éteindre le feu.",
+    "Égoutter, mettre dans une passoire coque sur le dessus en dégageant le 'triangle' sur le dessous en tirant dessus pour qu'elle se vide bien de son eau.",
+    "Pour déguster, avoir un casse noix pour les pinces et une curette pour les alvéoles. Tout se mange sauf les branchies qui sont à jeter. Beaucoup de personnes n'aiment que les pinces et ne savent pas manger le reste."
+  ],
+  "image": []
+}

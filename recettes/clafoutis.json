@@ -1,0 +1,61 @@
+{
+  "titre": "Clafoutis",
+  "description": "Le goût est meilleur avec les noyaux de cerises et ça demande moins de travail, mais le risque c'est de se casser une dent alors ça se discute ! Mettre à four chaud.",
+  "portions": 8,
+  "temps_preparation": "30 mn",
+  "temps_cuisson": "40 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Farine",
+      "quantite": "6 CS"
+    },
+    {
+      "nom": "Sucre en poudre",
+      "quantite": "3 CS (pour la pâte)"
+    },
+    {
+      "nom": "Sucre en poudre",
+      "quantite": "3 CS (pour le dessus)"
+    },
+    {
+      "nom": "Oeuf",
+      "quantite": "1 (pour le dessus)"
+    },
+    {
+      "nom": "Huile",
+      "quantite": "2 CS"
+    },
+    {
+      "nom": "Lait",
+      "quantite": "2 CS"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "80 gr"
+    },
+    {
+      "nom": "Levure chimique",
+      "quantite": "2 CC"
+    },
+    {
+      "nom": "Pommes ou cerises",
+      "quantite": "choix"
+    },
+    {
+      "nom": "Sel",
+      "quantite": "1 pincée"
+    }
+  ],
+  "etapes": [
+    "Mélanger les 6 cuillères de farine, les 3 cuillères de sucre, l'huile, le lait, la levure et le sel pour faire une pâte liquide.",
+    "Vider cette pâte liquide uniformément sur une tourtière.",
+    "Disposez de fines rondelles de pommes ou les cerises par-dessus la pâte.",
+    "À part, faire fondre 80 gr de beurre, les mélanger aux 3 autres cuillères à soupe de sucre et à l'œuf battu.",
+    "Vider délicatement ce mélange beurré sur les fruits.",
+    "Mettre à cuire au four chaud préchauffé à 220°C - 240°C (thermostat 8) pendant 30 à 40 minutes."
+  ],
+  "image": []
+}

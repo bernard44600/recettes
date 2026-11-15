@@ -1,0 +1,62 @@
+{
+  "titre": "Blinis, crème acidulée, truite fumée",
+  "description": "Sylvie, ma grande sœur, qui, au vue des recettes, s’éclate vraiment en cuisine …",
+  "portions": 4,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "20 mn",
+  "categorie": [
+    "Entrée"
+  ],
+  "ingredients": [
+    {
+      "nom": "Pommes de terre",
+      "quantite": "300 g"
+    },
+    {
+      "nom": "Œufs entiers",
+      "quantite": "2"
+    },
+    {
+      "nom": "Crème fraîche épaisse",
+      "quantite": "100 g + pour la sauce acidulée"
+    },
+    {
+      "nom": "Cumin, noix de muscade",
+      "quantite": ""
+    },
+    {
+      "nom": "Échalote",
+      "quantite": "1"
+    },
+    {
+      "nom": "Huile d’olive",
+      "quantite": "1 trait + pour la sauce"
+    },
+    {
+      "nom": "Ciboulette",
+      "quantite": "quelques brins"
+    },
+    {
+      "nom": "Jus de citron",
+      "quantite": "1"
+    },
+    {
+      "nom": "Tranches de truite fumée",
+      "quantite": "4"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": ""
+    }
+  ],
+  "etapes": [
+    "Faire cuire les pommes de terre avec du gros sel. Les écraser en purée.",
+    "Séparez les blancs des jaunes d'œuf. Battre les blancs en neige.",
+    "Mélangez les jaunes d'œuf à la purée et assaisonnez avec sel, poivre, noix de muscade, et cumin.",
+    "Incorporez les blancs d'œuf à la pâte délicatement.",
+    "Cuire cette pâte dans une poêle pour faire les blinis.",
+    "Nappez de sauce acidulée et de lanières de truite fumée.",
+    "Pour la sauce acidulée : ciselez 1 échalote et de la ciboulette. Mélangez avec la crème, un trait d’huile d’olive, 1 jus de citron, une pincée de piment d’Espelette, sel et poivre."
+  ],
+  "image": []
+}

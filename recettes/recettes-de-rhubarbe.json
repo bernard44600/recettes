@@ -1,0 +1,30 @@
+{
+  "slug": "recettes-de-rhubarbe",
+  "titre": "Recettes de rhubarbe",
+  "description": "quelques exemples",
+  "categorie": [
+    "Dessert"
+  ],
+  "portions": "",
+  "temps_preparation": "",
+  "temps_cuisson": "",
+  "image": [],
+  "ingredients": [
+      {
+      "quantite": "",
+      "nom": "rhubarbe"
+      }
+    ],
+  "etapes": [
+    "Enlever l'acidité : après épluchage tremper 1 h dans eau froide avec une pincée de sel",
+    "Congeler : couper en morceaux, blanchir (plonger dans eau bouillante), laisser refroidir avant de mettre au congélateur",
+    "------",
+    "Rhubarbe Pochée : avec pana cotta, ajouter gingembre",
+    "Crumbe avec fruits rouges et creme anglaise",
+    "Rotie ; avec caramel et fruits frais",
+    "Cheese cake : avec framboises",
+    "Farce de volailles : finement hachée",
+    "En tarte au chevre : avec romarin",
+    "En coulis avec du fromage blanc"
+  ]
+}

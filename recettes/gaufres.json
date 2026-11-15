@@ -1,0 +1,45 @@
+{
+  "titre": "Gaufres",
+  "description": "Recette de Sylvie ma grande soeur. Mettez dans une bouteille et conservez au réfrigérateur si la quantité est trop importante pour une fois. Sylvie garde cette pâte 2-3 jours sans problèmes intestinaux.",
+  "portions": 4,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "10 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Oeufs",
+      "quantite": "2"
+    },
+    {
+      "nom": "Lait",
+      "quantite": "40 cl"
+    },
+    {
+      "nom": "Farine",
+      "quantite": "300 g"
+    },
+    {
+      "nom": "Levure",
+      "quantite": "1 paquet"
+    },
+    {
+      "nom": "Sucre vanillé",
+      "quantite": "1 sachet"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "100 g"
+    }
+  ],
+  "etapes": [
+    "Dans un saladier, battre les deux œufs en omelette.",
+    "Incorporer en alternance, petit à petit, les 40 cl de lait et les 300 g de farine.",
+    "Ajoutez le paquet de levure et le sachet de sucre vanillé.",
+    "Mélangez bien le tout pour éviter les grumeaux.",
+    "A la fin, intégrez les 100 g de beurre fondu au préalable.",
+    "Faire cuire au gaufrier."
+  ],
+  "image": []
+}

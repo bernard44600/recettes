@@ -1,0 +1,62 @@
+{
+  "titre": "Carbonade flamande (bien l'hiver)",
+  "description": "Un ragoût de bœuf traditionnel à la bière et au pain d'épices.",
+  "portions": 6,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "60 mn",
+  "categorie": [
+    "Plat",
+    "Ragoût",
+    "Nord"
+  ],
+  "ingredients": [
+    {
+      "nom": "Viande de boeuf",
+      "quantite": "1 kg"
+    },
+    {
+      "nom": "bière Jenlain",
+      "quantite": "1 bouteille (ambrée)"
+    },
+    {
+      "nom": "Huile",
+      "quantite": ""
+    },
+    {
+      "nom": "Sel",
+      "quantite": ""
+    },
+    {
+      "nom": "poivre",
+      "quantite": ""
+    },
+    {
+      "nom": "Herbes",
+      "quantite": ""
+    },
+    {
+      "nom": "ail",
+      "quantite": ""
+    },
+    {
+      "nom": "oignons",
+      "quantite": ""
+    },
+    {
+      "nom": "pain d'épices",
+      "quantite": "3 tranches"
+    },
+    {
+      "nom": "lardons",
+      "quantite": "Facultatif"
+    }
+  ],
+  "etapes": [
+    "Mettre tous les ingrédients ensemble dans un fait tout (sauf le pain d'épice).",
+    "Recouvrir de bière ambrée (une bonne bière).",
+    "Cuire une heure, on ouvre.",
+    "Coupez les tranches de pain d'épice en morceaux.",
+    "Faire cuire 10 à 15 minutes jusqu'à ce que le pain d'épice fonde."
+  ],
+  "image": []
+}

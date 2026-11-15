@@ -1,0 +1,47 @@
+{
+  "titre": "Gâteau au yaourt",
+  "description": "Une relique, mon premier gâteau quand j'ai commencé à inviter des copains à dîner. Je ne pouvais pas ne pas le mettre même s'il n'est pas extraordinaire. Alors parfois il est un peu sec ce gâteau.",
+  "portions": 6,
+  "temps_preparation": "10 mn",
+  "temps_cuisson": "40 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Yaourt nature",
+      "quantite": "1"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "2 pots de yaourt"
+    },
+    {
+      "nom": "Oeufs",
+      "quantite": "2"
+    },
+    {
+      "nom": "Farine",
+      "quantite": "3 pots de yaourt"
+    },
+    {
+      "nom": "Huile",
+      "quantite": "½ pot de yaourt"
+    },
+    {
+      "nom": "Levure",
+      "quantite": "½ paquet"
+    },
+    {
+      "nom": "Rondelles d'ananas bien égouttées (Astuce anti-dessèchement)",
+      "quantite": "facultatif (à poser sur le dessus)"
+    }
+  ],
+  "etapes": [
+    "Préchauffer le four à thermostat 7.",
+    "Dans un saladier, vider le pot de yaourt puis utiliser le pot vide comme doseur pour mélanger le sucre, les œufs, la farine, l'huile et la levure.",
+    "Pour éviter que le gâteau soit trop sec, vous pouvez ajouter des rondelles d'ananas bien égouttées posées sur le dessus avant d'enfourner (ça fait joli et c'est moins sec).",
+    "Baisser le four à thermostat 6 au moment d'enfourner et laisser cuire 40 minutes."
+  ],
+  "image": []
+}

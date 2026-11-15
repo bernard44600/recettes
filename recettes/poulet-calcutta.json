@@ -1,0 +1,73 @@
+{
+  "titre": "Poulet calcutta",
+  "description": "Evelyne et Pioune, Grenoble. Accompagnement: riz au curry.",
+  "portions": 6,
+  "temps_preparation": "40 mn",
+  "temps_cuisson": "60 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Poulet",
+      "quantite": "1"
+    },
+    {
+      "nom": "Jus de citrons",
+      "quantite": "2"
+    },
+    {
+      "nom": "Oranges",
+      "quantite": "2"
+    },
+    {
+      "nom": "Crème",
+      "quantite": "1 cuillère à soupe"
+    },
+    {
+      "nom": "Jaune d'oeuf",
+      "quantite": "1"
+    },
+    {
+      "nom": "Curry",
+      "quantite": "1 cuillère à café"
+    },
+    {
+      "nom": "Gingembre",
+      "quantite": "en poudre ou une noix de gingembre frais émincé"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "3 cuillères à soupe"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "pour saupoudrer"
+    },
+    {
+      "nom": "Riz (pour l'accompagnement)",
+      "quantite": "1 verre pour 2 personnes"
+    },
+    {
+      "nom": "Curry (pour le riz)",
+      "quantite": "1 bouchon (format petit bocal)"
+    },
+    {
+      "nom": "Eau (pour le riz)",
+      "quantite": "2 doses pour 1 dose de riz"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Découpez le poulet en morceaux et mettre à mariner avec le jus de citron, le sel et le poivre.",
+    "Faire mijoter les morceaux marinés 40 mn dans le beurre.",
+    "Ajoutez les épices, les fruits et le sucre. Laissez cuire une heure à feu doux avec le couvercle, puis enlevez les morceaux de viande.",
+    "Ajoutez la crème et le jaune d'œuf à la sauce restante.",
+    "Pour le riz au curry: Mettre l'eau, le curry et le riz dans une sauteuse. Cuire tout doucement jusqu'à absorption complète de l'eau.",
+    "Servir le poulet nappé de sauce avec le riz."
+  ],
+  "image": []
+}

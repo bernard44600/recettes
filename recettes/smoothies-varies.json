@@ -1,0 +1,164 @@
+{
+  "slug": "smoothies-vari-s",
+  "titre": "Smoothies variés",
+  "description": "plusieurs recettes",
+  "categorie": [
+    "Dessert",
+    "boisson"
+  ],
+  "portions": "",
+  "temps_preparation": "5mn",
+  "temps_cuisson": "",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "=======",
+      "nom": "=== Fabubleu"
+    },
+    {
+      "quantite": "2/3",
+      "nom": "pommes pressées"
+    },
+    {
+      "quantite": "1/5",
+      "nom": "eau de coco"
+    },
+    {
+      "quantite": "1/10",
+      "nom": "raisins"
+    },
+    {
+      "quantite": "1/20",
+      "nom": "goyave blanche"
+    },
+    {
+      "quantite": "",
+      "nom": "citron vert"
+    },
+    {
+      "quantite": "",
+      "nom": "fruit de la passion"
+    },
+    {
+      "quantite": "=======",
+      "nom": "=== Concombre poire"
+    },
+    {
+      "quantite": "100g",
+      "nom": "concombre"
+    },
+    {
+      "quantite": "1/2",
+      "nom": "poire"
+    },
+    {
+      "quantite": "1",
+      "nom": "tige de persil"
+    },
+    {
+      "quantite": "100 ml",
+      "nom": "petit lait"
+    },
+    {
+      "quantite": "",
+      "nom": "Sel poivre"
+    },
+    {
+      "quantite": "=======",
+      "nom": "=== Banane poire"
+    },
+    {
+      "quantite": "1",
+      "nom": "banane"
+    },
+    {
+      "quantite": "1",
+      "nom": "poire"
+    },
+    {
+      "quantite": "1/2",
+      "nom": "citron"
+    },
+    {
+      "quantite": "150ml",
+      "nom": "eau"
+    },
+    {
+      "quantite": "1/2 c. à café",
+      "nom": "cannelle"
+    },
+    {
+      "quantite": "2c café",
+      "nom": "poudre d'amandes"
+    },
+    {
+      "quantite": "=======",
+      "nom": "=== Fromage blanc fraises"
+    },
+    {
+      "quantite": "125 g",
+      "nom": "fraises"
+    },
+    {
+      "quantite": "75 ml",
+      "nom": "jus de raisins"
+    },
+    {
+      "quantite": "100 g",
+      "nom": "fromage blanc"
+    },
+    {
+      "quantite": "1/2",
+      "nom": "citron"
+    },
+    {
+      "quantite": "1 CS",
+      "nom": "son de froment"
+    },
+    {
+      "quantite": "1cs",
+      "nom": "poudre amandes"
+    },
+    {
+      "quantite": "Un peu",
+      "nom": "sirop d'érable"
+    },
+    {
+      "quantite": "=======",
+      "nom": "=== Kiwi concombre"
+    },
+    {
+      "quantite": "- 1",
+      "nom": "kiwi"
+    },
+    {
+      "quantite": "- 125 g",
+      "nom": "concombre"
+    },
+    {
+      "quantite": "- 1 tige",
+      "nom": "menthe poivrée"
+    },
+    {
+      "quantite": "- 100 ml",
+      "nom": "jus de pomme"
+    },
+    {
+      "quantite": "=======",
+      "nom": "=== Banane Kiwi"
+    },
+    {
+      "quantite": "150 ml",
+      "nom": "jus d'orange"
+    },
+    {
+      "quantite": "1",
+      "nom": "kiwi"
+    },
+    {
+      "quantite": "1/2",
+      "nom": "banane"
+    }
+  ],
+  "etapes": []
+}

@@ -1,0 +1,35 @@
+{
+  "titre": "Mousse de yaourt au citron",
+  "description": "Dessert préparé par Manuel et Jennifer pour Noël 2021, léger, savoureux… un délice",
+  "portions": 6,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Yaourt nature bio",
+      "quantite": "500 g"
+    },
+    {
+      "nom": "Crème fraîche liquide entière bio",
+      "quantite": "25 cl"
+    },
+    {
+      "nom": "Sucre glace bio",
+      "quantite": "100 g"
+    },
+    {
+      "nom": "Citron bio",
+      "quantite": "1"
+    }
+  ],
+  "etapes": [
+    "Placez la crème, un saladier et les fouets du batteur au congélateur 10 mn environ. Fouettez ensuite la crème chantilly.",
+    "Brossez le citron sous un filet d’eau tiède. Séchez-le et prélevez son zeste au zesteur. Mélangez-en la moitié avec le sucre. Laissez macérer 15 mn.",
+    "Dans un saladier, mélangez le yaourt, le mélange sucre-zeste et un filet de jus de citron. Incorporez délicatement la chantilly en soulevant la préparation avec une maryse.",
+    "Répartissez la mousse de yaourt dans des verrines. Décorez-les de zestes de citron. Réservez au moins 2 heures au frais avant de servir."
+  ],
+  "image": []
+}

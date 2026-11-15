@@ -1,0 +1,59 @@
+{
+  "titre": "Gâteau invisible aux pommes",
+  "description": "Hyper simple, hyper léger, hyper bon 😉 cadeau de Sylvie Martin",
+  "portions": "6 à 8 pers",
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "35 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Pommes",
+      "quantite": "800 g"
+    },
+    {
+      "nom": "Œufs",
+      "quantite": "2"
+    },
+    {
+      "nom": "Lait",
+      "quantite": "10 cl"
+    },
+    {
+      "nom": "Farine",
+      "quantite": "70 g"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "50 g + 20 g fondu"
+    },
+    {
+      "nom": "Levure chimique",
+      "quantite": "1 sachet"
+    },
+    {
+      "nom": "Sucre vanillé",
+      "quantite": "1 sachet"
+    },
+    {
+      "nom": "Sel",
+      "quantite": "1 pincée"
+    },
+    {
+      "nom": "Sucre glace pour décoration",
+      "quantite": ""
+    }
+  ],
+  "etapes": [
+    "Mélangez la farine, le sel et la levure.",
+    "Battez les œufs et le sucre jusqu’à ce que le mélange mousse et blanchisse, puis ajoutez le beurre fondu, le lait et le sucre vanillé.",
+    "Fouettez à nouveau, ajoutez la farine mélangée tout en battant.",
+    "Pelez, épépinez et tranchez finement les pommes. Versez-les dans la pâte en les enfonçant sans les remuer pour qu’elles s’imbibent de la pâte.",
+    "Beurrez et farinez un moule. Versez-y le contenu du saladier aux pommes. Lissez bien mais délicatement avec le dos de la cuillère.",
+    "Mettre au four à 200°C durant 35 mn.",
+    "Laissez refroidir, démoulez et saupoudrer de sucre glace. Peut se manger tiède ou froid.",
+    "Le petit plus : Préparez une sauce au caramel pour napper le gâteau."
+  ],
+  "image": []
+}

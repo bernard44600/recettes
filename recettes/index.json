@@ -1,0 +1,3713 @@
+[
+  {
+    "slug": "araignee-et-tourteau",
+    "titre": "Araignée et tourteau",
+    "description": "Préparation de crabes (araignée et tourteau) bouillis pour une dégustation tiède.",
+    "categorie": [
+      "Plat",
+      "Fruit de mer"
+    ],
+    "portions": "1",
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "20 mn",
+    "image": "",
+    "ingredients_noms": [
+      "Araignée",
+      "Tourteau",
+      "Eau",
+      "Gros sel",
+      "Poivre",
+      "Oignon",
+      "Laurier",
+      "Thym",
+      "Mayonnaise ou aioli"
+    ]
+  },
+  {
+    "slug": "astuce-cuisson-des-tagliatelles-ou-autre-pates",
+    "titre": "Astuce: cuisson des tagliatelles ou autre pâtes",
+    "description": "Truc et astuce de Véro Guy février 2020. La matière grasse n'est pas utile.",
+    "portions": null,
+    "temps_preparation": "10 mn",
+    "temps_cuisson": "10 mn",
+    "categorie": [
+      "Astuces"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "tagliatelles ou autre pâtes",
+      "eau",
+      "sel"
+    ]
+  },
+  {
+    "slug": "bechamel-a-la-maizena",
+    "titre": "Bechamel à la maizena",
+    "description": "gout très différent mais utilisation proche (en 2026 nutritioniste)",
+    "portions": "",
+    "temps_preparation": "5mn",
+    "temps_cuisson": "",
+    "categorie": [
+      "sauce",
+      "regime"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "huile pépins de raisins - eau  - ou huile d’olive",
+      "maïzena",
+      "lait 1/2 écrémé",
+      "sel, poivre, muscade"
+    ]
+  },
+  {
+    "slug": "beignets-de-chou-fleur-aux-epices-sauce-yaourt",
+    "titre": "Beignets de chou-fleur aux épices, sauce yaourt",
+    "description": "Beignets de chou-fleur épicés accompagnés d'une sauce au yaourt, citron vert et coriandre.",
+    "portions": 4,
+    "temps_preparation": "30 mn",
+    "temps_cuisson": "30 mn",
+    "categorie": [
+      "Entrée",
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "chou fleur",
+      "oeufs",
+      "ail",
+      "échalotes",
+      "farine",
+      "cumin en poudre",
+      "curcuma",
+      "sel",
+      "poivre",
+      "huile pour friture",
+      "==== sauce ==",
+      "yaourt grec",
+      "coriandre",
+      "citrons verts (bio)",
+      "huile d'olive"
+    ]
+  },
+  {
+    "slug": "berniques-grillees",
+    "titre": "Berniques grillées",
+    "description": "Lieux : Sur les rochers près de Port Charlotte (10 mn de la maison), de Piriac et du Pouliguen il y en a plein. Ne pas les ramasser trop gros. Donc taille moyenne, elles sont plus tendres. À déguster chauds avec les copains de pêche et un coup de muscadet.",
+    "portions": null,
+    "temps_preparation": "30 mn",
+    "temps_cuisson": "10 mn",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "berniques",
+      "beurre 1/2 sel",
+      "ail",
+      "persil"
+    ]
+  },
+  {
+    "slug": "biscuit-amandes-banane",
+    "titre": "Biscuit amandes banane",
+    "description": "simple et bon",
+    "portions": "",
+    "temps_preparation": "15mn",
+    "temps_cuisson": "25mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "amandes en poudre",
+      "bananes",
+      "sirop d'érable"
+    ]
+  },
+  {
+    "slug": "blanquette-de-lotte",
+    "titre": "Blanquette de lotte",
+    "description": "Sylvie Martin, prise dans une recette du thermomix. Possibilité de mettre moitié cabillaud, moitié lotte. Ajouter une carotte pour que la couleur soit plus belle et sympa.",
+    "portions": 6,
+    "temps_preparation": "40 mn",
+    "temps_cuisson": "35 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "filet de lotte",
+      "oignon jaune",
+      "gousse d'ail",
+      "blancs de poireaux",
+      "vin blanc",
+      "cube fumet de poisson",
+      "eau",
+      "champignons de paris",
+      "crevettes cuites, décortiquées (surgelées)",
+      "crème fraîche épaisse (ou crème de soja)",
+      "maïzena",
+      "jus de citron",
+      "safran",
+      "ciboulette fraîche",
+      "carotte",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "blanquette-de-veau",
+    "titre": "Blanquette de veau",
+    "description": "Recette de Françoise Clémenceau, recette qu'elle considérait comme très simple. En accompagnement, servir du riz.",
+    "portions": 6,
+    "temps_preparation": "10 mn",
+    "temps_cuisson": "1h30 à 2h",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "blanquette de veau",
+      "farine",
+      "cube de bouillon de légumes",
+      "cube de bouillon de poule",
+      "carottes",
+      "oignon jaune",
+      "champignons de paris",
+      "crème fraîche",
+      "citron",
+      "jaune d'oeuf",
+      "vin blanc",
+      "beurre doux",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "blinis-sans-gluten",
+    "titre": "Blinis sans gluten",
+    "description": "Weta, Marie France Chapelin lors d'un sympathique apéro.",
+    "portions": 8,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "20 mn",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "yaourts nature",
+      "oeuf",
+      "farine (au total)",
+      "farine de sarrasin",
+      "farine de riz"
+    ]
+  },
+  {
+    "slug": "blinis-creme-acidulee-truite-fumee",
+    "titre": "Blinis, crème acidulée, truite fumée",
+    "description": "Sylvie, ma grande sœur, qui, au vue des recettes, s’éclate vraiment en cuisine …",
+    "portions": 4,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "20 mn",
+    "categorie": [
+      "Entrée"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "pommes de terre",
+      "œufs entiers",
+      "crème fraîche épaisse",
+      "cumin, noix de muscade",
+      "échalote",
+      "huile d’olive",
+      "ciboulette",
+      "jus de citron",
+      "tranches de truite fumée",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "bobun-recette-vietnamienne",
+    "titre": "Bobun, recette vietnamienne",
+    "description": "Recette de Virginie Pindeler, agréable l’été, possible l’hiver, un plaisir à déguster",
+    "portions": 4,
+    "temps_preparation": "30 mn",
+    "temps_cuisson": "5 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "viande à fondue (bœuf)",
+      "sauce d’huître",
+      "nuoc mam",
+      "oignon",
+      "vermicelle de riz",
+      "menthe fraîche",
+      "coriandre fraîche",
+      "bâtons de citronnelle",
+      "concombre",
+      "salade batavia",
+      "cacahuètes non salées",
+      "soja germé ou haricots mungo",
+      "arôme saveur maggie",
+      "vinaigre blanc",
+      "curry doux et piment chili",
+      "ail"
+    ]
+  },
+  {
+    "slug": "bortsch-et-pirojki",
+    "titre": "Bortsch et pirojki",
+    "description": "Soupe d’Europe centrale, betterave impérative pour la couleur; Prévoir du temps",
+    "portions": 6,
+    "temps_preparation": "40 mn",
+    "temps_cuisson": "2 heures 15 mn",
+    "categorie": [
+      "Soupe",
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "betteraves crues",
+      "céleri rave",
+      "petit chou",
+      "poireaux",
+      "tomates",
+      "macreuse de bœuf",
+      "crème épaisse",
+      "jus de citron",
+      "pour les pirojki :",
+      "champignons de paris",
+      "oignons",
+      "huile",
+      "œuf + 1 jaune",
+      "aneth",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "bottereaux-ou-merveilles",
+    "titre": "Bottereaux ou merveilles",
+    "description": "Dans les Landes, la tante Simone nous régalait de ses merveilleux bottereaux",
+    "portions": 4,
+    "temps_preparation": "3h30",
+    "temps_cuisson": "Frits",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "farine",
+      "sucre cristallisé",
+      "lait",
+      "œuf",
+      "beurre salé",
+      "levure de boulanger",
+      "eau de vie",
+      "eau tiède",
+      "====enrobage==",
+      "sucre cristallisé",
+      "huile pour friture"
+    ]
+  },
+  {
+    "slug": "boulettes-de-viande-pour-couscous",
+    "titre": "Boulettes de viande pour couscous",
+    "description": "Recette de Virginie Pindeler",
+    "portions": 6,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "15 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "chair à saucisse (mouton, veau)",
+      "viande hachée",
+      "œuf entier",
+      "persil, ail",
+      "chapelure (lait et pain de mie)",
+      "farine",
+      "bouillon de poule ou sauce de couscous",
+      "sel, poivre",
+      "épices : paprika, cumin, spignol, muscade, piment de cayenne, raz el hanout"
+    ]
+  },
+  {
+    "slug": "caillebotte",
+    "titre": "Caillebotte",
+    "description": "Spécialité du pays de retz au lait type panacotta",
+    "portions": 4,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "lait cru entier, frais de préference",
+      "caille brun (presure en pharmacie)",
+      "sucre"
+    ]
+  },
+  {
+    "slug": "cake",
+    "titre": "Cake",
+    "description": "Recette de Michèle Gouribon. Tenir compte du fait que la pâte double de volume en cuisant.",
+    "portions": 8,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "45 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "farine",
+      "sucre",
+      "matière grasse (beurre ou autre)",
+      "oeufs",
+      "levure",
+      "fruits confits ou raisins secs",
+      "sel"
+    ]
+  },
+  {
+    "slug": "cake-au-jambon",
+    "titre": "Cake au jambon",
+    "description": "Après sur une base de cake qui te plait tu peux mettre ce que tu veux : dés de feta, tomates séchées, olives.....",
+    "portions": 6,
+    "temps_preparation": "10 mn",
+    "temps_cuisson": "45 mn",
+    "categorie": [
+      "Entrée"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "oeufs",
+      "farine",
+      "huile",
+      "lait",
+      "jambon blanc",
+      "levure",
+      "sel"
+    ]
+  },
+  {
+    "slug": "canneles-bordelais",
+    "titre": "Cannelés bordelais",
+    "description": "Découverts à Bordeaux grâce à ma gourmande de Véro. Le cannelé doit avoir une croûte bien brune et un intérieur moelleux. Démoulez encore chaud.",
+    "portions": 8,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "65 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "lait",
+      "oeufs entiers",
+      "jaunes d'oeufs",
+      "gousse de vanille",
+      "rhum",
+      "farine",
+      "sucre",
+      "beurre",
+      "sel"
+    ]
+  },
+  {
+    "slug": "carbonade-flamande",
+    "titre": "Carbonade flamande",
+    "description": "Importée de Lille, recette du cru..... Bien l'hiver. Cuit et recuit le lendemain c'est encore meilleur.",
+    "portions": 6,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "75 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "viande de boeuf",
+      "bière ambrée jenlain (une bonne bière)",
+      "pain d'épices",
+      "herbes, ail, oignons",
+      "lardons (facultatif)",
+      "huile",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "carbonade-flamande-bien-lhiver",
+    "titre": "Carbonade flamande (bien l'hiver)",
+    "description": "Un ragoût de bœuf traditionnel à la bière et au pain d'épices.",
+    "portions": 6,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "60 mn",
+    "categorie": [
+      "Plat",
+      "Ragoût",
+      "Nord"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "viande de boeuf",
+      "bière jenlain",
+      "huile",
+      "sel",
+      "poivre",
+      "herbes",
+      "ail",
+      "oignons",
+      "pain d'épices",
+      "lardons"
+    ]
+  },
+  {
+    "slug": "chili-con-carne2",
+    "titre": "Chili con carne",
+    "description": "Classique tex-mex, rapide et épicé grâce au mélange El Paso",
+    "portions": 4,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "25 mn",
+    "categorie": [
+      "Plat",
+      "Viande"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "oignon",
+      "viande hachée (bœuf)",
+      "haricots rouges en boîte (4/4)",
+      "tomates en boîte (mutti ou autre)",
+      "mélange d'épices el paso pour chili",
+      "ail",
+      "sel, poivre",
+      "huile d'olive",
+      "persil frais (facultatif)"
+    ]
+  },
+  {
+    "slug": "chili-con-carne",
+    "titre": "Chili con carné.",
+    "description": "CVF 168",
+    "portions": "6-8",
+    "temps_preparation": "35 mn",
+    "temps_cuisson": "3h",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "bœuf maigre gitalanois tranche.",
+      "haricots rouges au naturel, en boîte.",
+      "2 oignons,",
+      "ail,",
+      "tomates concassées,",
+      "concentré de tomates,",
+      "chili,",
+      "piment en poudre,",
+      "graines de cumin,",
+      "origan séché,",
+      "chocolat,",
+      "bouillon de bœuf,",
+      "huile,",
+      "sel."
+    ]
+  },
+  {
+    "slug": "clafoutis",
+    "titre": "Clafoutis",
+    "description": "Le goût est meilleur avec les noyaux de cerises et ça demande moins de travail, mais le risque c'est de se casser une dent alors ça se discute ! Mettre à four chaud.",
+    "portions": 8,
+    "temps_preparation": "30 mn",
+    "temps_cuisson": "40 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "farine",
+      "sucre en poudre",
+      "sucre en poudre",
+      "oeuf",
+      "huile",
+      "lait",
+      "beurre",
+      "levure chimique",
+      "pommes ou cerises",
+      "sel"
+    ]
+  },
+  {
+    "slug": "cocktail-a-la-fraise",
+    "titre": "Cocktail à la fraise",
+    "description": "Emmanuelle, D.U. d'alcoologie. Apéro fraise bien sympa et frais quand on est un peu nombreux.",
+    "portions": 8,
+    "temps_preparation": "5 mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "liqueur de fraise ou sirop",
+      "mousseux",
+      "rosé"
+    ]
+  },
+  {
+    "slug": "cocos-de-paimpol-a-la-bretonne",
+    "titre": "Cocos de paimpol à la bretonne",
+    "description": "Après avoir épluché le sac de 10 kgs, cuisson façon Françoise, cocos trop bons….",
+    "portions": 4,
+    "temps_preparation": "65 mn",
+    "temps_cuisson": "45 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "grains de coco de paimpol",
+      "oignons émincés",
+      "bouillon de pot au feu",
+      "ail",
+      "échalotes",
+      "tomates fraîches",
+      "petit poivron vert",
+      "beurre, poivre, sel"
+    ]
+  },
+  {
+    "slug": "compot-e-de-pommes-ou-noix-caram-lis-es-",
+    "titre": "Compotée de pommes ou noix caramélisées.",
+    "description": "CVF 168",
+    "portions": "4",
+    "temps_preparation": "30",
+    "temps_cuisson": "15",
+    "categorie": [
+      "Entrée"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "8 pommes",
+      "noix",
+      "érable."
+    ]
+  },
+  {
+    "slug": "confiture-de-noah",
+    "titre": "Confiture de noah",
+    "description": "...",
+    "portions": "",
+    "temps_preparation": "10",
+    "temps_cuisson": "10",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "raisins",
+      "sucre par rapport aux fruits",
+      "citron"
+    ]
+  },
+  {
+    "slug": "couscous-anna",
+    "titre": "Couscous anna",
+    "description": "Cuisiné par Anna et son père lors d’une fête de fin de semestre chez Emmanuelle",
+    "portions": 8,
+    "temps_preparation": "long",
+    "temps_cuisson": "60 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "carottes",
+      "oignons",
+      "tomates",
+      "navets",
+      "courgettes",
+      "céleri",
+      "poivron rouge",
+      "coriandre",
+      "pois chiches (boîte 4/4)",
+      "huile d’olive",
+      "sel, poivre, piment doux, colorant alimentaire",
+      "viande d’agneau (épaule, poitrine, collier)",
+      "semoule de couscous fine"
+    ]
+  },
+  {
+    "slug": "couscous-de-cabillaud-au-lard",
+    "titre": "Couscous de cabillaud au lard.",
+    "description": "CVF fev mars 2016",
+    "portions": "4",
+    "temps_preparation": "40mn",
+    "temps_cuisson": "25mn",
+    "categorie": [],
+    "image": [
+      "couscous-de-cabillaud-au-lard.png"
+    ],
+    "ingredients_noms": [
+      "dos de cabillaud.",
+      "lard fumé",
+      "semoule moyenne.",
+      "carottes.",
+      "navets.",
+      "celeri-rave.",
+      "cresson.",
+      "tomate séché.",
+      "oignon.",
+      "ail.",
+      "bouillon de légumes",
+      "huile d'olive.",
+      "sel poivre"
+    ]
+  },
+  {
+    "slug": "couscous-k",
+    "titre": "Couscous-k",
+    "description": "kilometre-0",
+    "portions": "12",
+    "temps_preparation": "60mn",
+    "temps_cuisson": "2h",
+    "categorie": [],
+    "image": [],
+    "ingredients_noms": [
+      "poulets",
+      "merguez",
+      "potimaron",
+      "navets",
+      "carottes",
+      "courgettes",
+      "oignons",
+      "pois chiches",
+      "semoule fine",
+      "raisins secs",
+      "coriandre",
+      "raz el hanout",
+      "cannelle",
+      "piment",
+      "sucre de canne",
+      "huile"
+    ]
+  },
+  {
+    "slug": "croustade-aux-amandes",
+    "titre": "Croustade aux amandes",
+    "description": "Rapide bon et joli (recette de Valérie, Maman de Nino)",
+    "categorie": [
+      "Dessert"
+    ],
+    "portions": "",
+    "temps_preparation": "10mn",
+    "temps_cuisson": "30mn",
+    "image": [],
+    "ingredients_noms": [
+      "farine",
+      "Levure",
+      "crème fraîche",
+      "œufs",
+      "sucre",
+      "pour déco:",
+      "beurre",
+      "amandes effilées",
+      "sucre"
+    ]
+  },
+  {
+    "slug": "crousti-moelleux-aux-framboises",
+    "titre": "Crousti moelleux aux framboises",
+    "description": "Par Françoise Clémenceau, dans un super moule offert par Baptiste pour Noël 2021",
+    "portions": "4 à 6 pers",
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "35-40 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [
+      "crousti-moelleux-aux-framboises.jpg"
+    ],
+    "ingredients_noms": [
+      "beurre",
+      "sucre",
+      "flocons d’avoine (ou spéculoos écrasés)",
+      "œufs",
+      "framboises (fraîches ou surgelées)",
+      "mascarpone",
+      "amandes mondées pour décoration"
+    ]
+  },
+  {
+    "slug": "crumble-de-butternut-au-marron",
+    "titre": "Crumble de butternut au marron",
+    "description": "Cvf numéro 172 novembre 2016",
+    "portions": "",
+    "temps_preparation": "15mn",
+    "temps_cuisson": "20mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "courge butternut",
+      "marron au naturel en bocal ou boîte",
+      "parmesan râpé",
+      "oignon",
+      "farine",
+      "beurre",
+      "sel poivre"
+    ]
+  },
+  {
+    "slug": "crumble-a-lananas",
+    "titre": "Crumble à l'ananas",
+    "description": "C.V.F. n° 75 janv-fév 2001. Fait la première fois pour Sylvie et Patrice, ils ont aimé. Sortez du four, laissez tiédir et servez accompagné d'une jatte de crème fraîche. Le conseil de C.V.F: Si vous voulez un dessert plutôt consistant, ajoutez 3 bananes coupées en rondelles sur la compote d'ananas avant de répartir la pâte.",
+    "portions": 6,
+    "temps_preparation": "30 mn",
+    "temps_cuisson": "1h10",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "ananas",
+      "oranges",
+      "sucre en poudre",
+      "gousses de vanille",
+      "sucre roux (pour la pâte)",
+      "beurre",
+      "amandes en poudre (pour la pâte)",
+      "farine (pour la pâte)",
+      "cannelle en poudre (pour la pâte)"
+    ]
+  },
+  {
+    "slug": "cuisson-araignee-et-tourteau",
+    "titre": "Cuisson araignée et tourteau",
+    "description": "La chair de l'araignée est beaucoup plus fine que celle du tourteau. Choisir une femelle quand on peut aussi (plus pleine en général). Manger TIÈDE comme la plupart des crustacés, bien meilleur au goût que le froid tue. Prévoir du temps et de l'outillage.",
+    "portions": null,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "15-20 mn",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "araignée ou tourteau",
+      "gros sel, poivre",
+      "oignon coupé",
+      "bouquet garni",
+      "mayonnaise ou aïoli maison"
+    ]
+  },
+  {
+    "slug": "cuisson-crustaces-bigorneaux",
+    "titre": "Cuisson crustacés: bigorneaux....",
+    "description": "Les bigorneaux foisonnent sur les rochers de Piriac à la pointe du Castelli ou sur les rochers du Croisic, en plus il y a plein de berniques donc on fait d'une pierre deux coups.",
+    "portions": null,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "5 mn",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "bigorneaux",
+      "sel",
+      "poivre",
+      "persil",
+      "oignon",
+      "une feuille de laurier",
+      "pain et beurre demi sel"
+    ]
+  },
+  {
+    "slug": "dal-de-lentilles",
+    "titre": "Dal de lentilles",
+    "description": "Recette offerte par Emilie lors de son mariage avec Julien. Astuce: même procédé si tu veux faire une recette en ajoutant des oignons ou autre, la proportion est toujours identique : 1 dose de lentilles pour 2 doses d'eau.",
+    "portions": 4,
+    "temps_preparation": "10 mn",
+    "temps_cuisson": "10 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "lentilles corail",
+      "gingembre râpé frais",
+      "coriandre en poudre",
+      "cumin",
+      "coriandre frais",
+      "ghee (beurre clarifié)",
+      "sel"
+    ]
+  },
+  {
+    "slug": "delice-au-citron",
+    "titre": "Délice au citron",
+    "description": "Recette de Monique Morin, copine à Mamie Denise. Le mieux est de le faire la veille (le dessert est déjà préparé, ça de moins à faire le jour J). Démoulez juste avant de servir, pas trop tôt car le gâteau s'affaisse et dégouline.",
+    "portions": 8,
+    "temps_preparation": "30 mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "lait concentré sucré nestlé",
+      "citrons verts bio",
+      "citrons jaunes bio",
+      "biscuits à la cuillère",
+      "sucre",
+      "eau",
+      "optionnel pour le décor: fruits frais et coulis de framboise ou fraise"
+    ]
+  },
+  {
+    "slug": "emince-de-poulet-mogador",
+    "titre": "Emincé de poulet mogador",
+    "description": "Marie Pierre, encensée par Manuel, devenue au fil du temps son plat d'anniversaire. Servir avec du riz nature.",
+    "portions": 8,
+    "temps_preparation": "40 mn",
+    "temps_cuisson": "45 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "blanc de poulet",
+      "pois gourmands (plats en forme de lune) ou petits pois surgelés",
+      "grosses oranges",
+      "bananes",
+      "pomme",
+      "racine de gingembre frais",
+      "amandes effilées",
+      "pincée de safran",
+      "lait de coco",
+      "jus d'orange",
+      "citron (jus)",
+      "sucre en poudre",
+      "maïzena",
+      "huile",
+      "beurre",
+      "sel, poivre en grains et poivre fin ou du moulin"
+    ]
+  },
+  {
+    "slug": "entremet-proteines",
+    "titre": "Entremet protéiné",
+    "description": "Pdj complet protéiné. Environ 25g de protéine ; 5g de fibres ; 200kcal",
+    "portions": "1",
+    "temps_preparation": "15mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Plat",
+      "regime"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "fromage blanc (7d protéines, calcium)",
+      "poudre de protéines de lait (ou riz, pois ...) (8 g prot)",
+      "banane écrasée (fibres, potassium)",
+      "graines de chia (fibres , oméga3)",
+      "parfum ..."
+    ]
+  },
+  {
+    "slug": "far-aux-pommes-ou-fruits-rouges",
+    "titre": "Far aux pommes (et variante fruits rouges)",
+    "description": "Far moelleux aux pommes, avec une variante aux fruits rouges (framboises et myrtilles)",
+    "portions": 6,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "45-50 mn",
+    "categorie": [
+      "Dessert",
+      "Gâteau"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "pommes (pour la version pommes)",
+      "sucre de canne complet",
+      "beurre",
+      "œufs",
+      "sucre vanillé",
+      "farine",
+      "lait entier",
+      "rhum",
+      "variante fruits rouges : framboises",
+      "variante fruits rouges : myrtilles",
+      "variante fruits rouges : œufs",
+      "variante fruits rouges : sucre de canne",
+      "variante fruits rouges : vanille en poudre",
+      "variante fruits rouges : farine",
+      "variante fruits rouges : lait entier"
+    ]
+  },
+  {
+    "slug": "far-breton",
+    "titre": "Far breton",
+    "description": "Sylvie Martin. Le plus important est de respecter la variation de chaleur du four, c'est ce qui fait la qualité du far.",
+    "portions": 6,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "45 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "farine",
+      "sucre",
+      "oeufs",
+      "lait",
+      "sucre vanillé",
+      "beurre demi-sel",
+      "pruneaux (optionnel)",
+      "sel"
+    ]
+  },
+  {
+    "slug": "far-sarrasin-aux-pruneaux",
+    "titre": "Far breton aux pruneaux et sarrasin",
+    "description": "Variante du far breton avec de la farine de sarrasin, moelleux et parfumé",
+    "portions": 6,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "60 mn (2 x 30 mn)",
+    "categorie": [
+      "Dessert",
+      "Gâteau"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "pruneaux dénoyautés",
+      "œufs",
+      "sucre vanillé",
+      "farine t110 (ou t65)",
+      "farine de sarrasin",
+      "lait entier",
+      "beurre"
+    ]
+  },
+  {
+    "slug": "fayonnaise-mayo-haricots",
+    "titre": "Fayonnaise (mayo haricots)",
+    "description": "kilometre-0  une mayonnaise végétale ne comprenant que des produits très qualitatifs (huiles notamment) et des haricots blancs, qu’on devrait mettre plus souvent à nos menus car ils sont riches en calcium (120 mg pour 100 g).",
+    "portions": "4",
+    "temps_preparation": "5mn",
+    "temps_cuisson": "0",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "haricots blancs cuits",
+      "huile de colza",
+      "huile d'olive",
+      "moutarde",
+      "vinaigre",
+      "echalotte (facultative)"
+    ]
+  },
+  {
+    "slug": "filet-mignon-et-sa-creme-au-cidre",
+    "titre": "Filet mignon et sa crème au cidre",
+    "description": "Filet mignon de porc mariné et accompagné d'une sauce crémeuse au cidre, pommes et carottes.",
+    "portions": 4,
+    "temps_preparation": "30 mn",
+    "temps_cuisson": "15 mn",
+    "categorie": [
+      "Plat",
+      "Viande"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "filet mignon de porc",
+      "jeunes carottes",
+      "pommes",
+      "beurre",
+      "échalote",
+      "moutarde à l'ancienne",
+      "crème fraîche semi épaisse",
+      "cidre brut",
+      "huile d'olive",
+      "persil plat",
+      "paprika",
+      "sel",
+      "poivre"
+    ]
+  },
+  {
+    "slug": "filet-mignon-seche",
+    "titre": "Filet mignon séché",
+    "description": "Michèle Poliautre. À déguster à l'apéro attention attendre 3 semaines à 1 mois. Possibilité de faire la même chose avec un magret de canard. Super bon.",
+    "portions": 8,
+    "temps_preparation": "5 mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "filet mignon",
+      "gros sel",
+      "torchons propres",
+      "poivre ou paprika ou piment d'espelette ou thym..."
+    ]
+  },
+  {
+    "slug": "financiers-citron-pavot",
+    "titre": "Financiers citron pavot",
+    "description": "Emilie, laboratoire. Démouler les financiers sur une grille et laisser refroidir.",
+    "portions": 6,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "15 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "sucre",
+      "blancs d'oeufs",
+      "farine",
+      "poudre d'amande",
+      "beurre",
+      "citron confit",
+      "graines de pavot",
+      "jus de citron",
+      "miel",
+      "sel"
+    ]
+  },
+  {
+    "slug": "foie-gras-la-cuisson-au-micro-ondes",
+    "titre": "Foie gras : la cuisson au micro-ondes",
+    "description": "Technique qui permet de faire cuire le foie gras rapidement",
+    "portions": 4,
+    "temps_preparation": "10 mn",
+    "temps_cuisson": "15 mn",
+    "categorie": [
+      "Entrée",
+      "Gastronomie"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "lobe de foie",
+      "sel",
+      "poivre blanc",
+      "cognac",
+      "lait",
+      "terrine"
+    ]
+  },
+  {
+    "slug": "foie-gras-et-son-baba",
+    "titre": "Foie gras et son b.a.b.a",
+    "description": "Recette de Catherine, pour la dégustation se fier à Jérémy 'c'est une tuerie'. Conservez au réfrigérateur et consommez dans les 2 mois qui suivent.",
+    "portions": 6,
+    "temps_preparation": "10 mn",
+    "temps_cuisson": "30 mn",
+    "categorie": [
+      "Entrée"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "lobe de foie",
+      "sel",
+      "poivre blanc",
+      "cognac (ou armagnac, cherry, porto, sauternes...)",
+      "lait (ou eau salée)",
+      "terrine"
+    ]
+  },
+  {
+    "slug": "foie-gras-mi-cuit",
+    "titre": "Foie gras mi-cuit",
+    "description": "José San Millan, atelier d'un soir avec Edith.",
+    "portions": 6,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "30 mn",
+    "categorie": [
+      "Entrée"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "foie gras",
+      "armagnac",
+      "terrine",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "fondant-au-chocolat-variante-micro-ondes",
+    "titre": "Fondant au chocolat - variante micro-ondes",
+    "description": "Recette ultra rapide apprise par un infirmier de gastro.",
+    "portions": 6,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "5 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "chocolat",
+      "eau",
+      "beurre",
+      "sucre",
+      "farine",
+      "oeufs"
+    ]
+  },
+  {
+    "slug": "fondant-au-chocolat-et-sa-variante",
+    "titre": "Fondant au chocolat et sa variante",
+    "description": "Fait et refait et toujours aimé. Choix entre la méthode de préparation de papa ou celle de maman. Faire reposer 5 minutes à la fin.",
+    "portions": 6,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "15 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "chocolat noir à cuire",
+      "sucre",
+      "farine",
+      "beurre",
+      "sucre vanillé",
+      "oeufs",
+      "moule à manqué beurré"
+    ]
+  },
+  {
+    "slug": "fondue-savoyarde",
+    "titre": "Fondue savoyarde",
+    "description": "À Grenoble, curieusement donnée par des nantais Monique et Etienne. Le roquefort est le petit plus qui donne le goût.",
+    "portions": 2,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "10 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "emmental",
+      "comté",
+      "roquefort",
+      "vin blanc",
+      "maïzena",
+      "kirsch",
+      "poivre, noix de muscade"
+    ]
+  },
+  {
+    "slug": "fondue-savoyarde-variante-pour-5-personnes",
+    "titre": "Fondue savoyarde - variante pour 5 personnes",
+    "description": "Proportions adaptées pour une tablée de 5 convives.",
+    "portions": 5,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "10 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "emmental",
+      "comté",
+      "roquefort",
+      "vin blanc",
+      "maïzena",
+      "kirsch",
+      "noix de muscade et poivre"
+    ]
+  },
+  {
+    "slug": "galettes-de-sarrasin",
+    "titre": "Galettes de sarrasin",
+    "description": "recette jacqueline et recette KRAMPOUZ",
+    "portions": "",
+    "temps_preparation": "20mn",
+    "temps_cuisson": "",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "recette krampouz pour 15 galettes",
+      "farine de sarrasin,",
+      "farine de froment,",
+      "gros sel,",
+      "oeuf",
+      "eau eau filtrée de préférence.",
+      "lait",
+      "==== variante jacqueline",
+      "sarrasin",
+      "oeuf",
+      "gros sel",
+      "eau",
+      "lait"
+    ]
+  },
+  {
+    "slug": "gateau-a-lorange",
+    "titre": "Gateau a l'orange",
+    "description": "Mamie Jeannette. Tu choisis tes fruits: parce qu'on peut le faire aussi avec 3 citrons à la place des oranges. Astuce: 5 oeufs peuvent suffire.",
+    "portions": 8,
+    "temps_preparation": "60 mn",
+    "temps_cuisson": "45 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "oranges bio entières (ou 3 citrons)",
+      "poudre d'amande",
+      "sucre en poudre",
+      "oeufs entiers",
+      "levure"
+    ]
+  },
+  {
+    "slug": "gateau-de-semoule-ricotta-et-citron",
+    "titre": "Gateau de semoule ricotta et citron",
+    "description": "kilometre-0 Le gâteau de semoule, c’est toujours économique et facile à faire. En plus, la semoule cuit en quelques minutes ce qui permet de ne pas tourner trop longtemps la préparation",
+    "portions": "6",
+    "temps_preparation": "15",
+    "temps_cuisson": "60mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [
+      "gateau-de-semoule-ricotta-et-citron.png"
+    ],
+    "ingredients_noms": [
+      "semoule fine",
+      "sucre vanillé",
+      "lait entier",
+      "oeufs",
+      "ricotta",
+      "citron"
+    ]
+  },
+  {
+    "slug": "gaufres",
+    "titre": "Gaufres",
+    "description": "Recette de Sylvie ma grande soeur. Mettez dans une bouteille et conservez au réfrigérateur si la quantité est trop importante pour une fois. Sylvie garde cette pâte 2-3 jours sans problèmes intestinaux.",
+    "portions": 4,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "10 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "oeufs",
+      "lait",
+      "farine",
+      "levure",
+      "sucre vanillé",
+      "beurre"
+    ]
+  },
+  {
+    "slug": "gelee-de-baies-de-sureau",
+    "titre": "Gelée de baies de sureau",
+    "description": "Gelée de baies de sureau noir, à la fois fruitée et légèrement tannique. Réalisée avec de l'agar-agar pour une prise naturelle.",
+    "portions": "",
+    "temps_preparation": "20",
+    "temps_cuisson": "15",
+    "categorie": [
+      "Dessert",
+      "confiture"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "baies de sureau noir (pour obtenir 1 l de jus)",
+      "sucre en poudre (par litre de jus)",
+      "agar-agar (par litre de jus)"
+    ]
+  },
+  {
+    "slug": "gelee-de-sureau",
+    "titre": "Gelée de sureau",
+    "description": "Gelée parfumée aux fleurs de sureau, au goût de loukoum à la rose. Une recette de Marie Jeanne (2023), réalisée avec de l'agar-agar pour une prise ferme sans pectine.",
+    "portions": "",
+    "temps_preparation": "15",
+    "temps_cuisson": "10",
+    "categorie": [
+      "Dessert",
+      "confiture"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "ombelles de fleurs de sureau fraîches",
+      "citron jaune bio (en rondelles)",
+      "eau (pour l'infusion)",
+      "sucre en poudre",
+      "agar-agar"
+    ]
+  },
+  {
+    "slug": "gigot-a-la-cuillere",
+    "titre": "Gigot à la cuillère",
+    "description": "C.V.F. Avec un bouquet garni, et la 'tuerie' les échalotes confites... miam, miam. Vous n'aurez pas besoin de couteau pour le découper, la viande est si tendre qu'elle se sert à la cuillère. Vous pouvez mener la cuisson en 2 fois.",
+    "portions": 8,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "7 heures",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "gigot",
+      "carottes",
+      "branche de céleri",
+      "échalotes longues (ou ovales)",
+      "oignons",
+      "rhum brun",
+      "vin blanc sec",
+      "fond de veau en poudre",
+      "bouquet garni",
+      "optionnel selon les régions",
+      "beurre",
+      "huile",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "gratin-de-pomme",
+    "titre": "Gratin de pommes",
+    "description": "Un dessert simple et réconfortant, parfait pour l'hiver.",
+    "portions": 4,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "30 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "pommes",
+      "sucre",
+      "cannelle",
+      "beurre"
+    ]
+  },
+  {
+    "slug": "gravlax-de-saumon",
+    "titre": "Gravlax de saumon",
+    "description": "Recette scandinave signifiant 'saumon enterré'. À préparer deux jours avant.",
+    "portions": 8,
+    "temps_preparation": "30mn+",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Entrée"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "pavés de saumon épais avec la peau",
+      "sucre",
+      "gros sel de mer",
+      "aneth",
+      "poivre concassé",
+      "mayonnaise",
+      "savora (moutarde)",
+      "yaourt bulgare",
+      "curry",
+      "poivre blanc, sel"
+    ]
+  },
+  {
+    "slug": "guacamole",
+    "titre": "Guacamole",
+    "description": "Recette offerte par Emilie, sympa car pas besoin de sachet tout préparé. Dans l'urgence tu peux prendre un sachet de préparation du commerce, j'y ajoute quelques gouttes de tabasco.",
+    "portions": 6,
+    "temps_preparation": "10 mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "avocat bien mûr",
+      "piment de cayenne",
+      "paprika",
+      "ail semoule",
+      "gingembre moulu",
+      "citron",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "gateau-au-fromage-blanc",
+    "titre": "Gâteau au fromage blanc",
+    "description": "Recette pour faire plaisir à papa qui adore les tourteaux fromagers, mais moins bon.",
+    "portions": 6,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "1h15",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "fromage blanc à 0%",
+      "oeufs",
+      "sucre",
+      "essence de vanille",
+      "citrons (pour le zeste)",
+      "farine",
+      "raisins de corinthe",
+      "huile"
+    ]
+  },
+  {
+    "slug": "gateau-au-yaourt",
+    "titre": "Gâteau au yaourt",
+    "description": "Une relique, mon premier gâteau quand j'ai commencé à inviter des copains à dîner. Je ne pouvais pas ne pas le mettre même s'il n'est pas extraordinaire. Alors parfois il est un peu sec ce gâteau.",
+    "portions": 6,
+    "temps_preparation": "10 mn",
+    "temps_cuisson": "40 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "yaourt nature",
+      "sucre",
+      "oeufs",
+      "farine",
+      "huile",
+      "levure",
+      "rondelles d'ananas bien égouttées (astuce anti-dessèchement)"
+    ]
+  },
+  {
+    "slug": "gateau-breton",
+    "titre": "Gâteau breton",
+    "description": "Anne Marie, maman de Cathy, femme de Dom, sympathique journée à Moëlan été 2021",
+    "portions": 8,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "45 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "beurre demi-sel très mou",
+      "sucre",
+      "farine",
+      "œuf entier + 5 jaunes",
+      "eau de fleur d’oranger",
+      "sucre vanillé",
+      "pour dorer : 1 jaune d'œuf, 1 c. à café de lait, ½ c. à café de sucre"
+    ]
+  },
+  {
+    "slug": "gateau-citrons-meringue",
+    "titre": "Gâteau citrons meringue",
+    "description": "Fanny quand elle passait ses vacances à s’occuper de Jérémy et Manuel l’été",
+    "portions": 6,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "10+5 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "pâte sablée",
+      "œufs",
+      "lait concentré sucré",
+      "citrons",
+      "sucre glace"
+    ]
+  },
+  {
+    "slug": "gateau-invisible-aux-pommes",
+    "titre": "Gâteau invisible aux pommes",
+    "description": "Hyper simple, hyper léger, hyper bon 😉 cadeau de Sylvie Martin",
+    "portions": "6 à 8 pers",
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "35 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "pommes",
+      "œufs",
+      "lait",
+      "farine",
+      "sucre",
+      "levure chimique",
+      "sucre vanillé",
+      "sel",
+      "sucre glace pour décoration"
+    ]
+  },
+  {
+    "slug": "gateau-nantais-2",
+    "titre": "Gâteau nantais",
+    "description": "recette de Francoise",
+    "portions": "",
+    "temps_preparation": "20mn",
+    "temps_cuisson": "40mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "sucre",
+      "farine",
+      "liqueur de rhum",
+      "beurre 1/2 sel",
+      "amandes en poudre",
+      "œufs",
+      "==== glacage",
+      "liqueur de rhum",
+      "sucre glace"
+    ]
+  },
+  {
+    "slug": "gateau-nantais",
+    "titre": "Gâteau nantais",
+    "description": "Découvert grâce un technicien du labo très gourmand, décrit aussi dans C.V.F. n° 148",
+    "portions": 4,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "40 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "sucre glace",
+      "sucre en poudre",
+      "poudre d’amandes",
+      "farine",
+      "beurre mou",
+      "œufs",
+      "sel",
+      "rhum brun"
+    ]
+  },
+  {
+    "slug": "hoummous",
+    "titre": "Hoummous",
+    "description": "Hannan, copine palestinienne à papa. Le plus facile pour le préparer est de le mixer avec le couteau, pas facile à écraser à la main.",
+    "portions": 6,
+    "temps_preparation": "10 mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "pois chiche",
+      "huile d'olive",
+      "ail",
+      "purée de sésame (tahin)",
+      "jus de citron",
+      "sel"
+    ]
+  },
+  {
+    "slug": "kig-a-farz",
+    "titre": "Kig-a-farz",
+    "description": "Recette de Maryvonne (Marymoune) maman de Claire. Nécessite d'avoir deux fait-tout et de la main-d'œuvre.",
+    "portions": 10,
+    "temps_preparation": "60 mn",
+    "temps_cuisson": null,
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "poireaux",
+      "carottes",
+      "chou vert",
+      "lard salé",
+      "farine de froment",
+      "farine de sarrasin",
+      "oignons",
+      "beurre",
+      "raisins secs"
+    ]
+  },
+  {
+    "slug": "koulibiac-de-saumon-au-beurre-blanc",
+    "titre": "Koulibiac de saumon au beurre blanc",
+    "description": "À nouveau…Sylvie, ma grande sœur, pour le plaisir de ses invités et de René",
+    "portions": 4,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "30 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [
+      "koulibiac-de-saumon-au-beurre-blanc.jpg"
+    ],
+    "ingredients_noms": [
+      "saumon sans peau",
+      "riz basmati cuit et froid",
+      "champignons de paris",
+      "beurre",
+      "oignon jaune",
+      "œufs durs",
+      "persil haché",
+      "aneth ciselée",
+      "pâte feuilletée",
+      "échalote pour sauce",
+      "vin blanc",
+      "jus de citron jaune",
+      "sel fin, poivre"
+    ]
+  },
+  {
+    "slug": "lapin-a-la-moutarde",
+    "titre": "Lapin à la moutarde",
+    "description": "Grenoble 1986 Pierre et Agnès place Notre Dame. Vachtement bon... Se prépare à l'avance.",
+    "portions": 6,
+    "temps_preparation": "12 à 24h",
+    "temps_cuisson": "30 mn par livre",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "lapin entier non découpé",
+      "moutarde",
+      "lanières de lard",
+      "gousses d'ail",
+      "jaune d'oeuf (pour la sauce)",
+      "moutarde (pour la sauce)",
+      "crème fraîche (pour la sauce)",
+      "jus de citron (pour la sauce)",
+      "sel et poivre"
+    ]
+  },
+  {
+    "slug": "les-bulots",
+    "titre": "Les bulots",
+    "description": "Ne pas les faire cuire trop longtemps sinon ils risquent de durcir et c'est moins bon, d'ailleurs c'est peut être pour cela que beaucoup de gens n'aiment pas les bulots. \"Bien cuits\" et avec une bonne mayonnaise maison c'est excellent.",
+    "portions": null,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "10 mn",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "les bulots",
+      "gros sel",
+      "mayonnaise maison"
+    ]
+  },
+  {
+    "slug": "les-bulots-et-les-rigadeaux-ou-coques",
+    "titre": "Les bulots et les rigadeaux ou coques",
+    "description": "Recette de préparation de mollusques marins accompagnés d'une mayonnaise maison.",
+    "portions": 1,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "10 mn",
+    "categorie": [
+      "Entrée",
+      "Fruit de mer"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "bulots",
+      "gros sel",
+      "rigadeaux ou coques",
+      "mayonnaise maison"
+    ]
+  },
+  {
+    "slug": "les-crevettes-grises-ou-boucaux",
+    "titre": "Les crevettes grises ou \"boucaux\"",
+    "description": "Elles peuvent être pêchées avec un aveneau ou dans des creux de rochers. Tout dépend de l'endroit où nous sommes. Langage oral du coin.",
+    "portions": null,
+    "temps_preparation": "5 mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "crevettes grises (et aussi crevettes roses)",
+      "sel",
+      "poivre"
+    ]
+  },
+  {
+    "slug": "les-crustaces-bigorneaux",
+    "titre": "Les crustacés : bigorneaux....",
+    "description": "Une préparation simple de bigorneaux cuits à l'eau et servis sur du pain beurré.",
+    "portions": 1,
+    "temps_preparation": "5 mn",
+    "temps_cuisson": "20 mn",
+    "categorie": [
+      "Entrée",
+      "Fruit de mer"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "sel",
+      "poivre",
+      "persil",
+      "oignon",
+      "laurier",
+      "pain",
+      "beurre demi sel"
+    ]
+  },
+  {
+    "slug": "les-galettes-davoine",
+    "titre": "Les galettes d'avoine",
+    "description": "Recette rapportée de l'école par Manuel, qui s'est empressé de les faire.",
+    "portions": 4,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "10 mn",
+    "categorie": [
+      "Entrée"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "farine ordinaire (bio ou pas)",
+      "sel",
+      "bicarbonate de soude alimentaire",
+      "yaourt nature ou babeurre",
+      "huile de cuisine",
+      "eau"
+    ]
+  },
+  {
+    "slug": "macaron",
+    "titre": "Macaron",
+    "description": "Cvf numéro 172 novembre 2016",
+    "portions": "",
+    "temps_preparation": "15mn",
+    "temps_cuisson": "25mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "sachet de 125 g de poudre d'amande ou noisette",
+      "sucre roux",
+      "œuf entier et un demi blanc",
+      "sel"
+    ]
+  },
+  {
+    "slug": "smoothies",
+    "titre": "Macaron",
+    "description": "Cvf numéro 172 novembre 2016",
+    "portions": "",
+    "temps_preparation": "15mn",
+    "temps_cuisson": "25mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "sachet de 125 g de poudre d'amande ou noisette",
+      "sucre roux",
+      "œuf entier et un demi blanc",
+      "sel"
+    ]
+  },
+  {
+    "slug": "madeleines",
+    "titre": "Madeleines",
+    "description": "C.V.F n° 135. Les madeleines ne sont jamais aussi bonnes que tièdes... Préparer à la dernière minute. N'ouvrez pas la porte du four pendant les 5 premières minutes de cuisson pour laisser la pâte gonfler.",
+    "portions": 8,
+    "temps_preparation": "40 mn",
+    "temps_cuisson": "10 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "farine",
+      "beurre",
+      "oeufs",
+      "lait entier",
+      "sucre",
+      "miel liquide",
+      "levure chimique",
+      "sel"
+    ]
+  },
+  {
+    "slug": "mayonnaise-au-fromage-blanc-sans-huile-",
+    "titre": "Mayonnaise au fromage blanc (sans huile)",
+    "description": "gout très différent mais utilisation proche (en 2026 nutritioniste)",
+    "portions": "",
+    "temps_preparation": "5mn",
+    "temps_cuisson": "",
+    "categorie": [
+      "sauce",
+      "regime"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "jaune d’oeuf",
+      "moutarde",
+      "huile d’olive ou colza",
+      "fromage blanc 0%",
+      "jus de citron,",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "mousse-au-chocolat",
+    "titre": "Mousse au chocolat",
+    "description": "Recette toujours appréciée. Pour la présentation tu peux la mettre soit directement dans un joli saladier ou dans des petites coupelles unitaires pour chaque invité. Servez très frais.",
+    "portions": 6,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "3h frigo",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "chocolat dessert noir",
+      "oeufs",
+      "sel",
+      "café bien fort (le petit plus au choix)",
+      "gingembre (le petit plus au choix)"
+    ]
+  },
+  {
+    "slug": "mousse-de-thon-amicale-laique-variante-rillettes",
+    "titre": "Mousse de thon (amicale laïque) - variante rillettes",
+    "description": "Et si toi ou tes invités aimez les poivrons tu peux ajouter un demi poivron jaune coupé en tout petits dés. Ça fait une jolie couleur.",
+    "portions": 6,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "fromage blanc",
+      "thon à l'huile",
+      "citron",
+      "estragon",
+      "poivre"
+    ]
+  },
+  {
+    "slug": "mousse-de-thon-autre-variante-beurre-et-menthe",
+    "titre": "Mousse de thon - autre variante (beurre et menthe)",
+    "description": "Une version plus riche et très fraîche.",
+    "portions": 6,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "thon",
+      "beurre mou 'en pommade'",
+      "menthe",
+      "citron",
+      "saler et poivrer"
+    ]
+  },
+  {
+    "slug": "mousse-de-yaourt-au-citron",
+    "titre": "Mousse de yaourt au citron",
+    "description": "Dessert préparé par Manuel et Jennifer pour Noël 2021, léger, savoureux… un délice",
+    "portions": 6,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "yaourt nature bio",
+      "crème fraîche liquide entière bio",
+      "sucre glace bio",
+      "citron bio"
+    ]
+  },
+  {
+    "slug": "nems",
+    "titre": "Nems",
+    "description": "Recette d'une grand-mère vietnamienne à Grenoble. Moins gras à cuire au four et on peut tous les mettre en une fois, moins fatiguant.",
+    "portions": 5,
+    "temps_preparation": "40 mn",
+    "temps_cuisson": "15 mn",
+    "categorie": [
+      "Entrée"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "porc ou poisson blanc",
+      "crevettes (petites)",
+      "crabe",
+      "champignons noirs",
+      "soja",
+      "oignon",
+      "vermicelle chinois",
+      "carotte (facultative)",
+      "oeuf",
+      "estragon",
+      "persil chinois (coriandre en fait)",
+      "menthe fraîche",
+      "farine",
+      "feuille de riz (des petites en quarts)",
+      "eau caramélisée",
+      "huile",
+      "accompagnement: concombre, coriandre, menthe, et feuilles de laitue"
+    ]
+  },
+  {
+    "slug": "oeufs-sur-le-plat-tahin-et-petits-pois",
+    "titre": "Oeufs sur le plat tahin et petits pois",
+    "description": "kilometre-0",
+    "portions": "2",
+    "temps_preparation": "20mn",
+    "temps_cuisson": "10mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [
+      "oeufs-sur-le-plat-tahin-et-petits-pois.png"
+    ],
+    "ingredients_noms": [
+      "petits pois",
+      "oignons nouveaux",
+      "oeufs",
+      "tahin (creme de sésame)",
+      "citron",
+      "aneth"
+    ]
+  },
+  {
+    "slug": "pain-d-avoine-stef",
+    "titre": "Pain d'avoine",
+    "description": "mai 2026 , cousinade, une recette de Stephanie   Sans gluten",
+    "portions": "",
+    "temps_preparation": "5mn",
+    "temps_cuisson": "40mn",
+    "categorie": [
+      "Pain "
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "flocons d'avoine",
+      "oeufs",
+      "skyr",
+      "levure chimique",
+      "noisettes",
+      "graines de tournesol",
+      "graines de chia"
+    ]
+  },
+  {
+    "slug": "pain-depices",
+    "titre": "Pain d'épices",
+    "description": "Spécialité de Manuel qui le préparait très consciencieusement en pilant chaque épice. À la fin de la cuisson, pour décoller le pain d'épice, tremper un couteau dans l'eau chaude.",
+    "portions": 8,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "60 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "farine",
+      "sachet de levure chimique",
+      "lait",
+      "cassonade",
+      "miel",
+      "beurre",
+      "anis étoilé",
+      "cannelle",
+      "cardamome",
+      "noix de muscade",
+      "clou de girofle",
+      "sel"
+    ]
+  },
+  {
+    "slug": "pain-a-la-remoska",
+    "titre": "Pain à la remoska",
+    "description": "Pain mi-blé mi-seigle, cuit dans une Remoska (four électrique tchèque). Pâte fermentée longuement pour un goût authentique et une mie alvéolée.",
+    "portions": "1 pain",
+    "temps_preparation": "20",
+    "temps_cuisson": "45",
+    "categorie": [
+      "pain",
+      "plat principal"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "farine de blé",
+      "farine de seigle",
+      "eau (tiède)",
+      "levure de boulanger (fraîche ou sèche)",
+      "sel",
+      "huile d'olive",
+      "sucre",
+      "lait (pour la dorure)"
+    ]
+  },
+  {
+    "slug": "pains-pour-aperitif",
+    "titre": "Pains pour apéritif",
+    "description": "Cousinade 2026",
+    "portions": "",
+    "temps_preparation": "15",
+    "temps_cuisson": "45",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "pate brisée",
+      "échalottes",
+      "gruyere rapé",
+      "allumettes de lardon fumé",
+      "raisins secs",
+      "chapelure (ou 2 biscottes écrasées)",
+      "oeufs",
+      "noix"
+    ]
+  },
+  {
+    "slug": "panna-cotta",
+    "titre": "Panna cotta",
+    "description": "Sylvie Martin, ma copine de marche, elle m’a dit “facile”...",
+    "portions": 4,
+    "temps_preparation": "24 h (repos)",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "crème fleurette",
+      "sucre",
+      "lait",
+      "gousse de vanille (ou sucre vanillé)",
+      "feuilles de gélatine (ou agar-agar)"
+    ]
+  },
+  {
+    "slug": "paella",
+    "titre": "Paëlla",
+    "description": "Recette de Fanny, simple et sympa. C'est prêt après 45 minutes de cuisson alternée.",
+    "portions": 6,
+    "temps_preparation": "10 mn",
+    "temps_cuisson": "45 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "riz",
+      "safran",
+      "tomates",
+      "gros oignon",
+      "poivron",
+      "huile d'olive",
+      "fruits de mer surgelés",
+      "chorizo"
+    ]
+  },
+  {
+    "slug": "perles-de-vinaigre-balsamique",
+    "titre": "Perles de vinaigre balsamique",
+    "description": "Caviar végétal de vinaigre balsamique : des perles gélifiées à l'agar-agar qui éclatent en bouche. Parfaites pour décorer et relever plats de viande, fromages ou desserts. Variantes avec jus de fruits sauce soje, verjus",
+    "portions": "",
+    "temps_preparation": "10",
+    "temps_cuisson": "5",
+    "categorie": [
+      "accompagnement",
+      "sauce",
+      "aperitif"
+    ],
+    "image": [
+      "perles-de-vinaigre-balsamique.png"
+    ],
+    "ingredients_noms": [
+      "vinaigre balsamique",
+      "agar-agar (environ 2% du volume de liquide)",
+      "huile d'olive (très froide, pour le bain de formation)"
+    ]
+  },
+  {
+    "slug": "pesto",
+    "titre": "Pesto",
+    "description": "Par Bernard, l’été, quand le basilic nous titille les narines et étouffe le citronnier",
+    "portions": 3,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "sauce"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "basilic",
+      "pignons (ou noix)",
+      "parmesan râpé",
+      "huile d’olive",
+      "ail",
+      "sel, poivre",
+      "jus de citron"
+    ]
+  },
+  {
+    "slug": "petits-bouchons-au-thon",
+    "titre": "Petits bouchons au thon",
+    "description": "Recette de Christelle. Garnissez les empreintes (petits moules) au 2/3 de cette préparation car cela gonfle un peu.",
+    "portions": 20,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "20 mn",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "thon égoutté",
+      "oignons",
+      "concentré de tomates",
+      "crème fraîche épaisse",
+      "gruyère",
+      "oeufs",
+      "persil plat",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "pickles-d-oignon-rouge",
+    "titre": "Pickles d'oignon rouge",
+    "description": "Pour déguster avec salade et viande",
+    "portions": "",
+    "temps_preparation": "10mn",
+    "temps_cuisson": "",
+    "categorie": [
+      "condiment",
+      "salade"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "oignon rouge",
+      "vinaigre blanc",
+      "vinaigre de cidre",
+      "sel",
+      "sucre roux",
+      "eau",
+      "condiment au choix poivre vert rose badiane"
+    ]
+  },
+  {
+    "slug": "pie-de-confit-de-canard-aux-navets",
+    "titre": "Pie de confit de canard aux navets",
+    "description": "Même pour qui n’aime pas vraiment les navets, ça passe très bien avec le canard.",
+    "portions": 4,
+    "temps_preparation": "40 mn",
+    "temps_cuisson": "55 mn",
+    "categorie": [
+      "Plat",
+      "tarte"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "pâte feuilletée",
+      "navets boules (ou boule d’or)",
+      "cuisses de confit de canard (en boîte)",
+      "carotte",
+      "oignon",
+      "jaune d’œuf",
+      "beurre",
+      "miel liquide",
+      "cerfeuil",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "poivrons-marines",
+    "titre": "Poivrons marinés",
+    "description": "Recette de Claudie. Soit faut aimer les poivrons, mais pour qui aime les poivrons, c'est très bon.",
+    "portions": 6,
+    "temps_preparation": "30 mn",
+    "temps_cuisson": "20 mn",
+    "categorie": [
+      "Entrée"
+    ],
+    "image": [
+      "poivrons-marines-2.png",
+      "poivrons-marines.png"
+    ],
+    "ingredients_noms": [
+      "poivrons (2 rouges, 2 verts, 2 jaunes)",
+      "gousses d'ail",
+      "thym",
+      "vinaigre de xérès",
+      "huile d'olive",
+      "sucre",
+      "sel"
+    ]
+  },
+  {
+    "slug": "pommes-dauphines",
+    "titre": "Pommes dauphine",
+    "description": "Spécialité de Jeannette, rituel des Noël Clavier lors des grandes tablées",
+    "portions": 3,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "35 mn",
+    "categorie": [
+      "accompagnement"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "pommes de terre à purée (bintje)",
+      "beurre",
+      "farine",
+      "œufs",
+      "huile pour friture",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "porc-a-l-ananas-sauce-aigre-douce",
+    "titre": "Porc à l’ananas à la sauce aigre douce",
+    "description": "2015, Recette de Manuel, le gourmand gourmet",
+    "portions": 4,
+    "temps_preparation": "45 mn",
+    "temps_cuisson": "15 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "viande de porc",
+      "vinaigre blanc",
+      "sauce tomates",
+      "poivron rouge",
+      "poivron vert",
+      "oignon jaune",
+      "carottes",
+      "ananas en conserve (sans sucre ajouté)",
+      "farine",
+      "sucre",
+      "sauce huître",
+      "sauce de soja",
+      "branches de céleri",
+      "fécule de maïs",
+      "huile d’arachide et d’olive"
+    ]
+  },
+  {
+    "slug": "pot-au-feu-de-saint-jacques",
+    "titre": "Pot-au-feu de saint-jacques",
+    "description": "Plat mer et terre, avec un super équilibre entre gout de crustacés et viande",
+    "portions": "",
+    "temps_preparation": "20mn",
+    "temps_cuisson": "1h",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "poireaux",
+      "carottes",
+      "champignons frais ou boîte",
+      "lardons fumé",
+      "noix saint-jacques surgelé",
+      "cognac",
+      "crème fraîche épaisse"
+    ]
+  },
+  {
+    "slug": "potage-proteine",
+    "titre": "Potage protéiné",
+    "description": "Recette protéinée (source IA) type KrissLaure",
+    "portions": "",
+    "temps_preparation": "15",
+    "temps_cuisson": "20",
+    "categorie": [],
+    "image": [],
+    "ingredients_noms": [
+      "lentilles corail cuites (10g proteines, fer)",
+      "carottes (vita, fibres)",
+      "poireaux (vitk, fibres)",
+      "lait de coco léger (onctuosité, graisse)",
+      "bouillon de légume hydratation, minéraux)",
+      "curcuma + poivre (anti-inflamatoire)",
+      "levure maltée (gout et vitb)"
+    ]
+  },
+  {
+    "slug": "poulet-au-caramel",
+    "titre": "Poulet au caramel",
+    "description": "Retour du voyage en Nouvelle Calédonie chez Michèle, la sœur de mamie Jeannette",
+    "portions": 6,
+    "temps_preparation": "40 mn",
+    "temps_cuisson": "30 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "poulet (hauts de cuisses et cuisses)",
+      "oignons jaunes",
+      "sucre semoule",
+      "nuoc mam",
+      "sauce soja ou tamari",
+      "vinaigre d’alcool",
+      "petits oignons verts ou ciboulette",
+      "poivre",
+      "pour le rougail :",
+      "huile d’olive",
+      "tomates",
+      "ail",
+      "cive ou ciboulette",
+      "coriandre fraîche",
+      "jus de citron vert",
+      "piments oiseaux hachés"
+    ]
+  },
+  {
+    "slug": "poulet-calcutta",
+    "titre": "Poulet calcutta",
+    "description": "Evelyne et Pioune, Grenoble. Accompagnement: riz au curry.",
+    "portions": 6,
+    "temps_preparation": "40 mn",
+    "temps_cuisson": "60 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "poulet",
+      "jus de citrons",
+      "oranges",
+      "crème",
+      "jaune d'oeuf",
+      "curry",
+      "gingembre",
+      "beurre",
+      "sucre",
+      "riz (pour l'accompagnement)",
+      "curry (pour le riz)",
+      "eau (pour le riz)",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "poulet-roti",
+    "titre": "Poulet rôti aux herbes",
+    "description": "Un grand classique familial, croustillant à l'extérieur et tendre à l'intérieur.",
+    "portions": 4,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "1h 20 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "poulet fermier",
+      "ail",
+      "thym frais",
+      "huile d'olive",
+      "pommes de terre"
+    ]
+  },
+  {
+    "slug": "presse-de-pommes-de-terre-et-sardines",
+    "titre": "Pressé de pommes de terre et sardines",
+    "description": "Surprenant, très apprécié des wetistes à Esparron de Verdon en 2021  C.V.F. n°202",
+    "portions": 4,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "24 heures (repos)",
+    "categorie": [
+      "Entrée"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "pommes de terre à chair ferme",
+      "échalotes",
+      "thym frais",
+      "sardines à l’huile",
+      "ail",
+      "persil",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "pates-aux-courgettes-et-amandes-sauce-chaude-au-chevre",
+    "titre": "Pâtes aux courgettes et aux amandes, sauce chaude au chèvre",
+    "description": "",
+    "portions": 4,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "15 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "tagliatelles (fraîches c’est mieux)",
+      "petites courgettes",
+      "poudre d’amandes",
+      "chèvre frais",
+      "crème liquide",
+      "huile d’olive",
+      "ail",
+      "piment d’espelette, sel"
+    ]
+  },
+  {
+    "slug": "pate-de-poissons",
+    "titre": "Pâté de poissons",
+    "description": "Agnès Bocchino Grenoble, voisine du dessus, simple et chic.",
+    "portions": 8,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "45 mn",
+    "categorie": [
+      "Entrée"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "différents poissons (cabillaud, lotte, lieu noir ...ou autres)",
+      "tomates",
+      "oeufs",
+      "sauce: mélangez cognac, mayonnaise, crevettes décortiquées, ketch-up ou concentré de tomates",
+      "assaisonnement"
+    ]
+  },
+  {
+    "slug": "pate-vegetal",
+    "titre": "Pâté végétal",
+    "description": "'Les meilleures recettes végétariennes du monde entier' Mireille Ballero 1978. Il peut se conserver quelques jours au réfrigérateur.",
+    "portions": 8,
+    "temps_preparation": "10 mn",
+    "temps_cuisson": "15 mn",
+    "categorie": [
+      "Entrée"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "pain complet rassis",
+      "gros oignons",
+      "ail",
+      "graisse végétale",
+      "levure en poudre ou en paillettes (maltée)",
+      "poudre de basilic",
+      "eau chaude",
+      "olives noires et feuilles de menthe",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "pate-vegetal-variantes-carottes-tomate",
+    "titre": "Pâté végétal - variantes (carottes / tomate)",
+    "description": "Variantes proposées pour modifier le goût et la couleur du pâté végétal.",
+    "portions": 8,
+    "temps_preparation": "10 mn",
+    "temps_cuisson": "15 mn",
+    "categorie": [
+      "Entrée"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "carottes (pour variante aux carottes)",
+      "épices de remplacement (muscade, coriandre, thym, romarin, marjolaine, laurier)",
+      "concentré de tomates (pour variante à la tomate)"
+    ]
+  },
+  {
+    "slug": "recettes-de-rhubarbe",
+    "titre": "Recettes de rhubarbe",
+    "description": "quelques exemples",
+    "portions": "",
+    "temps_preparation": "",
+    "temps_cuisson": "",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "rhubarbe"
+    ]
+  },
+  {
+    "slug": "repas-proteine",
+    "titre": "Repas proteine",
+    "description": "Repas complet protéiné. Environ 35g de protéine ; 10g de fibres ; 400kcal",
+    "portions": "1",
+    "temps_preparation": "15mn",
+    "temps_cuisson": "20mn",
+    "categorie": [
+      "Plat",
+      "regime"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "quinoa cuit (4g prot, fibres)",
+      "blanc de poulet (25g prot)",
+      "brocoli cuit (vitc fibres)",
+      "avocat (graisses, vite)",
+      "graines de courge (magn, zinc)",
+      "sauce : yaourt grec+citron"
+    ]
+  },
+  {
+    "slug": "rigadeaux-ou-coques",
+    "titre": "Rigadeaux ou coques",
+    "description": "On en trouve plage Benoit à la Baule. Y a qu'à se baisser. C'est très bon dans des pâtes fraîches.",
+    "portions": null,
+    "temps_preparation": "24 h",
+    "temps_cuisson": null,
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "rigadeaux ou coques",
+      "eau"
+    ]
+  },
+  {
+    "slug": "rillette-de-thon-b",
+    "titre": "Rillette de thon b",
+    "description": "Une alternative plus classique des rillettes.",
+    "portions": 6,
+    "temps_preparation": "10 mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "thon",
+      "échalotes",
+      "moutarde forte",
+      "mayonnaise"
+    ]
+  },
+  {
+    "slug": "rillettes-de-thon-a",
+    "titre": "Rillettes de thon 1",
+    "description": "Manuel, Evelyne et peut-être d'autres. À consommer sans modération.",
+    "portions": 6,
+    "temps_preparation": "10 mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "thon",
+      "boursin ou tartare",
+      "vinaigre balsamique",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "rillette-de-thon-c",
+    "titre": "Rillettes de thon c",
+    "description": "Rue cuvier, à la fête du 'haricot' chacun faisait ses amuses gueules. En voici un. A consommer sans modération.",
+    "portions": 6,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "thon",
+      "échalote",
+      "moutarde",
+      "mayonnaise",
+      "poivre"
+    ]
+  },
+  {
+    "slug": "rillettes-de-thon-d",
+    "titre": "Rillettes de thon d",
+    "description": "Amuse-gueule savoureux à base de thon, facile à tartiner.",
+    "portions": 6,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Apéro",
+      "Entrée"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "thon",
+      "échalote",
+      "moutarde",
+      "mayonnaise",
+      "poivre"
+    ]
+  },
+  {
+    "slug": "riz-au-lait",
+    "titre": "Riz au lait",
+    "description": "Recette de Régine, un week-end d'Escales. Laisser absorber tout le lait en fin de cuisson.",
+    "portions": 8,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "60 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "riz rond",
+      "lait",
+      "gousse de vanille",
+      "sucre"
+    ]
+  },
+  {
+    "slug": "rochers-congolais",
+    "titre": "Rochers congolais",
+    "description": "Recette de Marie, Esi, préparation pour le voyage d'études au Sénégal. Ça fait une boule assez compacte.",
+    "portions": 6,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "10 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [
+      "rochers-congolais.png"
+    ],
+    "ingredients_noms": [
+      "sucre",
+      "noix de coco râpée",
+      "farine",
+      "oeuf"
+    ]
+  },
+  {
+    "slug": "sables-thym-citron",
+    "titre": "Sablés thym-citron",
+    "description": "Emilie laboratoire. Pour accompagner un thé, ou en dessert avec une bonne glace à la vanille ou comme ça pour le plaisir. Résistez à la tentation de les laisser dorer, ils seraient plus jolis, mais trop secs.",
+    "portions": 6,
+    "temps_preparation": "1h15",
+    "temps_cuisson": "10 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "farine",
+      "sucre glace",
+      "amandes en poudre",
+      "citrons bio",
+      "thym frais effeuillé",
+      "beurre demi-sel",
+      "oeuf"
+    ]
+  },
+  {
+    "slug": "sables-a-la-creme-fraiche",
+    "titre": "Sablés à la crème fraîche",
+    "description": "Cadeau de Claire et Jéry, appréciés pour leur légèreté et les formes sympathiques",
+    "portions": "x pers",
+    "temps_preparation": "du temps",
+    "temps_cuisson": "10 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "farine",
+      "beurre",
+      "sucre",
+      "crème fraîche épaisse",
+      "levure chimique",
+      "sucre vanillé",
+      "jaune d’œuf",
+      "zeste de citron non traité",
+      "confiture au choix"
+    ]
+  },
+  {
+    "slug": "salade-bonne-mine",
+    "titre": "Salade bonne mine",
+    "description": "CVF 168",
+    "portions": "4",
+    "temps_preparation": "20",
+    "temps_cuisson": "15",
+    "categorie": [
+      "Entrée"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "potimarron",
+      "quinoa",
+      "fromage de brebis type ossoirati.",
+      "vinaigre",
+      "3 cs d’huile d’olive.",
+      "1 echalote",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "salade-de-pois-chiches",
+    "titre": "Salade de pois chiches",
+    "description": "Salade relevée et parfumée, idéale en accompagnement ou en plat léger",
+    "portions": 4,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "0 mn (si pois chiches en boîte)",
+    "categorie": [
+      "Salade",
+      "Accompagnement"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "pois chiches (cuits ou en boîte)",
+      "persil frais",
+      "cumin moulu",
+      "oignon blanc",
+      "gomasio (sésame grillé + sel)",
+      "cive ou ciboulette",
+      "ail",
+      "huile d'olive",
+      "jus de citron",
+      "tamari (sauce soja)",
+      "sel (fleur de sel de préférence), poivre",
+      "5 épices (facultatif)"
+    ]
+  },
+  {
+    "slug": "sala_quinoa",
+    "titre": "Salade de quinoa arc-en-ciel",
+    "description": "Une salade fraîche et complète, idéale pour l'été.",
+    "portions": 2,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "12 mn",
+    "categorie": [
+      "Entrée",
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "quinoa",
+      "poivron rouge",
+      "concombre",
+      "feta",
+      "jus de citron"
+    ]
+  },
+  {
+    "slug": "semoule-au-lait",
+    "titre": "Semoule au lait",
+    "description": "dd",
+    "portions": "6-8",
+    "temps_preparation": "10",
+    "temps_cuisson": "10",
+    "categorie": [],
+    "image": [],
+    "ingredients_noms": [
+      "semoule de blé fine ou de semoule de riz",
+      "sucre",
+      "lait",
+      "fleur d'oranger et/ou de rhum ou gousse de vanille",
+      "sel"
+    ]
+  },
+  {
+    "slug": "smoothie-aux-fruits-rouges",
+    "titre": "Smoothie aux fruits rouges",
+    "description": "Smoothie",
+    "portions": "",
+    "temps_preparation": "",
+    "temps_cuisson": "",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "framboise",
+      "mûres",
+      "myrtilles",
+      "une banane",
+      "eau gazeuse",
+      "miel"
+    ]
+  },
+  {
+    "slug": "smoothie-pomme-concombre-menthe",
+    "titre": "Smoothie pomme concombre menthe",
+    "description": "Smoothie avec les produits du jardin",
+    "portions": "",
+    "temps_preparation": "",
+    "temps_cuisson": "",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "pommes vertes",
+      "concombre",
+      "jus de citron",
+      "menthe fraîches",
+      "eau gazeuse",
+      "crème fraîche",
+      "glaçons"
+    ]
+  },
+  {
+    "slug": "smoothie-vert",
+    "titre": "Smoothie vert énergie",
+    "description": "Un smoothie vitaminé pour bien commencer la journée.",
+    "portions": 1,
+    "temps_preparation": "5 mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "boisson",
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "épinards frais",
+      "banane",
+      "kiwi",
+      "lait d'amande",
+      "graines de chia"
+    ]
+  },
+  {
+    "slug": "smoothies-varies",
+    "titre": "Smoothies variés",
+    "description": "plusieurs recettes",
+    "portions": "",
+    "temps_preparation": "5mn",
+    "temps_cuisson": "",
+    "categorie": [
+      "Dessert",
+      "boisson"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "=== fabubleu",
+      "pommes pressées",
+      "eau de coco",
+      "raisins",
+      "goyave blanche",
+      "citron vert",
+      "fruit de la passion",
+      "=== concombre poire",
+      "concombre",
+      "poire",
+      "tige de persil",
+      "petit lait",
+      "sel poivre",
+      "=== banane poire",
+      "banane",
+      "poire",
+      "citron",
+      "eau",
+      "cannelle",
+      "poudre d'amandes",
+      "=== fromage blanc fraises",
+      "fraises",
+      "jus de raisins",
+      "fromage blanc",
+      "citron",
+      "son de froment",
+      "poudre amandes",
+      "sirop d'érable",
+      "=== kiwi concombre",
+      "kiwi",
+      "concombre",
+      "menthe poivrée",
+      "jus de pomme",
+      "=== banane kiwi",
+      "jus d'orange",
+      "kiwi",
+      "banane"
+    ]
+  },
+  {
+    "slug": "socca-nicoise",
+    "titre": "Socca nicoise",
+    "description": "Chips de pois chiche",
+    "portions": "",
+    "temps_preparation": "",
+    "temps_cuisson": "",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "farine de pois chiches",
+      "sel",
+      "eau",
+      "huile d'olive"
+    ]
+  },
+  {
+    "slug": "solianka",
+    "titre": "Solianka (soupe russe)",
+    "description": "Une des références de la cuisine russe, facile à préparer et extrêmement savoureuse.",
+    "portions": 4,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "25 mn",
+    "categorie": [
+      "Soupe",
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "viande de bœuf cuite (ou porc, poisson)",
+      "saucisses fumées",
+      "bouillon",
+      "cornichons",
+      "chou fermenté",
+      "sauce tomate",
+      "huile d’olive (ou 4 olives)",
+      "câpres (ou huile de câpre)",
+      "feuille de laurier",
+      "oignon",
+      "sel, poivre, huile, persil, poivron"
+    ]
+  },
+  {
+    "slug": "souffle-aux-deux-fromages",
+    "titre": "Soufflé aux deux fromages",
+    "description": "Un grand classique. Utiliser un fouet aide à ne pas faire de grumeaux.",
+    "portions": 4,
+    "temps_preparation": "30 mn",
+    "temps_cuisson": "20 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "beurre",
+      "farine",
+      "lait",
+      "oeufs",
+      "gruyère râpé",
+      "parmesan",
+      "noix de muscade râpée",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "soupe-a-la-tomate",
+    "titre": "Soupe a la tomate",
+    "description": "Facile, une boîte de tomates, une ou deux patates ou cheveux d'ange.",
+    "portions": 4,
+    "temps_preparation": "10 mn",
+    "temps_cuisson": "10 mn",
+    "categorie": [
+      "Soupe"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "tomates naturelles ou 1 boite de 4/4",
+      "pommes de terre",
+      "oignons",
+      "eau",
+      "cheveux d'ange (pâtes en vermicelles)",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "soupe-angevine",
+    "titre": "Soupe angevine",
+    "description": "Recette de Manuel, la cousine Nicole aussi la fait. Vraiment pratique quand on est nombreux. Important pour que ça soit meilleur : Stocker les ingrédients au réfrigérateur.",
+    "portions": 8,
+    "temps_preparation": "10 mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "mousseux",
+      "jus de citron (ou pulco)",
+      "sirop de sucre de canne",
+      "triple sec, cointreau ou grand marnier"
+    ]
+  },
+  {
+    "slug": "soupe-aux-crabes-verts",
+    "titre": "Soupe aux crabes verts",
+    "description": "Recette de Tonton Michel. Pendant les pêches à pied, ramasser les crabes verts dans les baignoires entre les rochers. Les mettre au congélateur dans un sachet en plastique. Quand on en a suffisamment, penser à faire une soupe.",
+    "portions": null,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "15 mn",
+    "categorie": [
+      "Soupe"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "crabes",
+      "oignons",
+      "carottes",
+      "ail",
+      "bouquet garni",
+      "concentré de tomate",
+      "piments de cayenne",
+      "huile d'olive",
+      "poivre",
+      "riz ou blé",
+      "safran et croûtons aillés",
+      "rouille (mayonnaise + safran + ail pilé)",
+      "sel"
+    ]
+  },
+  {
+    "slug": "soupe-froide-au-consombre",
+    "titre": "Soupe froide au concombre",
+    "description": "Faites maintes fois l’été, facile d’exécution, bonne à déguster, sympa à partager",
+    "portions": 11,
+    "temps_preparation": "10 mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Entrée",
+      "Soupe"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "concombres",
+      "tomates",
+      "yaourts grecs ou veloutés",
+      "estragon ou cerfeuil",
+      "tabasco",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "soupe-thaie-a-le-truite",
+    "titre": "Soupe thaïe à la truite",
+    "description": "Plusieurs fois testée, avec truite ou rougets, légère et savoureuse CVF n°202",
+    "portions": 4,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "25 mn",
+    "categorie": [
+      "Soupe"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "filets de truite (ou rougets)",
+      "lait de coco",
+      "oignon rouge",
+      "échalote",
+      "piment vert",
+      "citron vert",
+      "bouillon de légumes",
+      "tige de citronnelle",
+      "gingembre frais",
+      "curcuma",
+      "curry en poudre",
+      "coriandre fraîche",
+      "huile d’olive",
+      "sauce nuoc-mâm"
+    ]
+  },
+  {
+    "slug": "soupe-creme-de-champignons-aux-noix",
+    "titre": "Soupe: crème de champignons aux noix",
+    "description": "Référence C.V.F 'les soupes', faite plusieurs fois toujours autant appréciée. Servez bien chaud.",
+    "portions": 4,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "15 mn",
+    "categorie": [
+      "Soupe"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "champignons de paris",
+      "cèpes frais",
+      "echalotes",
+      "cerneaux de noix",
+      "tablettes de bouillon de volaille",
+      "crème fraîche épaisse",
+      "beurre",
+      "huile de noix",
+      "sel, poivre du moulin"
+    ]
+  },
+  {
+    "slug": "suite-du-foie-gras-la-cuisson-au-micro-ondes",
+    "titre": "Suite du foie gras: la cuisson au micro-ondes",
+    "description": "Technique qui permet de faire cuire le foie gras rapidement. Consommez dans les 2 semaines qui suivent la préparation ou mettez au congélateur pour le ressortir plus tard.",
+    "portions": 4,
+    "temps_preparation": "10 mn",
+    "temps_cuisson": "15 mn",
+    "categorie": [
+      "Entrée"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "lobe de foie",
+      "sel",
+      "poivre blanc",
+      "cognac (ou autre alcool)",
+      "lait pour dégorger",
+      "terrine"
+    ]
+  },
+  {
+    "slug": "sushis-de-legumes",
+    "titre": "Sushis de légumes",
+    "description": "Ustensile trouvé avec Odile sur le marché de Pornichet. Les préparer prend du temps, à plusieurs c'est plus rigolo.",
+    "portions": 6,
+    "temps_preparation": "40 mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "courgettes, carottes, radis, pommes, poires",
+      "piques à olives / piques en bois",
+      "persil plat ou ciboulette",
+      "nuoc mam",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "taboule",
+    "titre": "Taboulé",
+    "description": "Taboulé frais aux herbes et tomates, sans cuisson de la semoule (repos au frais)",
+    "portions": 4,
+    "temps_preparation": "30 mn",
+    "temps_cuisson": "0 mn (repos : une nuit)",
+    "categorie": [
+      "Salade",
+      "Entrée"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "semoule (ou boulgour)",
+      "persil frais",
+      "menthe fraîche",
+      "oignons blancs (ou rouges)",
+      "tomates",
+      "concombre (facultatif, bio)",
+      "raisins secs (facultatif)",
+      "huile d'olive",
+      "jus de citron",
+      "sel, poivre",
+      "cumin moulu",
+      "piment d'espelette (facultatif)"
+    ]
+  },
+  {
+    "slug": "tajine-7-legumes",
+    "titre": "Tajine 7 légumes",
+    "description": "C.V.F. n° 87 2002 faite, refaite et on la refera. Quand tu fais ça avec un plat à tajine, tu n'es pas obligé de le mettre au four et tu fais tout dans le même plat (sauf le bouillon). C'est pratique.",
+    "portions": 5,
+    "temps_preparation": "30 mn",
+    "temps_cuisson": "60 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "oignons frais",
+      "gros oignons",
+      "tomates",
+      "carottes",
+      "courgettes",
+      "coco plats",
+      "blettes (cardes)",
+      "navets",
+      "huile d'olive",
+      "tablettes de bouillon de volaille",
+      "raz-el-hanout",
+      "graines de cumin",
+      "menthe",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "tajine-de-poulet-aux-pruneaux",
+    "titre": "Tajine de poulet aux pruneaux",
+    "description": "Noël 2020 avec Jérémy, Claire, Manuel, Jennifer et Bernard. C.V.F n° 102. J'ai mis le double de pruneaux, c'était pas mal. Variations: Sur cette base mijotez d'autres tajines en remplaçant les pruneaux par des dattes, figues ou abricots secs. Servez très chaud.",
+    "portions": 6,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "55 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "poulet fermier coupé en morceaux",
+      "pruneaux dénoyautés",
+      "amandes non mondées (sans peau)",
+      "oignons",
+      "miel liquide (type miel d'acacia)",
+      "jus de citron",
+      "poudre de cumin",
+      "poudre de cannelle",
+      "poudre de coriandre",
+      "graines de sésame",
+      "huile",
+      "brins de coriandre",
+      "eau chaude",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "tarte-au-maroilles",
+    "titre": "Tarte au maroilles",
+    "description": "Aimer le nord, se balader dans le vieux Lille et faire un raid chez un fromager",
+    "portions": 4,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "35 mn",
+    "categorie": [
+      "Plat",
+      "tarte"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "pâte feuilletée",
+      "maroilles",
+      "crème fraîche épaisse",
+      "œufs",
+      "sel, poivre, noix muscade râpée"
+    ]
+  },
+  {
+    "slug": "tarte-au-thon",
+    "titre": "Tarte au thon",
+    "description": "Par ma grande sœur Sylvie,",
+    "portions": 6,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "40 mn",
+    "categorie": [
+      "Plat",
+      "tarte"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "pâte brisée",
+      "thon en boîte",
+      "persil",
+      "ail",
+      "œufs",
+      "crème fraîche (ou crème de soja)",
+      "tomates",
+      "gruyère râpé"
+    ]
+  },
+  {
+    "slug": "tarte-legume",
+    "titre": "Tarte aux légumes du soleil",
+    "description": "Une tarte colorée et savoureuse, parfaite pour un pique-nique.",
+    "portions": 6,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "35 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "pâte brisée",
+      "courgette",
+      "tomate",
+      "oignon rouge",
+      "crème fraîche",
+      "œufs"
+    ]
+  },
+  {
+    "slug": "tarte-citrons-amandes",
+    "titre": "Tarte citrons amandes",
+    "description": "Vieille recette d'une copine d'école Michèle Gouribon. Servir frais.",
+    "portions": 6,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "40 mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "fond de tarte sablée",
+      "sucre",
+      "oeufs",
+      "citrons bio",
+      "amandes effilées",
+      "beurre",
+      "crème fraîche",
+      "sel"
+    ]
+  },
+  {
+    "slug": "tarte-rhubarbe",
+    "titre": "Tarte rhubarbe",
+    "description": "tarte classique",
+    "portions": "6",
+    "temps_preparation": "10",
+    "temps_cuisson": "20",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "rhubarbe",
+      "oeuf",
+      "amandes",
+      "sucre",
+      "creme de soja (ou fromage blanc ?)"
+    ]
+  },
+  {
+    "slug": "tarte-saumon-et-courgettes",
+    "titre": "Tarte saumon et courgettes",
+    "description": "Recette de Fanouchette réveillon 2019 (ref. chefclub.TV). À la sortie du four, coupez en parts puis dégustez. Important que les courgettes dépassent un peu sur le côté pour faire ressortir la forme de fleur.",
+    "portions": 8,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "30 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [
+      "tarte-saumon-et-courgettes-2.png",
+      "tarte-saumon-et-courgettes.png"
+    ],
+    "ingredients_noms": [
+      "pâtes feuilletées (épaisses)",
+      "pavés de saumon",
+      "fromage frais (type st moret)",
+      "courgettes (petites et de diamètre identique)",
+      "ciboulette",
+      "sel, poivre",
+      "eau"
+    ]
+  },
+  {
+    "slug": "terrine-chou-saumon",
+    "titre": "Terrine chou-saumon",
+    "description": "C.V.F. n° 125 simple, surprenant, chic et léger, Manuel adore.... La réfrigération préconisée est de 4h minimum, mais la terrine peut être préparée la veille.",
+    "portions": 6,
+    "temps_preparation": "10 mn",
+    "temps_cuisson": "5 mn",
+    "categorie": [
+      "Entrée"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "feuilles de chou vert",
+      "saumon fumé",
+      "st moret",
+      "crème liquide",
+      "aneth",
+      "cerfeuil",
+      "gélatine (2 g)",
+      "vinaigrette à l'huile d'olive",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "terrine-de-choux-fleur-au-roquefort",
+    "titre": "Terrine de choux-fleur au roquefort",
+    "description": "kilometre-0",
+    "portions": "6",
+    "temps_preparation": "20mn",
+    "temps_cuisson": "45mn",
+    "categorie": [],
+    "image": [
+      "terrine-de-choux-fleur-au-roquefort.png"
+    ],
+    "ingredients_noms": [
+      "chou fleur",
+      "de roquefort",
+      "oeufs",
+      "lait entier",
+      "persil",
+      "poivre"
+    ]
+  },
+  {
+    "slug": "terrine-d-asperges-vertes",
+    "titre": "Terrine d’asperges vertes",
+    "description": "Par ma collègue “Prune” (Martine). Prévoir, car la terrine doit refroidir une heure",
+    "portions": 4,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "25 mn",
+    "categorie": [
+      "Entrée"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "petites asperges vertes (bocal possible)",
+      "orange",
+      "ciboulette",
+      "échalote",
+      "crème liquide",
+      "œufs",
+      "comté",
+      "yaourt brassé ou velouté",
+      "piment d’espelette en poudre",
+      "fleur de sel, poivre du moulin"
+    ]
+  },
+  {
+    "slug": "tiramisu",
+    "titre": "Tiramisu",
+    "description": "Saveur d'Italie, Véro Guy. L'avantage est qu'il n'y a pas de cuisson. Il est possible de le préparer la veille pour laisser du temps le jour J.",
+    "portions": 8,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "4h frigo",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "jaunes d'oeufs",
+      "blancs d'oeufs",
+      "sucre",
+      "mascarpone",
+      "rhum ou autre alcool fort",
+      "biscuits à la cuillère",
+      "café noir",
+      "cacao en poudre amer type van houten"
+    ]
+  },
+  {
+    "slug": "tomates-a-lomelette",
+    "titre": "Tomates à l'omelette",
+    "description": "Recette de ma cousine Guylaine. Astuce: Pour éviter qu'elles rendent trop de jus tu peux les faire dégorger avant avec un peu de sel et tu les essuies avec du papier absorbant avant de les disposer dans le plat.",
+    "portions": 6,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "30 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "tomates",
+      "gruyère râpé",
+      "oeufs",
+      "herbes genre thym",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "tourte-de-pommes-de-terre",
+    "titre": "Tourte de pommes de terre",
+    "description": "C.V.F. n° 75 'Variations autour de nos plats uniques'... plusieurs recettes sympas. Servez très chaud avec une salade verte.",
+    "portions": 6,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "80 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [
+      "tourte-de-pommes-de-terre.png"
+    ],
+    "ingredients_noms": [
+      "pâte brisée",
+      "pâte feuilletée",
+      "pommes de terre à chair ferme (type charlotte)",
+      "comté râpé",
+      "crème liquide",
+      "jaune d'oeuf",
+      "échalotes",
+      "noix de muscade",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "tourte-a-la-farce",
+    "titre": "Tourte à la farce",
+    "description": "Appréciée de tous. Astuce et qualité du rendu et des saveurs: Faire cuire les ingrédients séparément. Attention aux paluches à la sortie du four.",
+    "portions": 6,
+    "temps_preparation": "40 mn",
+    "temps_cuisson": "45 mn",
+    "categorie": [
+      "Plat"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "pâtes feuilletées",
+      "champignons",
+      "poireaux",
+      "persil",
+      "ail",
+      "oignon",
+      "farine de viande (pas obligatoire)",
+      "jaune d'oeuf (ou lait)",
+      "huile d'olive",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "tsatsiki",
+    "titre": "Tsatsiki",
+    "description": "Sauce ou entrée fraîche à base de concombre et yaourt grec, parfaite pour l'été",
+    "portions": 4,
+    "temps_preparation": "20 mn",
+    "temps_cuisson": "0 mn (repos : une nuit)",
+    "categorie": [
+      "Entrée",
+      "Sauce"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "concombres",
+      "yaourts grecs",
+      "menthe fraîche",
+      "jus de citron",
+      "ail",
+      "oignon blanc",
+      "ciboulette (ou tige d'oignon blanc)",
+      "zaatar (facultatif)",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "tuiles-aux-amandes",
+    "titre": "Tuiles aux amandes",
+    "description": "Transparente légère croustillante toujours appréciée avec un sorbet ou une glace maison et se conserve longtemps",
+    "portions": "",
+    "temps_preparation": "10mn",
+    "temps_cuisson": "10mn",
+    "categorie": [
+      "Dessert"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "sucre semoule",
+      "amandes hachée ou noisette",
+      "farine",
+      "beurre fondu",
+      "zeste râpé demi orange demi citron jus d'orange"
+    ]
+  },
+  {
+    "slug": "variante-crevettes-grises-ou-roses-vivantes",
+    "titre": "Variante crevettes grises ou roses vivantes",
+    "description": "A l'apéro c'est très bon. Faut juste prévoir des petites serviettes pour les mains.",
+    "portions": null,
+    "temps_preparation": "5 mn",
+    "temps_cuisson": "0 mn",
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "crevettes grises ou roses vivantes",
+      "huile d'olive",
+      "beurre",
+      "persil",
+      "ail",
+      "fleur de sel"
+    ]
+  },
+  {
+    "slug": "veloute-de-lentilles-corail",
+    "titre": "Velouté de lentilles corail et légumes",
+    "description": "Riche en protéines, fibres, vitamines, minéraux",
+    "portions": 1,
+    "temps_preparation": "5 mn",
+    "temps_cuisson": "15 mn",
+    "categorie": [
+      "Soupe",
+      "regime"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "lentilles corail cuites",
+      "carottes",
+      "poireau",
+      "lait de coco léger",
+      "bouillon de légumes",
+      "curcuma + poivre",
+      "huile d’olive"
+    ]
+  },
+  {
+    "slug": "veloute-de-mache",
+    "titre": "Velouté de mâche",
+    "description": "C.V.F. Le conseil C.V.F: qu'elle soit achetée en vrac ou bien en barquette, la mâche doit toujours être lavée à grande eau, bien égouttée et bien séchée. Une barquette peut être conservée un ou deux jours au frais, mais pas plus, car quand la mâche commence à s'abimer, ça devient vite de la charpie et t'as perdu ton argent.",
+    "portions": 4,
+    "temps_preparation": "15 mn",
+    "temps_cuisson": "15 mn",
+    "categorie": [
+      "Soupe"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "mâche",
+      "courgettes",
+      "échalotes",
+      "lait entier (ou 1/2 écrémé, c'est mieux pour le cholestérol)",
+      "beurre",
+      "sel, poivre du moulin"
+    ]
+  },
+  {
+    "slug": "vin-de-pissenlit",
+    "titre": "Vin de pissenlit",
+    "description": "Grande mode dans les années 1980. Bon apéritif.",
+    "portions": 8,
+    "temps_preparation": "? semaines",
+    "temps_cuisson": null,
+    "categorie": [
+      "Apéro"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "fleurs de pissenlit",
+      "eau",
+      "oranges",
+      "citrons",
+      "raisins",
+      "sucre"
+    ]
+  },
+  {
+    "slug": "waterzoi-de-poisson",
+    "titre": "Waterzoi de poisson",
+    "description": "Plat d'hiver",
+    "portions": "",
+    "temps_preparation": "20",
+    "temps_cuisson": "20",
+    "categorie": [
+      "Soupe"
+    ],
+    "image": [],
+    "ingredients_noms": [
+      "cabillaud (6 pavés)",
+      "saumon",
+      "branches de céléri",
+      "blancs de poireaux",
+      "biscottes",
+      "fumet de poisson (en poudre)",
+      "bopuquet garni",
+      "feuilles de sauge",
+      "creme épaisse",
+      "jus de citron",
+      "beurre",
+      "sel, poivre"
+    ]
+  },
+  {
+    "slug": "risotto-saumon-petit-pois-citron",
+    "titre": "Risotto saumon petit pois citron",
+    "description": "Magazine gourmand",
+    "categorie": [
+      "Plat"
+    ],
+    "portions": "4 personnes",
+    "temps_preparation": "",
+    "temps_cuisson": "",
+    "image": "",
+    "ingredients_noms": [
+      "saumon",
+      "petits pois frais écossais",
+      "Un gros oignon",
+      "Un citron",
+      "mascarpone",
+      "parmesan",
+      "riz arborio",
+      "bouillon de légumes",
+      "olive"
+    ]
+  }
+]

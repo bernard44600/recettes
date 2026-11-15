@@ -1,0 +1,36 @@
+{
+  "titre": "Berniques grillées",
+  "description": "Lieux : Sur les rochers près de Port Charlotte (10 mn de la maison), de Piriac et du Pouliguen il y en a plein. Ne pas les ramasser trop gros. Donc taille moyenne, elles sont plus tendres. À déguster chauds avec les copains de pêche et un coup de muscadet.",
+  "portions": null,
+  "temps_preparation": "30 mn",
+  "temps_cuisson": "10 mn",
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Berniques",
+      "quantite": "taille moyenne"
+    },
+    {
+      "nom": "Beurre 1/2 sel",
+      "quantite": null
+    },
+    {
+      "nom": "Ail",
+      "quantite": null
+    },
+    {
+      "nom": "Persil",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Faire un beurre d'ail.",
+    "Bien laver voire brosser les berniques avec une brosse à ongle ou tes doigts délicats. Les petits cailloux se cachent sur le pourtour.",
+    "Les mettre à l'envers, pointe en bas, sur une grille de barbecue en les ayant beurrées du beurre d'ail persillé au préalable.",
+    "Dès qu'ils se décollent de leur coquille et que le beurre est fondu, les enlever du feu. Ne pas les laisser car ils durcissent et c'est moins bon.",
+    "Mettre dans une assiette ou un plat et déguster chaud."
+  ],
+  "image": []
+}

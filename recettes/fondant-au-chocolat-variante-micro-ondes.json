@@ -1,0 +1,42 @@
+{
+  "titre": "Fondant au chocolat - variante micro-ondes",
+  "description": "Recette ultra rapide apprise par un infirmier de gastro.",
+  "portions": 6,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "5 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Chocolat",
+      "quantite": "180 gr"
+    },
+    {
+      "nom": "Eau",
+      "quantite": "3 cuillères à soupe"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "80 gr"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "125 gr"
+    },
+    {
+      "nom": "Farine",
+      "quantite": "80 gr"
+    },
+    {
+      "nom": "Oeufs",
+      "quantite": "3"
+    }
+  ],
+  "etapes": [
+    "Dans un plat adapté, faire fondre le chocolat et le beurre dans les 3 cuillères à soupe d'eau au micro-ondes.",
+    "Mélanger le tout, puis ajouter successivement le sucre, la farine et les oeufs.",
+    "Cuisson: Faire cuire 5 minutes au micro-ondes à la puissance maximale."
+  ],
+  "image": []
+}

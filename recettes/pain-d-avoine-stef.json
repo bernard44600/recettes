@@ -1,0 +1,47 @@
+{
+  "slug": "pain-d-avoine-stef",
+  "titre": "Pain d'avoine",
+  "description": "mai 2026 , cousinade, une recette de Stephanie   Sans gluten",
+  "categorie": [
+    "Pain "
+  ],
+  "portions": "",
+  "temps_preparation": "5mn",
+  "temps_cuisson": "40mn",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "200 g",
+      "nom": "flocons d'avoine"
+    },
+    {
+      "quantite": "2",
+      "nom": "oeufs"
+    },
+    {
+      "quantite": "330g",
+      "nom": "skyr"
+    },
+    {
+      "quantite": "1 sachet",
+      "nom": "levure chimique"
+    },
+    {
+      "quantite": "35g",
+      "nom": "noisettes"
+    },
+    {
+      "quantite": "35g",
+      "nom": "graines de tournesol"
+    },
+    {
+      "quantite": "35g ",
+      "nom": "graines de chia"
+    }
+  ],
+  "etapes": [
+    "Mélanger semoule, oeufs skyr, levure",
+    "Ajouter les graines",
+    "Enfournez à 180° sans préchauffage, cuire 40mn"
+  ]
+}

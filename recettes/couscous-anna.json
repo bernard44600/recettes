@@ -1,0 +1,75 @@
+{
+  "titre": "Couscous anna",
+  "description": "Cuisiné par Anna et son père lors d’une fête de fin de semestre chez Emmanuelle",
+  "portions": 8,
+  "temps_preparation": "long",
+  "temps_cuisson": "60 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Carottes",
+      "quantite": "1 kg"
+    },
+    {
+      "nom": "Oignons",
+      "quantite": "4"
+    },
+    {
+      "nom": "Tomates",
+      "quantite": "5-6"
+    },
+    {
+      "nom": "Navets",
+      "quantite": "500 g"
+    },
+    {
+      "nom": "Courgettes",
+      "quantite": "3"
+    },
+    {
+      "nom": "Céleri",
+      "quantite": "2-3 branches"
+    },
+    {
+      "nom": "Poivron rouge",
+      "quantite": "1"
+    },
+    {
+      "nom": "Coriandre",
+      "quantite": "4 bottes"
+    },
+    {
+      "nom": "Pois chiches (boîte 4/4)",
+      "quantite": "1"
+    },
+    {
+      "nom": "Huile d’olive",
+      "quantite": "½ litre"
+    },
+    {
+      "nom": "Sel, poivre, piment doux, colorant alimentaire",
+      "quantite": ""
+    },
+    {
+      "nom": "Viande d’agneau (épaule, poitrine, collier)",
+      "quantite": "1,5 kg"
+    },
+    {
+      "nom": "Semoule de couscous fine",
+      "quantite": ""
+    }
+  ],
+  "etapes": [
+    "Dans la partie basse du couscoussier faire revenir la viande dans l’huile.",
+    "Ajoutez oignons, carottes, céleri, tomates, le poivron rouge, les pois chiches. Couvrir d’eau, salez, poivrez.",
+    "Laissez mijoter pendant 1 heure (mettre de l’aluminium autour du couvercle) puis ajouter coriandre, piment doux et ½ litre d’eau.",
+    "Préparez la semoule : huile de tournesol, sel, semoule fine et eau à laisser reposer 20 min. La travailler en la frottant entre les mains.",
+    "Ajoutez la semoule travaillée au-dessus du couscoussier et continuez la cuisson encore 1 heure à partir du moment où la vapeur sort.",
+    "Dans la dernière ½ heure ajoutez les navets aux légumes. Dernier ¼ d’heure ajoutez les courgettes.",
+    "Travaillez la semoule cuite et chaude avec du beurre.",
+    "Servir dans un grand plat rond : semoule, puits au milieu, viande au centre et légumes par-dessus."
+  ],
+  "image": []
+}

@@ -1,0 +1,32 @@
+{
+  "titre": "Les bulots",
+  "description": "Ne pas les faire cuire trop longtemps sinon ils risquent de durcir et c'est moins bon, d'ailleurs c'est peut être pour cela que beaucoup de gens n'aiment pas les bulots. \"Bien cuits\" et avec une bonne mayonnaise maison c'est excellent.",
+  "portions": null,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "10 mn",
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Les bulots",
+      "quantite": null
+    },
+    {
+      "nom": "Gros sel",
+      "quantite": "pour dégorger"
+    },
+    {
+      "nom": "Mayonnaise maison",
+      "quantite": "pour l'accompagnement"
+    }
+  ],
+  "etapes": [
+    "Bien les laver et surtout avant la cuisson les faire dégorger dans du gros sel. Ils vont pas aimer, ils vont baver mais ils seront meilleurs. Bien rincer.",
+    "Les mettre dans l'eau froide.",
+    "Compter 10 minutes après la reprise de l'ébullition.",
+    "Quand la cuisson est terminée, les mettre dans un écumoir ou une passoire à égoutter, mais pas trop, car tièdes c'est bien meilleur (dixit papa et c'est vrai).",
+    "Il faut les préparer le jour même, et pas la veille, et ne pas les mettre au réfrigérateur après cuisson mais plutôt dehors ou sur le bord d'une fenêtre."
+  ],
+  "image": []
+}

@@ -1,0 +1,44 @@
+{
+  "titre": "Soupe a la tomate",
+  "description": "Facile, une boîte de tomates, une ou deux patates ou cheveux d'ange.",
+  "portions": 4,
+  "temps_preparation": "10 mn",
+  "temps_cuisson": "10 mn",
+  "categorie": [
+    "Soupe"
+  ],
+  "ingredients": [
+    {
+      "nom": "Tomates naturelles ou 1 boite de 4/4",
+      "quantite": "selon le nb de pers"
+    },
+    {
+      "nom": "Pommes de terre",
+      "quantite": "1 ou 2 (pour épaissir un peu)"
+    },
+    {
+      "nom": "Oignons",
+      "quantite": "coupés en rondelles ou émincés"
+    },
+    {
+      "nom": "Eau",
+      "quantite": "quantité égale au volume de la boîte de tomates"
+    },
+    {
+      "nom": "Cheveux d'ange (pâtes en vermicelles)",
+      "quantite": "facultatif"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": ""
+    }
+  ],
+  "etapes": [
+    "Dans une casserole, assembler la boîte de tomates, les pommes de terre coupées, les oignons et le volume d'eau requis.",
+    "Variante avec ail++",
+    "Faire cuire pendant 10 minutes.",
+    "Mixez le tout.",
+    "Bien saler et poivrer."
+  ],
+  "image": []
+}

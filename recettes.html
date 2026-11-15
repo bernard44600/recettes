@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Carnet de Recettes</title>
+    <link rel="stylesheet" href="static/css/recettes_style.css">
+</head>
+<body>
+    <div class="container">
+        <!-- ================= VUE LISTE ================= -->
+        <div id="view-list">
+            <div style="padding: 0.75rem 1rem; text-align: center; border-bottom: 1px solid var(--border); display: flex; justify-content: space-between; align-items: center;">
+                <h1 style="margin:0; color: var(--primary);">👨‍🍳 Mes Recettes</h1>
+                <button class="btn btn-round" id="new-recipe-btn" title="Nouvelle recette">+</button>
+            </div>
+
+            <div class="filters-section">
+                <div class="filter-group">
+                    <label>🔍 Mots-clés</label>
+                    <input type="text" id="f-search" placeholder="Titre, descr ...">
+                </div>
+                <div class="filter-group">
+                    <label>🏷️ Catégorie</label>
+                    <select id="f-category">
+                        <option value="">Toutes</option>
+                    </select>
+                </div>
+                <div class="filter-group">
+                    <label>🥕 Ingrédients (sép par virgules)</label>
+                    <input type="text" id="f-ingredients" placeholder="ex: pomme, cannelle">
+                </div>
+            </div>
+
+            <div class="recipe-grid" id="recipe-list"></div>
+        </div>
+
+        <!-- ================= VUE DÉTAIL ================= -->
+        <div id="view-recipe" class="hidden">
+            <div class="recipe-header">
+                <div class="recipe-actions">
+                    <button class="btn btn-back" onclick="showList()">← Retour</button>
+                    <button class="btn btn-outline" id="edit-recipe-btn">✏️ Modifier</button>
+                </div>
+                <h1 id="detail-title"></h1>
+                <p id="detail-desc"></p>
+                <div class="meta-tags" id="detail-tags"></div>
+            </div>
+
+            <div class="content">
+                <div>
+                    <h2>🛒 Ingrédients</h2>
+                    <div id="detail-ingredients"></div>
+                </div>
+                <div>
+                    <h2>🍳 Préparation</h2>
+                    <div id="detail-etapes"></div>
+                </div>
+            </div>
+
+            <div class="image-container"></div>
+        </div>
+
+        <!-- ================= VUE FORMULAIRE (AJOUT / MODIFICATION) ================= -->
+        <div id="view-form" class="hidden">
+            <div class="recipe-header">
+                <button class="btn btn-back" id="cancel-form-btn">← Annuler</button>
+                <h1 id="form-title">Ajouter / Modifier une recette</h1>
+            </div>
+            <div class="form-panel">
+                <input type="hidden" id="recipe-slug" value="">
+                <div class="form-group">
+                    <label>Titre *</label>
+                    <input type="text" id="form-titre" required>
+                </div>
+                <div class="form-group">
+                    <label>Description *</label>
+                    <textarea id="form-description" rows="2"></textarea>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Catégories (séparées par virgules)</label>
+                        <input type="text" id="form-categorie" placeholder="ex: dessert, végétarien">
+                    </div>
+                    <div class="form-group">
+                        <label>Portions</label>
+                        <input type="text" id="form-portions" placeholder="4 personnes">
+                    </div>
+                </div>
+                <div class="form-row">
+                    <div class="form-group">
+                        <label>Temps de préparation</label>
+                        <input type="text" id="form-prep" placeholder="15min">
+                    </div>
+                    <div class="form-group">
+                        <label>Temps de cuisson</label>
+                        <input type="text" id="form-cuisson" placeholder="30min">
+                    </div>
+                </div>
+                <div class="form-group">
+                    <label>URL de l’image (optionnel)</label>
+                    <input type="text" id="form-image" placeholder="https://...">
+                </div>
+                <div class="form-group">
+                    <label>Ingrédients (une ligne par ingrédient, format: quantité@nom)</label>
+                    <textarea id="form-ingredients" rows="4" placeholder="200g@Farine&#10;100g@Sucre&#10;3@Œufs"></textarea>
+                    <small>Exemple : "200g@Farine" (quantité@nom)</small>
+                </div>
+                <div class="form-group">
+                    <label>Étapes (une par ligne)</label>
+                    <textarea id="form-etapes" rows="4" placeholder="Préchauffez le four...&#10;Mélangez les ingrédients..."></textarea>
+                </div>
+                <div class="action-buttons">
+                    <button class="btn" id="save-recipe-btn">💾 Enregistrer</button>
+                    <button class="btn btn-outline" id="send-api-btn">📡 Envoyer à l'API (POST /recette)</button>
+                    <button class="btn btn-secondary" id="download-json-btn">📥 Télécharger JSON</button>
+                </div>
+            </div>
+        </div>
+    </div>
+    <br/><br/><br/><br/><br/>
+    <script>
+        // Racine des données, en un seul endroit :
+        //  - GitHub Pages : "recettes/" (dossier voisin de cette page)
+        //  - sur le RPi   : "/data/recettes"
+        window.DATA_BASE = 'recettes';
+        // Écriture serveur (POST /recette) : false sur un site statique
+        window.API_ECRITURE = false;
+    </script>
+    <script src="static/js/recettes_ui.js"></script>
+    <script src="static/js/recettes_app.js"></script>
+</body>
+</html>

@@ -1,0 +1,56 @@
+{
+  "slug": "croustade-aux-amandes",
+  "titre": "Croustade aux amandes",
+  "description": "Rapide bon et joli (recette de Valérie, Maman de Nino)",
+  "categorie": [
+    "Dessert"
+  ],
+  "portions": "",
+  "temps_preparation": "10mn",
+  "temps_cuisson": "30mn",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "200 g",
+      "nom": "farine"
+    },
+    {
+      "quantite": "1sachet",
+      "nom": "Levure"
+    },
+    {
+      "quantite": "20 cl",
+      "nom": "crème fraîche"
+    },
+    {
+      "quantite": "3",
+      "nom": "œufs"
+    },
+    {
+      "quantite": "150 g",
+      "nom": "sucre"
+    },
+    {
+      "quantite": "?",
+      "nom": "pour déco:"
+    },
+    {
+      "quantite": "70g",
+      "nom": "beurre"
+    },
+    {
+      "quantite": "1 sachet",
+      "nom": "amandes effilées"
+    },
+    {
+      "quantite": "100 g",
+      "nom": "sucre"
+    }
+  ],
+  "etapes": [
+    "Mélanger le tout mettre dans un plat à tarte sur un papier.",
+    "Étaler en pâte en superficie sans faire pénétrer en surface ",
+    "Four à 180 degrés 30 minutes ",
+    "Le gâteau doit être doré sur le dessus"
+  ]
+}

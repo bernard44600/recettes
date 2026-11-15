@@ -1,0 +1,44 @@
+{
+  "titre": "Fondue savoyarde - variante pour 5 personnes",
+  "description": "Proportions adaptées pour une tablée de 5 convives.",
+  "portions": 5,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "10 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Emmental",
+      "quantite": "500 g"
+    },
+    {
+      "nom": "Comté",
+      "quantite": "500 g"
+    },
+    {
+      "nom": "Roquefort",
+      "quantite": "150 à 200 g"
+    },
+    {
+      "nom": "Vin blanc",
+      "quantite": "4 petits verres"
+    },
+    {
+      "nom": "Maïzena",
+      "quantite": "2 c. à café et demie"
+    },
+    {
+      "nom": "Kirsch",
+      "quantite": "10 cl"
+    },
+    {
+      "nom": "Noix de muscade et poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Suivre le même procédé que pour la recette de base (2 personnes) en adaptant avec ces quantités augmentées."
+  ],
+  "image": []
+}

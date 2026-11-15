@@ -1,0 +1,48 @@
+{
+  "slug": "terrine-de-choux-fleur-au-roquefort",
+  "titre": "Terrine de choux-fleur au roquefort",
+  "description": "kilometre-0",
+  "categorie": [],
+  "portions": "6",
+  "temps_preparation": "20mn",
+  "temps_cuisson": "45mn",
+  "image": [
+    "terrine-de-choux-fleur-au-roquefort.png"
+  ],
+  "ingredients": [
+    {
+      "quantite": "300g",
+      "nom": "chou fleur"
+    },
+    {
+      "quantite": "100g",
+      "nom": "de roquefort"
+    },
+    {
+      "quantite": "3",
+      "nom": "oeufs"
+    },
+    {
+      "quantite": "20cl",
+      "nom": "lait entier"
+    },
+    {
+      "quantite": "1/2 bouquet",
+      "nom": "persil"
+    },
+    {
+      "quantite": "",
+      "nom": "poivre"
+    }
+  ],
+  "etapes": [
+    "laver et détacher le chou-fleur, le mixer",
+    "battre les oeufs et le lait",
+    "préchauffer le four à 180°",
+    "mettre persil ciselé (et ciboulette?), poivre (pas de sel puisque le roquefort sale:-)",
+    "ajouter roquefort émiétté, chou fleur mixé, mélanger mettre dans un plat beurré ou siliconé",
+    "mettre dans un plat plus grand d'eau pour faire un bain marie, enfourner 45mn",
+    "vérifier cuisson avec un couteau qui doit ressortir \"sec\"",
+    "couper en tranche, mettre avec une salade de saison"
+  ]
+}

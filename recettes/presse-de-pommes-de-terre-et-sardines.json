@@ -1,0 +1,48 @@
+{
+  "titre": "Pressé de pommes de terre et sardines",
+  "description": "Surprenant, très apprécié des wetistes à Esparron de Verdon en 2021  C.V.F. n°202",
+  "portions": 4,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "24 heures (repos)",
+  "categorie": [
+    "Entrée"
+  ],
+  "ingredients": [
+    {
+      "nom": "Pommes de terre à chair ferme",
+      "quantite": "8"
+    },
+    {
+      "nom": "Échalotes",
+      "quantite": "2"
+    },
+    {
+      "nom": "Thym frais",
+      "quantite": "3 brins"
+    },
+    {
+      "nom": "Sardines à l’huile",
+      "quantite": "2 boîtes"
+    },
+    {
+      "nom": "Ail",
+      "quantite": "1 gousse"
+    },
+    {
+      "nom": "Persil",
+      "quantite": "6 brins"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": ""
+    }
+  ],
+  "etapes": [
+    "Faites cuire les pommes de terre dans une casserole d’eau chaude pendant 15 à 20 mn selon leur taille. Épluchez-les encore chaudes et coupez-les en rondelles de 1 cm. Égouttez les sardines et conservez leur huile. Émiettez grossièrement les sardines.",
+    "Épluchez les échalotes et la gousse d’ail, lavez le persil et enlevez les tiges, placez-le tout dans le bol d’un robot avec l’huile des sardines et mixez. Salez, poivrez.",
+    "Tapissez une petite terrine avec du papier film et placez dans le fond une couche de pommes de terre, puis ajoutez les sardines émiettées.",
+    "Ajoutez à plusieurs endroits un peu du mélange au persil. Salez et poivrez entre les couches et ajoutez un peu de thym. Procédez jusqu’à épuisement des ingrédients en finissant par les pommes de terre. Tassez fortement. Repliez le film et posez un poids sur la terrine. Laissez au réfrigérateur au moins une nuit avant de servir.",
+    "Conseil : Servez la terrine coupée en tranches et parsemez d’un peu de thym. Vous pouvez ajouter un peu de mayonnaise à côté, et une salade verte pour en faire un plat complet."
+  ],
+  "image": []
+}

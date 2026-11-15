@@ -1,0 +1,38 @@
+{
+  "slug": "entremet-proteine",
+  "titre": "Entremet protéiné",
+  "description": "Pdj complet protéiné. Environ 25g de protéine ; 5g de fibres ; 200kcal",
+  "categorie": [
+    "Plat",
+    "regime"
+  ],
+  "portions": "1",
+  "temps_preparation": "15mn",
+  "temps_cuisson": "0 mn",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "100g",
+      "nom": "fromage blanc (7d protéines, calcium)"
+    },
+    {
+      "quantite": "10g",
+      "nom": "poudre de protéines de lait (ou riz, pois ...) (8 g prot)"
+    },
+    {
+      "quantite": "1",
+      "nom": "banane écrasée (fibres, potassium)"
+    },
+    {
+      "quantite": "5g",
+      "nom": "graines de chia (fibres , oméga3)"
+    },
+    {
+      "quantite": "",
+      "nom": "parfum ..."
+    }
+  ],
+  "etapes": [
+    "Apres graines de chia, maisser au frigo 30mnCuire le quinoa et le poulet (grillé ou poelé)"
+  ]
+}

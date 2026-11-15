@@ -1,0 +1,32 @@
+{
+  "titre": "Astuce: cuisson des tagliatelles ou autre pâtes",
+  "description": "Truc et astuce de Véro Guy février 2020. La matière grasse n'est pas utile.",
+  "portions": null,
+  "temps_preparation": "10 mn",
+  "temps_cuisson": "10 mn",
+  "categorie": [
+    "Astuces"
+  ],
+  "ingredients": [
+    {
+      "nom": "Tagliatelles ou autre pâtes",
+      "quantite": null
+    },
+    {
+      "nom": "Eau",
+      "quantite": "beaucoup"
+    },
+    {
+      "nom": "Sel",
+      "quantite": ""
+    }
+  ],
+  "etapes": [
+    "Beaucoup d'eau, c'est à dire 3 fois plus que la quantité de pâtes",
+    "Ajouter le sel seulement à la fin",
+    "Une fois les pâtes égouttées, les remettre dans la casserole ou le faitout et ajouter la sauce.",
+    "Pour qu'elles ne collent pas il faut arrêter la cuisson.",
+    "Pour cela, après les avoir égouttées, s'il reste des pâtes, les mettre dans l'eau froide pour stopper la cuisson."
+  ],
+  "image": []
+}

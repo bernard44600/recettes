@@ -1,0 +1,60 @@
+{
+  "slug": "pains-pour-aperitif",
+  "titre": "Pains pour apéritif",
+  "description": "Cousinade 2026",
+  "categorie": [
+    "Apéro"
+  ],
+  "portions": "",
+  "temps_preparation": "15",
+  "temps_cuisson": "45",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "1",
+      "nom": "pate brisée"
+    },
+    {
+      "quantite": "3",
+      "nom": "échalottes"
+    },
+    {
+      "quantite": "130g",
+      "nom": "gruyere rapé"
+    },
+    {
+      "quantite": "130g",
+      "nom": "allumettes de lardon fumé"
+    },
+    {
+      "quantite": "130g",
+      "nom": "raisins secs"
+    },
+    {
+      "quantite": "2cas",
+      "nom": "chapelure (ou 2 biscottes écrasées)"
+    },
+    {
+      "quantite": "3",
+      "nom": "oeufs"
+    },
+    {
+      "quantite": "quelques",
+      "nom": "noix"
+    }
+  ],
+  "etapes": [
+    "mettre les raisins a tremper dans l'eau tiède 1h avant",
+    "hacher finement les échalottes, et les faire revenir dans l'huile d'olive, ou les mettres dans les lardons qui rendent déjà du gras",
+    "ajouter les raisins  égouttés, et les noix concassées",
+    "réserver le tout dans un saladier",
+    "battre les oeufs avec le gruyère, saler, poivrer, et mettre la chapelure",
+    "mélanger les 2 préparations",
+    "étaler la pate et mouiller avec un pinceau le tour sur 15mm",
+    "déposer la préparation sur la pate",
+    "rouler en faisant adhérer les bords, dorer à l'oeuf",
+    "mettre au four 35-40mn à 160°",
+    "mettre au réfrigérateur une fois refroidi",
+    "couper en tranches fines (couteau électrique ?)"
+  ]
+}

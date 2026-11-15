@@ -1,0 +1,61 @@
+{
+  "slug": "gateau-nantais",
+  "titre": "Gâteau nantais",
+  "description": "recette de Francoise",
+  "categorie": [
+    "Dessert"
+  ],
+  "portions": "",
+  "temps_preparation": "20mn",
+  "temps_cuisson": "40mn",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "150g",
+      "nom": "sucre"
+    },
+    {
+      "quantite": "40g",
+      "nom": "farine"
+    },
+    {
+      "quantite": "6cl",
+      "nom": "liqueur de rhum"
+    },
+    {
+      "quantite": "125g",
+      "nom": "beurre 1/2 sel"
+    },
+    {
+      "quantite": "100g",
+      "nom": "amandes en poudre"
+    },
+    {
+      "quantite": "3",
+      "nom": "œufs"
+    },
+    {
+      "quantite": "==========",
+      "nom": "==== Glacage"
+    },
+    {
+      "quantite": "3cl",
+      "nom": "liqueur de rhum"
+    },
+    {
+      "quantite": "100g",
+      "nom": "sucre glace"
+    }
+  ],
+  "etapes": [
+    "Dans un bol, battre 3 œufs entiers et les rajouter à la préparation.",
+    "Mélanger beurre + sucre + poudre d'amandes.",
+    "Imbiber un moule à manqué de 25cm diamètre de beurre ou papier sulfurisé - ce démoule difficilement.",
+    "Cuire à 170/180°C pendant 15 à 20 minutes, puis baisser la température à 150°C et cuire encore 15 à 20 minutes.",
+    "À la sortie du four, ajouter 2 verres de rhum sur le gâteau démoulé.",
+    "==== Glaçage ==== :",
+    "Mélanger le sucre glace et fermer un verre de liqueur de rhum.",
+    "Étaler sur le gâteau.",
+    "Saupoudrer de vermicelles de chocolat (facultatif)."
+  ]
+}

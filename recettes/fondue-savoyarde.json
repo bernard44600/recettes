@@ -1,0 +1,50 @@
+{
+  "titre": "Fondue savoyarde",
+  "description": "À Grenoble, curieusement donnée par des nantais Monique et Etienne. Le roquefort est le petit plus qui donne le goût.",
+  "portions": 2,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "10 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Emmental",
+      "quantite": "200g (coupé en dés)"
+    },
+    {
+      "nom": "Comté",
+      "quantite": "200g (coupé en dés)"
+    },
+    {
+      "nom": "Roquefort",
+      "quantite": "50 à 100 g"
+    },
+    {
+      "nom": "Vin blanc",
+      "quantite": "1 verre et demi"
+    },
+    {
+      "nom": "Maïzena",
+      "quantite": "1 cuillerée à café bien remplie"
+    },
+    {
+      "nom": "Kirsch",
+      "quantite": "5 cuillerées à café"
+    },
+    {
+      "nom": "Poivre, noix de muscade",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Chauffer environ 1 verre et demi de vin blanc dans le poêlon jusqu'à ce qu'il fume.",
+    "Sur feu moyen, ajouter tous les fromages coupés en dés.",
+    "Touiller constamment sans faire bouillir.",
+    "Quand le fromage est bien fondu, augmenter un peu le feu.",
+    "Dans un petit récipient à part, mélanger la grosse cuillerée de maïzena avec les 5 cuillerées à café de kirsch.",
+    "Verser ce mélange sur la fondue en remuant énergiquement pendant 4 à 5 minutes.",
+    "Ajouter la noix de muscade et le poivre avant de servir avec du pain."
+  ],
+  "image": []
+}

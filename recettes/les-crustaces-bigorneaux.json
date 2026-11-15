@@ -1,0 +1,49 @@
+{
+  "titre": "Les crustacés : bigorneaux....",
+  "description": "Une préparation simple de bigorneaux cuits à l'eau et servis sur du pain beurré.",
+  "portions": 1,
+  "temps_preparation": "5 mn",
+  "temps_cuisson": "20 mn",
+  "categorie": [
+    "Entrée",
+    "Fruit de mer"
+  ],
+  "ingredients": [
+    {
+      "nom": "Sel",
+      "quantite": "30 g/litre"
+    },
+    {
+      "nom": "Poivre",
+      "quantite": "1 cuillère à café/l"
+    },
+    {
+      "nom": "Persil",
+      "quantite": "pièces"
+    },
+    {
+      "nom": "Oignon",
+      "quantite": "pièces"
+    },
+    {
+      "nom": "Laurier",
+      "quantite": "1 feuille"
+    },
+    {
+      "nom": "Pain",
+      "quantite": "tranches"
+    },
+    {
+      "nom": "Beurre demi sel",
+      "quantite": "g"
+    }
+  ],
+  "etapes": [
+    "Mettre les bigorneaux dans l'eau froide avec le sel, le poivre, le persil, l'oignon et la feuille de laurier.",
+    "Porter à ébullition et attendre le début de l'ébullition.",
+    "Éteindre le feu, attendre 5 minutes puis égoutter.",
+    "Décoquiller les bigorneaux tranquillement et les réserver dans l'assiette.",
+    "Beurrer une tartine de pain avec du beurre demi sel et étaler les bigorneaux dessus. Déguster."
+  ],
+  "image": []
+}

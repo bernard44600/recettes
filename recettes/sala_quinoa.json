@@ -1,0 +1,40 @@
+{
+  "titre": "Salade de quinoa arc-en-ciel",
+  "description": "Une salade fraîche et complète, idéale pour l'été.",
+  "portions": 2,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "12 mn",
+  "categorie": [
+    "Entrée",
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Quinoa",
+      "quantite": "100 g"
+    },
+    {
+      "nom": "Poivron rouge",
+      "quantite": "1 pièce"
+    },
+    {
+      "nom": "Concombre",
+      "quantite": "1/2 pièce"
+    },
+    {
+      "nom": "Feta",
+      "quantite": "80 g"
+    },
+    {
+      "nom": "Jus de citron",
+      "quantite": "2 cuillères à soupe"
+    }
+  ],
+  "etapes": [
+    "Cuire le quinoa dans l'eau bouillante salée 12 minutes. Égoutter et laisser refroidir.",
+    "Couper le poivron et le concombre en petits dés.",
+    "Émietter la feta.",
+    "Mélanger tous les ingrédients, assaisonner avec le jus de citron, sel et poivre."
+  ],
+  "image": []
+}

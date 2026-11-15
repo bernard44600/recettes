@@ -1,0 +1,37 @@
+{
+  "slug": "perles-de-vinaigre-balsamique",
+  "titre": "Perles de vinaigre balsamique",
+  "description": "Caviar végétal de vinaigre balsamique : des perles gélifiées à l'agar-agar qui éclatent en bouche. Parfaites pour décorer et relever plats de viande, fromages ou desserts. Variantes avec jus de fruits sauce soje, verjus",
+  "categorie": ["accompagnement", "sauce", "aperitif"],
+  "portions": "",
+  "temps_preparation": "10",
+  "temps_cuisson": "5",
+  "image": ["perles-de-vinaigre-balsamique.png"],
+  "ingredients": [
+    {
+      "quantite": "100 ml",
+      "nom": "vinaigre balsamique"
+    },
+    {
+      "quantite": "2 g",
+      "nom": "agar-agar (environ 2% du volume de liquide)"
+    },
+    {
+      "quantite": "quantité suffisante",
+      "nom": "huile d'olive (très froide, pour le bain de formation)"
+    }
+  ],
+  "etapes": [
+    "Versez le vinaigre balsamique dans une casserole. Ajoutez l'agar-agar et mélangez bien.",
+    "Portez le mélange à ébullition en remuant constamment. Laissez bouillir 1 à 2 minutes pour activer l'agar-agar.",
+    "Retirez du feu et laissez tiédir quelques instants (le liquide doit rester fluide mais commencer à épaissir légèrement).",
+    "Remplissez une pipette (ou une seringue sans aiguille) avec le mélange de vinaigre.",
+    "Versez l'huile d'olive bien froide dans un verre ou un bol profond (placez-la au réfrigérateur 30 min avant).",
+    "Déposez goutte à goutte le vinaigre dans l'huile froide en maintenant la pipette verticalement. Les gouttes se figent immédiatement en perles.",
+    "Laissez les perles reposer 1 à 2 minutes dans l'huile pour qu'elles se stabilisent.",
+    "Récupérez les perles à l'aide d'un tamis fin. Égouttez-les délicatement.",
+    "Rincez-les brièvement à l'eau froide si vous voulez enlever l'excédent d'huile (optionnel), puis égouttez à nouveau.",
+    "Conservez au réfrigérateur (48h max) dans un peu de leur jus ou servez immédiatement.",
+    "Pour des perles plus grosses : utiliser une seringue sans aiguille au lieu d'une pipette"
+  ]
+}

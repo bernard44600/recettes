@@ -1,0 +1,40 @@
+{
+  "titre": "Filet mignon séché",
+  "description": "Michèle Poliautre. À déguster à l'apéro attention attendre 3 semaines à 1 mois. Possibilité de faire la même chose avec un magret de canard. Super bon.",
+  "portions": 8,
+  "temps_preparation": "5 mn",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Filet mignon",
+      "quantite": "1"
+    },
+    {
+      "nom": "Gros sel",
+      "quantite": "suffisamment pour recouvrir"
+    },
+    {
+      "nom": "Torchons propres",
+      "quantite": "1"
+    },
+    {
+      "nom": "Poivre ou paprika ou piment d'espelette ou thym...",
+      "quantite": "largement"
+    }
+  ],
+  "etapes": [
+    "Préparez le filet mignon en enlevant le gras.",
+    "Take un plat creux, suffisamment grand pour y mettre le filet.",
+    "Recouvrir le fond de gros sel, posez le filet dessus et le recouvrir de gros sel complètement. Tu vois plus un bout de filet.",
+    "Pendant une nuit, gardez le filet mignon dans le gros sel.",
+    "Le lendemain : ôtez le sel, rincez bien le filet sous l'eau et séchez bien avec un sopalin ou plusieurs.",
+    "Poivrez dessus, dessous, tout autour et largement (ou utilisez d'autres épices).",
+    "Entourez ce filet dans un torchon propre, bien serrer en pliant le torchon aux extrémités pour que l'air ne passe pas du tout.",
+    "Mettre 3 semaines minimum dans le bac à légumes du réfrigérateur, posé de façon à ce qu'il ventile, c'est-à-dire pas directement sur le plastique mais légèrement surélevé du fond du bac.",
+    "Dégustez au bout des 3 semaines, coupez en fines tranches et servir à l'apéro."
+  ],
+  "image": []
+}

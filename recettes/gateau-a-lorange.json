@@ -1,0 +1,41 @@
+{
+  "titre": "Gateau a l'orange",
+  "description": "Mamie Jeannette. Tu choisis tes fruits: parce qu'on peut le faire aussi avec 3 citrons à la place des oranges. Astuce: 5 oeufs peuvent suffire.",
+  "portions": 8,
+  "temps_preparation": "60 mn",
+  "temps_cuisson": "45 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Oranges bio entières (ou 3 citrons)",
+      "quantite": "2"
+    },
+    {
+      "nom": "Poudre d'amande",
+      "quantite": "250 gr"
+    },
+    {
+      "nom": "Sucre en poudre",
+      "quantite": "250 gr"
+    },
+    {
+      "nom": "Oeufs entiers",
+      "quantite": "6 (ou 5)"
+    },
+    {
+      "nom": "Levure",
+      "quantite": "1 paquet"
+    }
+  ],
+  "etapes": [
+    "Faites cuire les fruits entiers pendant 1h30 dans de l'eau (ou 1/2 heure dans un autocuiseur).",
+    "Mixer les oranges (ou citrons) entières avec leur peau.",
+    "Ajouter ensuite tous les autres ingrédients restants et mélanger intimement.",
+    "Beurrer un moule à manqué (moule rond avec des grands bords) et y verser la pâte.",
+    "Mettre à cuire durant 40 à 50 minutes au four.",
+    "Température du four : thermostat 6 à 8, soit 180°C à 200°C."
+  ],
+  "image": []
+}

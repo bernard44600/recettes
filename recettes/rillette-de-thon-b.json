@@ -1,0 +1,32 @@
+{
+  "titre": "Rillette de thon b",
+  "description": "Une alternative plus classique des rillettes.",
+  "portions": 6,
+  "temps_preparation": "10 mn",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Thon",
+      "quantite": "1 boite"
+    },
+    {
+      "nom": "Échalotes",
+      "quantite": "1 ou 2"
+    },
+    {
+      "nom": "Moutarde forte",
+      "quantite": "1 cuillère à café"
+    },
+    {
+      "nom": "Mayonnaise",
+      "quantite": "1 cuillère à café"
+    }
+  ],
+  "etapes": [
+    "Mélangez le thon, les échalotes émincées, la moutarde et la mayonnaise jusqu'à la consistance désirée."
+  ],
+  "image": []
+}

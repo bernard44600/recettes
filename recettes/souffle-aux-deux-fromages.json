@@ -1,0 +1,54 @@
+{
+  "titre": "Soufflé aux deux fromages",
+  "description": "Un grand classique. Utiliser un fouet aide à ne pas faire de grumeaux.",
+  "portions": 4,
+  "temps_preparation": "30 mn",
+  "temps_cuisson": "20 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Beurre",
+      "quantite": "70 gr (50 gr pour la béchamel + 20 gr pour le moule)"
+    },
+    {
+      "nom": "Farine",
+      "quantite": "75 gr"
+    },
+    {
+      "nom": "Lait",
+      "quantite": "1½ litre"
+    },
+    {
+      "nom": "Oeufs",
+      "quantite": "4"
+    },
+    {
+      "nom": "Gruyère râpé",
+      "quantite": "150 gr"
+    },
+    {
+      "nom": "Parmesan",
+      "quantite": "50 gr"
+    },
+    {
+      "nom": "Noix de muscade râpée",
+      "quantite": "2 pincées (ou plus si affinité)"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Préparez une sauce béchamel: faire fondre à feu doux 50 gr de beurre dans une petite casserole.",
+    "Incorporez la farine, 1 cuillère à la fois, sans cesser de battre.",
+    "Retirez ensuite du feu et versez le lait en fouettant vigoureusement pour éviter la formation de grumeaux.",
+    "Remettre sur feu doux, salez, poivrez et jetez la noix de muscade.",
+    "Séparer les blancs des jaunes d'œufs. Hors du feu, incorporer les jaunes d'œufs un par un dans la béchamel, puis ajouter le gruyère et le parmesan.",
+    "Monter les blancs d'œufs en neige ferme et les incorporer délicatement à la préparation.",
+    "Verser le mélange dans un moule à soufflé préalablement beurré et faire cuire au four pendant 20 minutes."
+  ],
+  "image": []
+}

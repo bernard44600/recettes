@@ -1,0 +1,75 @@
+{
+  "titre": "Blanquette de veau",
+  "description": "Recette de Françoise Clémenceau, recette qu'elle considérait comme très simple. En accompagnement, servir du riz.",
+  "portions": 6,
+  "temps_preparation": "10 mn",
+  "temps_cuisson": "1h30 à 2h",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Blanquette de veau",
+      "quantite": "1 kg"
+    },
+    {
+      "nom": "Farine",
+      "quantite": "2 cuillères à soupe"
+    },
+    {
+      "nom": "Cube de bouillon de légumes",
+      "quantite": "1"
+    },
+    {
+      "nom": "Cube de bouillon de poule",
+      "quantite": "1"
+    },
+    {
+      "nom": "Carottes",
+      "quantite": "2"
+    },
+    {
+      "nom": "Oignon jaune",
+      "quantite": "1"
+    },
+    {
+      "nom": "Champignons de Paris",
+      "quantite": "1 petite boite"
+    },
+    {
+      "nom": "Crème fraîche",
+      "quantite": "1 petit pot"
+    },
+    {
+      "nom": "Citron",
+      "quantite": "1"
+    },
+    {
+      "nom": "Jaune d'oeuf",
+      "quantite": "1"
+    },
+    {
+      "nom": "Vin blanc",
+      "quantite": "25 cl (2 verres)"
+    },
+    {
+      "nom": "Beurre doux",
+      "quantite": "pour faire revenir"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Faire revenir la viande dans un peu de beurre doux jusqu'à ce que les morceaux soient un peu dorés.",
+    "Saupoudrez de 2 cuillères de farine. Bien remuer.",
+    "Ajoutez 2 ou 3 verres d'eau, les cubes de bouillon et le vin blanc. Remuer. Ajouter un peu d'eau si nécessaire pour bien couvrir le tout.",
+    "Coupez les carottes en rondelles et émincez l'oignon, puis incorporez-les à la viande",
+    "Ajoutez 1 petite boite de champignons... ou 250 gr de frais émincés et revenus avant",
+    "Laissez mijoter à feu très doux environ 1h30 à 2h00 en remuant de temps en temps. Ajoutez de l'eau si nécessaire en cours de cuisson.",
+    "Dans un bol, bien mélanger la crème fraîche, le jaune d'œuf et le jus de citron.",
+    "Ajoutez ce mélange au dernier moment hors du feu, bien remuer et servir tout de suite avec du riz."
+  ],
+  "image": []
+}

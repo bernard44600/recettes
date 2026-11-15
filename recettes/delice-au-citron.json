@@ -1,0 +1,52 @@
+{
+  "titre": "Délice au citron",
+  "description": "Recette de Monique Morin, copine à Mamie Denise. Le mieux est de le faire la veille (le dessert est déjà préparé, ça de moins à faire le jour J). Démoulez juste avant de servir, pas trop tôt car le gâteau s'affaisse et dégouline.",
+  "portions": 8,
+  "temps_preparation": "30 mn",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Lait concentré sucré Nestlé",
+      "quantite": "1 boite de 397 grs"
+    },
+    {
+      "nom": "Citrons verts bio",
+      "quantite": "3"
+    },
+    {
+      "nom": "Citrons jaunes bio",
+      "quantite": "3"
+    },
+    {
+      "nom": "Biscuits à la cuillère",
+      "quantite": "24"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "2 cuillères à soupe bombées"
+    },
+    {
+      "nom": "Eau",
+      "quantite": "75 ml"
+    },
+    {
+      "nom": "Optionnel pour le décor: fruits frais et coulis de framboise ou fraise",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Pressez les 3 citrons jaunes et mélanger le jus obtenu avec le lait concentré sucré ainsi que quelques zestes râpés de citrons verts.",
+    "Pressez les 3 citrons verts et mélanger le jus avec le sucre et les 75 ml d'eau dans une assiette creuse.",
+    "Tapisser l'intérieur d'un moule à cake avec du film étirable alimentaire.",
+    "Trempez rapidement les biscuits à la cuillère dans le jus de citron vert sucré et déposez une première couche bien serrée dans le fond du moule.",
+    "Ajouter par-dessus une couche de la préparation crémeuse à base de lait concentré.",
+    "Alternez ainsi encore deux couches de biscuits et de crème, puis terminez par la préparation au lait.",
+    "Mettre au réfrigérateur au minimum 2 heures (idéalement toute une nuit).",
+    "Démoulez délicatement juste avant de servir.",
+    "Suggestion : Vous pouvez varier les parfums de ce gâteau avec de l'orange ou de l'ananas."
+  ],
+  "image": []
+}

@@ -1,0 +1,77 @@
+{
+  "slug": "galettes-de-sarrasin",
+  "titre": "Galettes de sarrasin",
+  "description": "recette jacqueline et recette KRAMPOUZ",
+  "categorie": [
+    "Plat"
+  ],
+  "portions": "",
+  "temps_preparation": "20mn",
+  "temps_cuisson": "",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "=======",
+      "nom": "recette KRAMPOUZ pour 15 galettes"
+    },
+    {
+      "quantite": "250 g",
+      "nom": "farine de sarrasin,"
+    },
+    {
+      "quantite": "1 c à soupe",
+      "nom": "farine de froment,"
+    },
+    {
+      "quantite": "1 c à café",
+      "nom": "gros sel,"
+    },
+    {
+      "quantite": "1",
+      "nom": "oeuf"
+    },
+    {
+      "quantite": "12 cl",
+      "nom": "eau eau filtrée de préférence."
+    },
+    {
+      "quantite": "36 cl",
+      "nom": "lait"
+    },
+    {
+      "quantite": "============",
+      "nom": "==== Variante Jacqueline"
+    },
+    {
+      "quantite": "500g",
+      "nom": "sarrasin"
+    },
+    {
+      "quantite": "1",
+      "nom": "oeuf"
+    },
+    {
+      "quantite": "15g",
+      "nom": "gros sel"
+    },
+    {
+      "quantite": "1 à 1.1l",
+      "nom": "eau"
+    },
+    {
+      "quantite": "pas de",
+      "nom": "lait"
+    }
+  ],
+  "etapes": [
+    "Remuez jusqu'à obtenir une boule compacte. Ajoutez 12 cl de lait demi-écrémé et délayez",
+    "puis battez environ 5 min afin d'obtenir une pâte parfaitement homogène.",
+    "Ajoutez progressivement 36 cl de lait.",
+    "l’œuf n'est pas nécessaire mais facilite l'étalement, moins utile si la pâte repose 12h recouverte d'un film étirable",
+    "le repos de pâte n'est pas nécessaire (puisque pas de gluten) mais retire un peu d'acidité et donne une couleur brune au lieu de gris",
+    "si les galettes sont pâlichonnes ajouter une cuiller a soupe de miel",
+    "Si l apate glisse sur la plaque, retirer l'exces d'huile",
+    "Si la pate bout, elle est trop liquideou plaque trop chaude",
+    "Attention à la tomate et au citron, qui abime le culottage"
+  ]
+}

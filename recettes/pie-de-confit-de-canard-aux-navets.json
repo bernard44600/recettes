@@ -1,0 +1,63 @@
+{
+  "titre": "Pie de confit de canard aux navets",
+  "description": "Même pour qui n’aime pas vraiment les navets, ça passe très bien avec le canard.",
+  "portions": 4,
+  "temps_preparation": "40 mn",
+  "temps_cuisson": "55 mn",
+  "categorie": [
+    "Plat",
+    "tarte"
+  ],
+  "ingredients": [
+    {
+      "nom": "Pâte feuilletée",
+      "quantite": "1 rouleau"
+    },
+    {
+      "nom": "Navets boules (ou boule d’or)",
+      "quantite": "8 petits"
+    },
+    {
+      "nom": "Cuisses de confit de canard (en boîte)",
+      "quantite": "4"
+    },
+    {
+      "nom": "Carotte",
+      "quantite": "1"
+    },
+    {
+      "nom": "Oignon",
+      "quantite": "1"
+    },
+    {
+      "nom": "Jaune d’œuf",
+      "quantite": "1"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "30 g"
+    },
+    {
+      "nom": "Miel liquide",
+      "quantite": "1 c. à soupe"
+    },
+    {
+      "nom": "Cerfeuil",
+      "quantite": "1 bouquet"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": ""
+    }
+  ],
+  "etapes": [
+    "Épluchez les navets, la carotte, l’oignon, coupez la carotte en petits dés et les navets en quatre.",
+    "Faites revenir doucement l’oignon avec le beurre dans une sauteuse 5 min, puis ajoutez la carotte et les navets. Salez, poivrez, ajoutez le miel et remuez. Couvrez, laissez mijoter 20 min, jusqu’à ce que les navets soient tendres.",
+    "Pendant ce temps, réchauffez le four à 180° (th 6). Rincez les cuisses de canard sous l’eau chaude pour dégraisser (réservez 1 cuillère à soupe de graisse), puis éliminez la peau. Avec les doigts, désossez-les puis émiettez la chair. Mélangez-la aux légumes dans la cocotte.",
+    "Graissez un plat à four avec la graisse de canard. Versez-y le contenu de la cocotte. Effeuillez et ciselez le cerfeuil, répartissez-le sur le mélange de canard et légumes. Déroulez la pâte par-dessus, rentrez les bords de pâte dans le moule. Faites un trou au centre du pie, maintenez-le ouvert avec une bande de papier aluminium (repliée plusieurs fois sur elle-même). Badigeonnez la pâte avec un pinceau trempé dans l’œuf battu.",
+    "Enfournez le pie pour 30 min, jusqu’à ce que la pâte soit bien dorée. Servez très chaud.",
+    "Notre bon accord : un cahors (rouge du Sud-Ouest).",
+    "Astuce pour promener le pie chez des ami(e)s : Vous pouvez préparer et cuire le pie à l’avance et le réchauffer 20 mn à four doux (150°, th 5)."
+  ],
+  "image": []
+}

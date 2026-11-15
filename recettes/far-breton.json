@@ -1,0 +1,55 @@
+{
+  "titre": "Far breton",
+  "description": "Sylvie Martin. Le plus important est de respecter la variation de chaleur du four, c'est ce qui fait la qualité du far.",
+  "portions": 6,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "45 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Farine",
+      "quantite": "250 gr"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "125 gr"
+    },
+    {
+      "nom": "Oeufs",
+      "quantite": "4"
+    },
+    {
+      "nom": "Lait",
+      "quantite": "1 litre"
+    },
+    {
+      "nom": "Sucre vanillé",
+      "quantite": "1 sachet"
+    },
+    {
+      "nom": "Beurre demi-sel",
+      "quantite": "pour beurrer largement le plat de cuisson"
+    },
+    {
+      "nom": "Pruneaux (optionnel)",
+      "quantite": "en option"
+    },
+    {
+      "nom": "Sel",
+      "quantite": "1 pincée"
+    }
+  ],
+  "etapes": [
+    "Dans un grand récipient, mélangez la farine avec les œufs en veillant à intégrer les œufs 1 par 1.",
+    "Ajoutez progressivement le sucre, le litre de lait, le sel et le sachet de sucre vanillé jusqu'à obtenir une pâte fluide.",
+    "Beurrer très largement le plat de cuisson avec le beurre demi-sel.",
+    "Mettre la préparation dans le plat (vous pouvez ajouter des pruneaux éventuellement).",
+    "Étape de cuisson 1 : Faire cuire à four chaud préchauffé pendant 10 mn à 240°C (thermostat 8).",
+    "Étape de cuisson 2 : Baisser à 220°C (th 7) et laisser cuire 10 mn.",
+    "Étape de cuisson 3 : Baisser enfin à 180°C (th 5) et poursuivre la cuisson pendant 25 mn.",
+    "A la fin, selon la couleur du far, tu peux le faire griller environ 2 minutes sous le gril ou pas."
+  ],
+  "image": []
+}

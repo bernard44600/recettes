@@ -1,0 +1,38 @@
+{
+  "titre": "Rochers congolais",
+  "description": "Recette de Marie, Esi, préparation pour le voyage d'études au Sénégal. Ça fait une boule assez compacte.",
+  "portions": 6,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "10 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Sucre",
+      "quantite": "100 gr"
+    },
+    {
+      "nom": "Noix de coco râpée",
+      "quantite": "100 gr"
+    },
+    {
+      "nom": "Farine",
+      "quantite": "10 gr"
+    },
+    {
+      "nom": "Oeuf",
+      "quantite": "1"
+    }
+  ],
+  "etapes": [
+    "Dans un saladier, mélanger intimement le sucre, la noix de coco râpée, la farine et l'œuf entier.",
+    "Une fois la pâte compacte obtenue, prélever des petits morceaux à la main.",
+    "Façonner les morceaux pour faire des petites formes de montagnes (pyramides).",
+    "Déposer sur une plaque et faire cuire au four pendant 10 minutes, juste pour faire dorer.",
+    "Température du four : thermostat 7-8 (180°C - 240°C)."
+  ],
+  "image": [
+    "rochers-congolais.png"
+  ]
+}

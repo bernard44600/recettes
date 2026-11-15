@@ -1,0 +1,41 @@
+{
+  "titre": "Pâté de poissons",
+  "description": "Agnès Bocchino Grenoble, voisine du dessus, simple et chic.",
+  "portions": 8,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "45 mn",
+  "categorie": [
+    "Entrée"
+  ],
+  "ingredients": [
+    {
+      "nom": "Différents poissons (cabillaud, lotte, lieu noir ...ou autres)",
+      "quantite": "1 kg"
+    },
+    {
+      "nom": "Tomates",
+      "quantite": "1 kg (ou 1 boîte 4/4)"
+    },
+    {
+      "nom": "Oeufs",
+      "quantite": "8 (oui, ça fait beaucoup, mais bon, on en mange pas tous les jours)"
+    },
+    {
+      "nom": "Sauce: mélangez cognac, mayonnaise, crevettes décortiquées, ketch-up ou concentré de tomates",
+      "quantite": "selon les goûts"
+    },
+    {
+      "nom": "Assaisonnement",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Faire cuire les poissons dans un court-bouillon.",
+    "Ôter les arêtes (c'est le plus long dans cette recette).",
+    "Battez les oeufs en omelette.",
+    "Mélanger les poissons émiettés, les tomates et les œufs. Assaisonner.",
+    "Mettre au four au bain-marie 45 mn à 160° (moi, je le mets pas toujours au bain-marie et ça va quand même).",
+    "Servir frais accompagné de sa sauce."
+  ],
+  "image": []
+}

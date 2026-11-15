@@ -1,0 +1,40 @@
+{
+  "slug": "mayonnaise-au-fromage-blanc-sans-huile-",
+  "titre": "Mayonnaise au fromage blanc (sans huile)",
+  "description": "gout très différent mais utilisation proche (en 2026 nutritioniste)",
+  "categorie": [
+    "sauce",
+    "regime"
+  ],
+  "portions": "",
+  "temps_preparation": "5mn",
+  "temps_cuisson": "",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "1",
+      "nom": "jaune d’oeuf"
+    },
+    {
+      "quantite": "1c a soupe",
+      "nom": "moutarde"
+    },
+    {
+      "quantite": "2cl",
+      "nom": "huile d’olive ou colza"
+    },
+    {
+      "quantite": "100g",
+      "nom": "fromage blanc 0%"
+    },
+    {
+      "quantite": "1 filet",
+      "nom": "jus de citron,"
+    },
+    {
+      "quantite": "",
+      "nom": "sel, poivre"
+    }
+  ],
+  "etapes": []
+}

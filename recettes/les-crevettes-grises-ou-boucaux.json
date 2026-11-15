@@ -1,0 +1,30 @@
+{
+  "titre": "Les crevettes grises ou \"boucaux\"",
+  "description": "Elles peuvent être pêchées avec un aveneau ou dans des creux de rochers. Tout dépend de l'endroit où nous sommes. Langage oral du coin.",
+  "portions": null,
+  "temps_preparation": "5 mn",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Crevettes grises (et aussi crevettes roses)",
+      "quantite": "la quantité dépend du nombre de convives"
+    },
+    {
+      "nom": "Sel",
+      "quantite": null
+    },
+    {
+      "nom": "Poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Les mettre dans l'eau bouillante salée.",
+    "A la reprise de l'ébullition : Arrêt.",
+    "Égoutter."
+  ],
+  "image": []
+}

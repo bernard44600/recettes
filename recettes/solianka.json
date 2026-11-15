@@ -1,0 +1,67 @@
+{
+  "titre": "Solianka (soupe russe)",
+  "description": "Une des références de la cuisine russe, facile à préparer et extrêmement savoureuse.",
+  "portions": 4,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "25 mn",
+  "categorie": [
+    "Soupe",
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Viande de bœuf cuite (ou porc, poisson)",
+      "quantite": "300 g"
+    },
+    {
+      "nom": "Saucisses fumées",
+      "quantite": "2 ou 3"
+    },
+    {
+      "nom": "Bouillon",
+      "quantite": "1 litre"
+    },
+    {
+      "nom": "Cornichons",
+      "quantite": "2"
+    },
+    {
+      "nom": "Chou fermenté",
+      "quantite": "100 g"
+    },
+    {
+      "nom": "Sauce tomate",
+      "quantite": "2 cuillères à soupe"
+    },
+    {
+      "nom": "Huile d’olive (ou 4 olives)",
+      "quantite": "1 cuillère à soupe"
+    },
+    {
+      "nom": "Câpres (ou huile de câpre)",
+      "quantite": "1 cuillère à soupe"
+    },
+    {
+      "nom": "Feuille de laurier",
+      "quantite": "1"
+    },
+    {
+      "nom": "Oignon",
+      "quantite": "1 morceau"
+    },
+    {
+      "nom": "Sel, poivre, huile, persil, poivron",
+      "quantite": ""
+    }
+  ],
+  "etapes": [
+    "Pelez les cornichons et coupez-les en petits cubes. Réservez la peau.",
+    "Dans une casserole, faites chauffer un peu d’huile, ajoutez l’oignon émincé, les cubes de cornichon et le chou fermenté. Laissez revenir quelques minutes.",
+    "Versez le bouillon dans la casserole, ajoutez du poivre et la feuille de laurier. Portez à ébullition.",
+    "Coupez les saucisses fumées en rondelles et la viande en morceaux. Ajoutez-les dans la casserole. Laissez cuire 5 minutes.",
+    "Ajoutez les câpres, l’olive (ou l’huile d’olive), le sel et éventuellement les peaux de cornichon. Prolongez la cuisson 10 minutes à ébullition.",
+    "Éteignez le feu et laissez reposer 15 à 20 minutes.",
+    "Servez chaud avec du persil ciselé et une rondelle de citron. La vodka accompagne très bien cette soupe."
+  ],
+  "image": []
+}

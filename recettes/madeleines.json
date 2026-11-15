@@ -1,0 +1,55 @@
+{
+  "titre": "Madeleines",
+  "description": "C.V.F n° 135. Les madeleines ne sont jamais aussi bonnes que tièdes... Préparer à la dernière minute. N'ouvrez pas la porte du four pendant les 5 premières minutes de cuisson pour laisser la pâte gonfler.",
+  "portions": 8,
+  "temps_preparation": "40 mn",
+  "temps_cuisson": "10 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Farine",
+      "quantite": "250 g"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "250 g"
+    },
+    {
+      "nom": "Oeufs",
+      "quantite": "4"
+    },
+    {
+      "nom": "Lait entier",
+      "quantite": "10 cl"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "160 g"
+    },
+    {
+      "nom": "Miel liquide",
+      "quantite": "40 g"
+    },
+    {
+      "nom": "Levure chimique",
+      "quantite": "1 sachet"
+    },
+    {
+      "nom": "Sel",
+      "quantite": "1 pincée"
+    }
+  ],
+  "etapes": [
+    "Préchauffez le four à th 8 (240°).",
+    "Coupez le beurre en morceaux et mettez-le dans une petite casserole. Faites-le fondre à feu doux, jusqu'à ce qu'il prenne une couleur blonde et dégage une délicieuse odeur de noisette. Laissez tiédir, puis filtrez.",
+    "Dans une jatte, cassez les oeufs, ajoutez le miel et le lait, fouettez l'ensemble.",
+    "Tamisez la farine dans un grand saladier, ajoutez la levure, la pincée de sel et le sucre, puis mélangez.",
+    "Versez dessus le contenu de la jatte, mélangez en remuant avec une spatule, puis incorporez le beurre noisette refroidi sans cesser de mélanger.",
+    "Disposez une cuillerée à soupe de pâte dans chaque alvéole de moules à madeleine (en silicone de préférence).",
+    "Enfournez pour 5 mn à 240°, puis baissez le thermostat à 6 (180°), et poursuivez la cuisson 5 mn environ en surveillant.",
+    "Sortez les madeleines dès qu'elles sont bien dorées. Démoulez sur une grille et laissez tiédir avant de déguster."
+  ],
+  "image": []
+}

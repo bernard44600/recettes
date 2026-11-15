@@ -1,0 +1,51 @@
+{
+  "slug": "potage-proteine",
+  "titre": "Potage protéiné",
+  "description": "Recette protéinée (source IA) type KrissLaure",
+  "categorie": [],
+  "portions": "",
+  "temps_preparation": "15",
+  "temps_cuisson": "20",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "80g",
+      "nom": "Lentilles corail cuites (10g proteines, fer)"
+    },
+    {
+      "quantite": "100g",
+      "nom": "Carottes (VitA, fibres)"
+    },
+    {
+      "quantite": "50g",
+      "nom": "Poireaux (vitK, fibres)"
+    },
+    {
+      "quantite": "50ml",
+      "nom": "Lait de coco léger (onctuosité, graisse)"
+    },
+    {
+      "quantite": "200ml",
+      "nom": "Bouillon de légume Hydratation, minéraux)"
+    },
+    {
+      "quantite": "pincée",
+      "nom": "Curcuma + poivre (Anti-inflamatoire)"
+    },
+    {
+      "quantite": "option",
+      "nom": "Levure maltée (gout et VitB)"
+    }
+  ],
+  "etapes": [
+    "Faire revenir poireau  et carottes à l’huile d’olive.",
+    "Ajouter lentilles, bouillon et épices. Cuire 15 min.",
+    "Mixer avec le lait de coco. Servir chaud.",
+    "Apport total** : ~20 g de protéines, 8 g de fibres, ~250 kcal.",
+    "Pour reproduire l’équilibre des produits Kriss-Laure à la maison, vise :",
+    "- **20 à 30 g de protéines par repas** (protéines animales + végétales pour un profil complet).",
+    "- **5 à 10 g de fibres** (légumes, fruits, céréales complètes, graines).",
+    "- **Enrichissement en vitamines/minéraux** : Utilise des aliments naturellement riches (légumes colorés, fruits, noix, graines) ou un complément si besoin (ex : levure maltée pour les vitamines B).",
+    "- **Faible densité calorique** : Privilégie les aliments à IG bas et les bonnes graisses (huile d’olive, avocat, oléagineux)."
+  ]
+}

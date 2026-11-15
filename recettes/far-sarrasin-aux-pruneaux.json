@@ -1,0 +1,30 @@
+{
+  "titre": "Far breton aux pruneaux et sarrasin",
+  "description": "Variante du far breton avec de la farine de sarrasin, moelleux et parfumé",
+  "portions": 6,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "60 mn (2 x 30 mn)",
+  "categorie": [
+    "Dessert",
+    "Gâteau"
+  ],
+  "ingredients": [
+    { "nom": "Pruneaux dénoyautés", "quantite": "500 g" },
+    { "nom": "Œufs", "quantite": "5" },
+    { "nom": "Sucre vanillé", "quantite": "100 g" },
+    { "nom": "Farine T110 (ou T65)", "quantite": "120 g" },
+    { "nom": "Farine de sarrasin", "quantite": "100 g" },
+    { "nom": "Lait entier", "quantite": "1 l" },
+    { "nom": "Beurre", "quantite": "50 g" }
+  ],
+  "etapes": [
+    "Préchauffer le four à 180°C. Beurrer un grand moule.",
+    "Faire fondre 30 g de beurre. Tamiser les deux farines ensemble.",
+    "Dans un saladier, battre les œufs avec le sucre vanillé et le beurre fondu.",
+    "Ajouter les farines tamisées, puis progressivement le lait en mélangeant bien pour éviter les grumeaux.",
+    "Disposer les pruneaux dans le fond du moule. Verser la pâte par-dessus.",
+    "Enfourner pour 30 minutes. Sortir, étaler le reste de beurre (20 g) sur la surface, puis réenfourner pour 30 minutes supplémentaires.",
+    "Laisser tiédir avant de démouler."
+  ],
+  "image": []
+}

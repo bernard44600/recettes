@@ -1,0 +1,58 @@
+{
+  "titre": "Cannelés bordelais",
+  "description": "Découverts à Bordeaux grâce à ma gourmande de Véro. Le cannelé doit avoir une croûte bien brune et un intérieur moelleux. Démoulez encore chaud.",
+  "portions": 8,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "65 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Lait",
+      "quantite": "500 ml"
+    },
+    {
+      "nom": "Oeufs entiers",
+      "quantite": "2"
+    },
+    {
+      "nom": "Jaunes d'oeufs",
+      "quantite": "2"
+    },
+    {
+      "nom": "Gousse de vanille",
+      "quantite": "1"
+    },
+    {
+      "nom": "Rhum",
+      "quantite": "1 cuillère à café"
+    },
+    {
+      "nom": "Farine",
+      "quantite": "100 g"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "250 g"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "50 g"
+    },
+    {
+      "nom": "Sel",
+      "quantite": "1 pincée"
+    }
+  ],
+  "etapes": [
+    "Faire bouillir le lait avec la gousse de vanille et le beurre dans une casserole.",
+    "Pendant ce temps, dans un saladier, mélangez la farine, le sucre, puis incorporer les oeufs (entiers + jaunes) d'un seul coup. Versez ensuite le lait bouillant par-dessus.",
+    "Mengez doucement pour obtenir une pâte bien fluide. Laissez refroidir complètement, puis ajoutez la cuillère de rhum.",
+    "Placez la pâte pendant 1 heure au réfrigérateur.",
+    "Préchauffez le four à 270°C (th 10) avec la plaque à l'intérieur (ou un moule à manqué si pas de plaque à cannelés) sur laquelle cuiront les cannelés.",
+    "Remplissez à moitié les moules préalablement bien beurrés.",
+    "Enfournez rapidement. Faites cuire d'abord 5 mn à 270°C, puis baissez à 190°C (th 6) et poursuivez la cuisson pendant 1h00."
+  ],
+  "image": []
+}

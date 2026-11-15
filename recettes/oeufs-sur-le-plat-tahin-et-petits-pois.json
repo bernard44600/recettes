@@ -1,0 +1,48 @@
+{
+  "slug": "oeufs-sur-le-plat-tahin-et-petits-pois",
+  "titre": "Oeufs sur le plat tahin et petits pois",
+  "description": "kilometre-0",
+  "categorie": [
+    "Plat"
+  ],
+  "portions": "2",
+  "temps_preparation": "20mn",
+  "temps_cuisson": "10mn",
+  "image": [
+    "oeufs-sur-le-plat-tahin-et-petits-pois.png"
+  ],
+  "ingredients": [
+    {
+      "quantite": "400g",
+      "nom": "petits pois"
+    },
+    {
+      "quantite": "1/2 botte",
+      "nom": "oignons nouveaux"
+    },
+    {
+      "quantite": "2",
+      "nom": "oeufs"
+    },
+    {
+      "quantite": "2cs",
+      "nom": "tahin (creme de sésame)"
+    },
+    {
+      "quantite": "1/4",
+      "nom": "citron"
+    },
+    {
+      "quantite": "",
+      "nom": "aneth"
+    }
+  ],
+  "etapes": [
+    "faire revenir les oignons (huile)",
+    "ajouter les petits pois et quelques cs d'eau, couvrir laisser cuire 5 à 10mn",
+    "mélanger le tahin avec citron et eau, jusqu'a votre gout",
+    "verser la creme dans les petits plats",
+    "cuire les oeufs sur le plat (huile), sel et poivre",
+    "mettre les oeufs sur la creme, ajouter petits pois et herbes"
+  ]
+}

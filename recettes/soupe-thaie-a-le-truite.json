@@ -1,0 +1,76 @@
+{
+  "titre": "Soupe thaïe à la truite",
+  "description": "Plusieurs fois testée, avec truite ou rougets, légère et savoureuse CVF n°202",
+  "portions": 4,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "25 mn",
+  "categorie": [
+    "Soupe"
+  ],
+  "ingredients": [
+    {
+      "nom": "Filets de truite (ou rougets)",
+      "quantite": "3"
+    },
+    {
+      "nom": "Lait de coco",
+      "quantite": "50 cl"
+    },
+    {
+      "nom": "Oignon rouge",
+      "quantite": "1"
+    },
+    {
+      "nom": "Échalote",
+      "quantite": "1"
+    },
+    {
+      "nom": "Piment vert",
+      "quantite": "1"
+    },
+    {
+      "nom": "Citron vert",
+      "quantite": "1"
+    },
+    {
+      "nom": "Bouillon de légumes",
+      "quantite": "40 cl"
+    },
+    {
+      "nom": "Tige de citronnelle",
+      "quantite": "1"
+    },
+    {
+      "nom": "Gingembre frais",
+      "quantite": "1 noix"
+    },
+    {
+      "nom": "Curcuma",
+      "quantite": "1 c. à soupe"
+    },
+    {
+      "nom": "Curry en poudre",
+      "quantite": "1 c. à café"
+    },
+    {
+      "nom": "Coriandre fraîche",
+      "quantite": "10 feuilles"
+    },
+    {
+      "nom": "Huile d’olive",
+      "quantite": "2 c. à soupe"
+    },
+    {
+      "nom": "Sauce nuoc-mâm",
+      "quantite": "1 c. à soupe"
+    }
+  ],
+  "etapes": [
+    "Pelez l’oignon et l’échalote. Hachez-les. Versez l’huile dans une casserole et faites-les blondir pendant 5 min. Pelez le gingembre et hachez-le. Ôtez la première écorce de la citronnelle et ciselez-la finement. Ajoutez-les dans la casserole avec les tiges de la coriandre. Continuez la cuisson 5 min, saupoudrez avec le curcuma, le curry et versez le lait de coco et le bouillon de légumes.",
+    "Laissez cuire 10 mn. Prélevez les zestes et le jus du citron. Coupez le piment en très fines lamelles. Rincez les filets de truite et coupez-les en tronçons de 3 cm.",
+    "Filtrez la soupe à travers une passoire et remettez-la sur le feu. Ajoutez le jus de citron, le nuoc-mâm, le piment. Lorsque la soupe est bien chaude, ajoutez les lamelles de poisson et faites-les pocher 3 min.",
+    "Servez la soupe dans des bols ou assiettes creuses et parsemez-la avec les zestes de citron et la coriandre ciselée.",
+    "Notre bon accord : un gewurztraminer (Alsace)"
+  ],
+  "image": []
+}

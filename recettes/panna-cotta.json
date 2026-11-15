@@ -1,0 +1,40 @@
+{
+  "titre": "Panna cotta",
+  "description": "Sylvie Martin, ma copine de marche, elle m’a dit “facile”...",
+  "portions": 4,
+  "temps_preparation": "24 h (repos)",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Crème fleurette",
+      "quantite": "250 g"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "100 g"
+    },
+    {
+      "nom": "Lait",
+      "quantite": "250 ml"
+    },
+    {
+      "nom": "Gousse de vanille (ou sucre vanillé)",
+      "quantite": "1"
+    },
+    {
+      "nom": "Feuilles de gélatine (ou agar-agar)",
+      "quantite": "3"
+    }
+  ],
+  "etapes": [
+    "Faire frémir la crème, le lait, le sucre et la vanille.",
+    "Ajouter la gélatine ramollie.",
+    "Bien mélanger le tout (ne pas laisser de morceaux de gélatine).",
+    "Faire refroidir dans des ramequins et mettre au réfrigérateur plusieurs heures voire 24h avant.",
+    "Servir avec un coulis de framboises ou des fruits."
+  ],
+  "image": []
+}

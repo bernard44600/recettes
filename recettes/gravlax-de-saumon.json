@@ -1,0 +1,62 @@
+{
+  "titre": "Gravlax de saumon",
+  "description": "Recette scandinave signifiant 'saumon enterré'. À préparer deux jours avant.",
+  "portions": 8,
+  "temps_preparation": "30mn+",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "Entrée"
+  ],
+  "ingredients": [
+    {
+      "nom": "Pavés de saumon épais avec la peau",
+      "quantite": "2 de 500 gr chacun"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "2 cuillères à soupe bombées + 1 pincée pour la sauce"
+    },
+    {
+      "nom": "Gros sel de mer",
+      "quantite": "3 cuillères à soupe rases"
+    },
+    {
+      "nom": "Aneth",
+      "quantite": "2 gros bouquets"
+    },
+    {
+      "nom": "Poivre concassé",
+      "quantite": "1 cuillère à soupe"
+    },
+    {
+      "nom": "Mayonnaise",
+      "quantite": "1 petit bol"
+    },
+    {
+      "nom": "Savora (moutarde)",
+      "quantite": "1 cuillère à café"
+    },
+    {
+      "nom": "Yaourt bulgare",
+      "quantite": "1"
+    },
+    {
+      "nom": "Curry",
+      "quantite": "1 cuillère à café"
+    },
+    {
+      "nom": "Poivre blanc, sel",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Deux jours avant: Mélangez dans un bol le sucre, le gros sel et la moitié du poivre concassé. Rincez et épongez les pavés de saumon. Posez-en un, côté peau, dans un plat creux, saupoudrez-le du mélange sucre/sel/poivre.",
+    "Couvrez complètement de branches d'aneth (gardez-en 6 brins pour la sauce). Recouvrez avec l'autre pavé de saumon, peau vers le haut.",
+    "Couvrez de film étirable, posez dessus une petite planche surmontée d'un poids (environ 1kg). Réservez 48h au frais.",
+    "Durant ce temps, retournez le saumon environ 6 fois: retournez-le, videz l'eau du plat, remettez le film étirable, la planche et le poids.",
+    "Une heure avant de servir, essuyez le saumon avec du papier absorbant. Sur une planche, coupez-le en tranches de 1/2 cm d'épaisseur à la verticale (ou à l'horizontale très finement avec un couteau long à lame souple). La peau restera sur la planche.",
+    "Disposez les tranches dans des assiettes et parsemez du reste de poivre.",
+    "Préparez la sauce: Mélangez tous les ingrédients restants dans un bol, fouettez un peu au fouet à main, parsemez-la du reste d'aneth ciselée et servez-la avec le saumon."
+  ],
+  "image": []
+}

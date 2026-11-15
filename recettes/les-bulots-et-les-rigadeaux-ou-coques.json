@@ -1,0 +1,39 @@
+{
+  "titre": "Les bulots et les rigadeaux ou coques",
+  "description": "Recette de préparation de mollusques marins accompagnés d'une mayonnaise maison.",
+  "portions": 1,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "10 mn",
+  "categorie": [
+    "Entrée",
+    "Fruit de mer"
+  ],
+  "ingredients": [
+    {
+      "nom": "Bulots",
+      "quantite": " "
+    },
+    {
+      "nom": "Gros sel",
+      "quantite": "pincée (pour dégorger)"
+    },
+    {
+      "nom": "Rigadeaux ou coques",
+      "quantite": ""
+    },
+    {
+      "nom": "Mayonnaise maison",
+      "quantite": "cuillère (accompagnement)"
+    }
+  ],
+  "etapes": [
+    "Laver les bulots et les faire dégorger dans du gros sel.",
+    "Bien rincer les bulots.",
+    "Mettre les bulots dans l'eau froide, porter à ébullition et cuire 10 minutes après la reprise de l'ébullition.",
+    "Faire dessabler les rigadeaux ou coques dans l'eau pendant 24 heures.",
+    "Faire ouvrir les coques dans un fournut en les tournant régulièrement.",
+    "Nettoyer les crustacés plusieurs fois et les égoutter.",
+    "Laisser refroidir à l'air libre (bord de fenêtre), ne pas mettre au réfrigérateur."
+  ],
+  "image": []
+}

@@ -1,0 +1,48 @@
+{
+  "titre": "Velouté de mâche",
+  "description": "C.V.F. Le conseil C.V.F: qu'elle soit achetée en vrac ou bien en barquette, la mâche doit toujours être lavée à grande eau, bien égouttée et bien séchée. Une barquette peut être conservée un ou deux jours au frais, mais pas plus, car quand la mâche commence à s'abimer, ça devient vite de la charpie et t'as perdu ton argent.",
+  "portions": 4,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "15 mn",
+  "categorie": [
+    "Soupe"
+  ],
+  "ingredients": [
+    {
+      "nom": "Mâche",
+      "quantite": "500 gr"
+    },
+    {
+      "nom": "Courgettes",
+      "quantite": "2"
+    },
+    {
+      "nom": "Échalotes",
+      "quantite": "2"
+    },
+    {
+      "nom": "Lait entier (ou 1/2 écrémé, c'est mieux pour le cholestérol)",
+      "quantite": "30 cl"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "20 gr"
+    },
+    {
+      "nom": "Sel, poivre du moulin",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Lavez et essorez la mâche. Rincez les courgettes, puis coupez leurs extrémités. Détaillez-les en rondelles.",
+    "Pelez et émincez très finement les échalotes.",
+    "Faites chauffer le beurre dans une sauteuse, mettez les échalotes à blondir en remuant constamment, puis ajoutez la mâche et les rondelles de courgettes.",
+    "Mélangez à la cuillère en bois (ou autre ustensile si t'en as pas) pendant 2 à 3 minutes, versez ensuite 30 cl d'eau chaude et salez.",
+    "Laissez frémir pendant 15 minutes. Passez le tout au mixeur ou au blender, puis réservez.",
+    "Au moment de servir, faites chauffer le lait dans une casserole.",
+    "Mélangez la soupe avec le lait chaud et donnez quelques tours de moulin à poivre.",
+    "Versez dans une soupière ou directement dans des bols ou des assiettes à soupe.",
+    "Le bon accord: un entre-deux-mers (Bordeaux)."
+  ],
+  "image": []
+}

@@ -1,0 +1,55 @@
+{
+  "titre": "Tarte saumon et courgettes",
+  "description": "Recette de Fanouchette réveillon 2019 (ref. chefclub.TV). À la sortie du four, coupez en parts puis dégustez. Important que les courgettes dépassent un peu sur le côté pour faire ressortir la forme de fleur.",
+  "portions": 8,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "30 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Pâtes feuilletées (épaisses)",
+      "quantite": "2 (240 g chacune)"
+    },
+    {
+      "nom": "Pavés de saumon",
+      "quantite": "4"
+    },
+    {
+      "nom": "Fromage frais (type St Moret)",
+      "quantite": "100 g"
+    },
+    {
+      "nom": "Courgettes (petites et de diamètre identique)",
+      "quantite": "2"
+    },
+    {
+      "nom": "Ciboulette",
+      "quantite": "1 botte ciselée"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": null
+    },
+    {
+      "nom": "Eau",
+      "quantite": "pour badigeonner"
+    }
+  ],
+  "etapes": [
+    "Piquez la première pâte feuilletée avec une fourchette et déposez dessus les pavés de saumon de façon à ce qu'ils forment un grand cercle.",
+    "Badigeonnez d'eau avec un pinceau la pâte autour du cercle de saumon, puis la rabattre vers l'intérieur sur les pavés pour les emprisonner.",
+    "Taillez la couronne de pavés recouverts de pâte en morceaux réguliers de 3 cm de large, puis faites pivoter chaque morceau de 90° vers l'extérieur pour mettre le saumon apparent vers le haut.",
+    "Dans un bol, mélangez le fromage frais avec de la ciboulette ciselée, du sel et le poivre, puis l'étaler au centre de la seconde pâte également piquée à la fourchette.",
+    "Taillez cette seconde pâte en 6 grandes bandes de la même largeur.",
+    "Taillez les courgettes en fines lamelles (rondelles) puis les disposer en longueur sur les bandes de pâtes en les faisant légèrement dépasser sur un côté.",
+    "Roulez la première bande sur elle-même pour former le cœur, puis enroulez la deuxième bande autour. Recommencer avec toutes les bandes pour obtenir une grande fleur de courgette.",
+    "Placez délicatement cette grande fleur de courgettes au centre de la tarte au saumon.",
+    "Enfournez pendant 25 à 30 mn à 180°C."
+  ],
+  "image": [
+    "tarte-saumon-et-courgettes-2.png",
+    "tarte-saumon-et-courgettes.png"
+  ]
+}

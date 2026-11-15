@@ -1,0 +1,51 @@
+{
+  "titre": "Paëlla",
+  "description": "Recette de Fanny, simple et sympa. C'est prêt après 45 minutes de cuisson alternée.",
+  "portions": 6,
+  "temps_preparation": "10 mn",
+  "temps_cuisson": "45 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Riz",
+      "quantite": "250 gr"
+    },
+    {
+      "nom": "Safran",
+      "quantite": "3 doses"
+    },
+    {
+      "nom": "Tomates",
+      "quantite": "1 boite 4/4"
+    },
+    {
+      "nom": "Gros oignon",
+      "quantite": "1"
+    },
+    {
+      "nom": "Poivron",
+      "quantite": "1"
+    },
+    {
+      "nom": "Huile d'olive",
+      "quantite": "1½ cuillerée à soupe"
+    },
+    {
+      "nom": "Fruits de mer surgelés",
+      "quantite": "2 paquets"
+    },
+    {
+      "nom": "Chorizo",
+      "quantite": "1"
+    }
+  ],
+  "etapes": [
+    "Faire chauffer l'huile d'olive dans une grande poêle ou un plat à paëlla.",
+    "Mettre l'oignon émincé, le riz, le safran, les tomates et le poivron coupé. Faire cuire 15 minutes.",
+    "Puis ajoutez les 2 paquets de fruits de mer. Cuire à nouveau 15 minutes.",
+    "Ajoutez enfin le chorizo coupé en rondelles et faites cuire les 15 dernières minutes."
+  ],
+  "image": []
+}

@@ -1,0 +1,50 @@
+{
+  "titre": "Gâteau breton",
+  "description": "Anne Marie, maman de Cathy, femme de Dom, sympathique journée à Moëlan été 2021",
+  "portions": 8,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "45 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Beurre demi-sel très mou",
+      "quantite": "350 g"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "300 g"
+    },
+    {
+      "nom": "Farine",
+      "quantite": "300 g"
+    },
+    {
+      "nom": "Œuf entier + 5 jaunes",
+      "quantite": "1 + 5"
+    },
+    {
+      "nom": "Eau de fleur d’oranger",
+      "quantite": "1 c. à soupe"
+    },
+    {
+      "nom": "Sucre vanillé",
+      "quantite": "1 sachet"
+    },
+    {
+      "nom": "Pour dorer : 1 jaune d'œuf, 1 c. à café de lait, ½ c. à café de sucre",
+      "quantite": ""
+    }
+  ],
+  "etapes": [
+    "Versez la farine dans une grande jatte. Y mélanger le sucre et le sucre vanillé. Creusez un puits au centre. Y placer les œufs, le beurre mou et l’eau de fleur d’oranger.",
+    "Travaillez cette pâte avec une cuillère de bois juste pour mélanger les ingrédients (surtout pas trop longtemps).",
+    "Beurrez largement un moule à manqué ou une tourtière.",
+    "Préchauffez le four à 180° ou th 5 à 6.",
+    "Installez la pâte dans le moule et l’aplatir. Dorez avec le jaune d'œuf. Puis striez la surface de la pâte avec les dents d’une fourchette.",
+    "Faire cuire 45 à 50 minutes dans le four. Il doit être blond, doré et très moelleux.",
+    "Laissez refroidir avant de démouler. Possibilité de le préparer à l'avance, congélation possible."
+  ],
+  "image": []
+}

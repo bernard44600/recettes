@@ -1,0 +1,38 @@
+{
+  "titre": "Mousse de thon (amicale laïque) - variante rillettes",
+  "description": "Et si toi ou tes invités aimez les poivrons tu peux ajouter un demi poivron jaune coupé en tout petits dés. Ça fait une jolie couleur.",
+  "portions": 6,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Fromage blanc",
+      "quantite": "250 gr"
+    },
+    {
+      "nom": "Thon à l'huile",
+      "quantite": "2 boites (200g)"
+    },
+    {
+      "nom": "Citron",
+      "quantite": "1"
+    },
+    {
+      "nom": "Estragon",
+      "quantite": "1 botte"
+    },
+    {
+      "nom": "Poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "A l'aide d'une fourchette, écrasez le thon avec le fromage blanc et le poivre.",
+    "Ajouter le jus de citron et l'estragon.",
+    "Mettre au frais."
+  ],
+  "image": []
+}

@@ -1,0 +1,47 @@
+{
+  "titre": "Soupe froide au concombre",
+  "description": "Faites maintes fois l’été, facile d’exécution, bonne à déguster, sympa à partager",
+  "portions": 11,
+  "temps_preparation": "10 mn",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "Entrée",
+    "Soupe"
+  ],
+  "ingredients": [
+    {
+      "nom": "Concombres",
+      "quantite": "2"
+    },
+    {
+      "nom": "Tomates",
+      "quantite": "2"
+    },
+    {
+      "nom": "Yaourts grecs ou veloutés",
+      "quantite": "2"
+    },
+    {
+      "nom": "Estragon ou cerfeuil",
+      "quantite": ""
+    },
+    {
+      "nom": "Tabasco",
+      "quantite": ""
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": ""
+    }
+  ],
+  "etapes": [
+    "Épluchez les concombres, les couper en deux dans le sens de la longueur et enlever les grains.",
+    "Détaillez les en lamelles de 2 mm environ.",
+    "Faites chauffer de l’eau et y mettre les tomates quand elle est bouillante. Sortez rapidement les tomates et épluchez les, puis épépinez les.",
+    "Mettez ces ingrédients, auxquels vous rajoutez le yaourt grec, dans un bol de mixeur avec le couteau.",
+    "Ajoutez le sel, le poivre, l’estragon et quelques gouttes de tabasco.",
+    "Mixez jusqu’à obtenir une texture presque liquide.",
+    "Gardez au réfrigérateur jusqu’au moment de servir."
+  ],
+  "image": []
+}

@@ -1,0 +1,49 @@
+{
+  "titre": "Pesto",
+  "description": "Par Bernard, l’été, quand le basilic nous titille les narines et étouffe le citronnier",
+  "portions": 3,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "sauce"
+  ],
+  "ingredients": [
+    {
+      "nom": "Basilic",
+      "quantite": "60 g (ou 40 g)"
+    },
+    {
+      "nom": "Pignons (ou noix)",
+      "quantite": "30 g (ou 20 g)"
+    },
+    {
+      "nom": "Parmesan râpé",
+      "quantite": "50 g"
+    },
+    {
+      "nom": "Huile d’olive",
+      "quantite": "12 cl (ou 8 cl)"
+    },
+    {
+      "nom": "Ail",
+      "quantite": "1 à 3 gousses"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": ""
+    },
+    {
+      "nom": "Jus de citron",
+      "quantite": "Quelques gouttes"
+    }
+  ],
+  "etapes": [
+    "Rassemblez tous les ingrédients ail, pignon, parmesan, la moitié de la quantité d’huile dans le bol d’un appareil électrique muni d’un couteau.",
+    "Faire une pâte.",
+    "Rajoutez après le basilic et le reste de l’huile. Broyer avec un mixeur.",
+    "Décollez la pâte obtenue avec une cuillère type “langue de chat”, celle qui racle bien sans abîmer.",
+    "Pour faciliter une utilisation ultérieure, dans un premier temps, mettre dans des petits moules proportionnables et placez au congélateur.",
+    "Quand les portions sont congelées, les mettre dans un sac en plastique et les prendre une par une selon le besoin."
+  ],
+  "image": []
+}

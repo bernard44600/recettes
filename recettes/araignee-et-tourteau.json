@@ -1,0 +1,58 @@
+{
+  "slug": "araignee-et-tourteau",
+  "titre": "Araignée et tourteau",
+  "description": "Préparation de crabes (araignée et tourteau) bouillis pour une dégustation tiède.",
+  "categorie": [
+    "Plat",
+    "Fruit de mer"
+  ],
+  "portions": "1",
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "20 mn",
+  "image": "",
+  "ingredients": [
+    {
+      "quantite": "pièces (femelle si possible)",
+      "nom": "Araignée"
+    },
+    {
+      "quantite": "pièces",
+      "nom": "Tourteau"
+    },
+    {
+      "quantite": "litres (salée)",
+      "nom": "Eau"
+    },
+    {
+      "quantite": "",
+      "nom": "Gros sel"
+    },
+    {
+      "quantite": "",
+      "nom": "Poivre"
+    },
+    {
+      "quantite": "1 pièce (coupé)",
+      "nom": "Oignon"
+    },
+    {
+      "quantite": "1 feuille",
+      "nom": "Laurier"
+    },
+    {
+      "quantite": "",
+      "nom": "Thym"
+    },
+    {
+      "quantite": "maison si possible",
+      "nom": "Mayonnaise ou aioli"
+    }
+  ],
+  "etapes": [
+    "Endormir l'araignée au congélateur pendant 1/4 d'heure pendant la préparation du bouillon.",
+    "Préparer un bouquet garni avec le laurier et le thym attachés avec de la ficelle. Faire un court bouillon avec l'eau salée, gros sel, poivre, oignon coupé, laurier et thym, puis porter à ébullition.",
+    "Mettre l'araignée dans l'eau bouillante pour la saisir. Compter ensuite 15 à 20 minutes puis éteindre le feu.",
+    "Égoutter les crustacés en les mettant dans une passoire courbe sur le dessus en dégageant le triangle sur le dessous pour vider l'eau.",
+    "Manger tiède avec de la mayonnaise ou de l'aioli maison."
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "titre": "Sablés thym-citron",
+  "description": "Emilie laboratoire. Pour accompagner un thé, ou en dessert avec une bonne glace à la vanille ou comme ça pour le plaisir. Résistez à la tentation de les laisser dorer, ils seraient plus jolis, mais trop secs.",
+  "portions": 6,
+  "temps_preparation": "1h15",
+  "temps_cuisson": "10 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Farine",
+      "quantite": "270 gr"
+    },
+    {
+      "nom": "Sucre glace",
+      "quantite": "120 gr"
+    },
+    {
+      "nom": "Amandes en poudre",
+      "quantite": "50 gr"
+    },
+    {
+      "nom": "Citrons bio",
+      "quantite": "2 (pour zeste râpé)"
+    },
+    {
+      "nom": "Thym frais effeuillé",
+      "quantite": "1 grosse cs"
+    },
+    {
+      "nom": "Beurre demi-sel",
+      "quantite": "125 g froid"
+    },
+    {
+      "nom": "Oeuf",
+      "quantite": "1"
+    }
+  ],
+  "etapes": [
+    "Mélangez dans un saladier la farine, le sucre glace et les amandes en poudre, puis le zeste râpé des citrons et le thym. Ajoutez le beurre froid coupé en cubes et travaillez-le du bout des doigts jusqu'à obtenir une consistance sableuse homogène.",
+    "Ajoutez l'oeuf, mélanger avec une spatule et terminez avec les mains pour former une boule de pâte. Si la pâte est trop humide et colle aux doigts, ajouter un peu de farine.",
+    "Recouvrez la boule de film alimentaire et placez au frais pendant 1h.",
+    "Préchauffez le four à 180 °Celsius (thermostat 6).",
+    "Etalez la pâte sur 1/2 cm environ d'épaisseur sur une surface farinée, découpez des cercles avec un emporte-pièce ou un petit verre retourné.",
+    "Déposez les biscuits sur une plaque tapissée de papier de cuisson.",
+    "Enfournez pour 10 mn."
+  ],
+  "image": []
+}

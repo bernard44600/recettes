@@ -1,0 +1,33 @@
+{
+  "titre": "Rillettes de thon 1",
+  "description": "Manuel, Evelyne et peut-être d'autres. À consommer sans modération.",
+  "portions": 6,
+  "temps_preparation": "10 mn",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Thon",
+      "quantite": "2 boites"
+    },
+    {
+      "nom": "Boursin ou tartare",
+      "quantite": "150 gr"
+    },
+    {
+      "nom": "Vinaigre balsamique",
+      "quantite": "4 à 5 cuillères à soupe"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": "selon le goût"
+    }
+  ],
+  "etapes": [
+    "Mélangez le tout avec ou sans robot jusqu'à la consistance désirée.",
+    "Ajoutez selon le goût du sel et/ou du poivre."
+  ],
+  "image": []
+}

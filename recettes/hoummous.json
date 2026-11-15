@@ -1,0 +1,41 @@
+{
+  "titre": "Hoummous",
+  "description": "Hannan, copine palestinienne à papa. Le plus facile pour le préparer est de le mixer avec le couteau, pas facile à écraser à la main.",
+  "portions": 6,
+  "temps_preparation": "10 mn",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Pois chiche",
+      "quantite": "1 boite moyenne (pas la 4/4, attention garder le jus)"
+    },
+    {
+      "nom": "Huile d'olive",
+      "quantite": "2 cuillères à soupe"
+    },
+    {
+      "nom": "Ail",
+      "quantite": "2 à 3 gousses"
+    },
+    {
+      "nom": "Purée de sésame (tahin)",
+      "quantite": "1 cuillère à soupe (se garde au réfrigérateur après ouverture)"
+    },
+    {
+      "nom": "Jus de citron",
+      "quantite": "Le jus de 1 citron"
+    },
+    {
+      "nom": "Sel",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Mettre les pois chiches avec leur jus, l'huile d'olive, l'ail, le sel, le tahin et le jus de citron dans le mixeur.",
+    "Mixer le tout avec le couteau jusqu'à obtenir la consistance voulue."
+  ],
+  "image": []
+}

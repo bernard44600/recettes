@@ -1,0 +1,45 @@
+{
+  "titre": "Les galettes d'avoine",
+  "description": "Recette rapportée de l'école par Manuel, qui s'est empressé de les faire.",
+  "portions": 4,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "10 mn",
+  "categorie": [
+    "Entrée"
+  ],
+  "ingredients": [
+    {
+      "nom": "Farine ordinaire (Bio ou pas)",
+      "quantite": "450 g"
+    },
+    {
+      "nom": "Sel",
+      "quantite": "1 cuillerée à café"
+    },
+    {
+      "nom": "Bicarbonate de soude alimentaire",
+      "quantite": "1 cuillerée à café"
+    },
+    {
+      "nom": "Yaourt nature ou babeurre",
+      "quantite": "300 ml"
+    },
+    {
+      "nom": "Huile de cuisine",
+      "quantite": null
+    },
+    {
+      "nom": "Eau",
+      "quantite": "si nécessaire"
+    }
+  ],
+  "etapes": [
+    "Tamisez la farine, le bicarbonate et le sel dans un grand bol.",
+    "Versez le yaourt ou le babeurre dans la farine et bats pour obtenir une pâte molle. Ajoute de l'eau si nécessaire.",
+    "Déposez la pâte sur une planche farinée et la pétrir pendant 5 minutes.",
+    "Demande à un adulte de huiler une poêle à frire et de la mettre à feu moyen.",
+    "Posez des galettes de pâtes dans la poêle, couvrir et réduire le feu. 3 minutes après, retournez-les.",
+    "Couvrir et laisser cuire 3 autres minutes jusqu'à ce que les galettes soient bien dorées. Bonne dégustation."
+  ],
+  "image": []
+}

@@ -1,0 +1,36 @@
+{
+  "slug": "socca-nicoise",
+  "titre": "Socca nicoise",
+  "description": "Chips de pois chiche",
+  "categorie": [
+    "Apéro"
+  ],
+  "portions": "",
+  "temps_preparation": "",
+  "temps_cuisson": "",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "250 g",
+      "nom": "farine de pois chiches"
+    },
+    {
+      "quantite": "Une pincée",
+      "nom": "sel"
+    },
+    {
+      "quantite": "50 cl",
+      "nom": "eau"
+    },
+    {
+      "quantite": "4 cuillerées à soupe",
+      "nom": "huile d'olive"
+    }
+  ],
+  "etapes": [
+    "Mélanger de la farine de pois chiches le sel et l'eau jusqu'à obtenir une pâte lisse ",
+    "Incorporer les 4 cuillerées de soupe d'huile d'olive ",
+    "Verser la préparation en fine couche sur une plaque huilée en fournée pour 2 minutes à 250 degrés ",
+    "Passer en mode grill et les laisser cuire 5 à 7 minutes jusqu'à coloration"
+  ]
+}

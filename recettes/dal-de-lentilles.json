@@ -1,0 +1,47 @@
+{
+  "titre": "Dal de lentilles",
+  "description": "Recette offerte par Emilie lors de son mariage avec Julien. Astuce: même procédé si tu veux faire une recette en ajoutant des oignons ou autre, la proportion est toujours identique : 1 dose de lentilles pour 2 doses d'eau.",
+  "portions": 4,
+  "temps_preparation": "10 mn",
+  "temps_cuisson": "10 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Lentilles corail",
+      "quantite": "200 g"
+    },
+    {
+      "nom": "Gingembre râpé frais",
+      "quantite": "½ cuillère"
+    },
+    {
+      "nom": "Coriandre en poudre",
+      "quantite": "½ cuillère"
+    },
+    {
+      "nom": "Cumin",
+      "quantite": "½ cuillère"
+    },
+    {
+      "nom": "Coriandre frais",
+      "quantite": null
+    },
+    {
+      "nom": "Ghee (beurre clarifié)",
+      "quantite": "1 cuillère à soupe (on en trouve aux hameaux bio)"
+    },
+    {
+      "nom": "Sel",
+      "quantite": "1 pincée"
+    }
+  ],
+  "etapes": [
+    "Dans une casserole, faire revenir les épices dans le ghee.",
+    "Ajoutez les lentilles corail et couvrir de 40 cl d'eau (respecter le ratio 1 dose de lentilles pour 2 doses d'eau).",
+    "Laissez cuire jusqu'à évaporation totale de l'eau.",
+    "Parsemer de coriandre fraîche et servir."
+  ],
+  "image": []
+}

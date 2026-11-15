@@ -1,0 +1,88 @@
+{
+  "titre": "Nems",
+  "description": "Recette d'une grand-mère vietnamienne à Grenoble. Moins gras à cuire au four et on peut tous les mettre en une fois, moins fatiguant.",
+  "portions": 5,
+  "temps_preparation": "40 mn",
+  "temps_cuisson": "15 mn",
+  "categorie": [
+    "Entrée"
+  ],
+  "ingredients": [
+    {
+      "nom": "Porc ou poisson blanc",
+      "quantite": "500 g (le goût ne sera pas très différent)"
+    },
+    {
+      "nom": "Crevettes (petites)",
+      "quantite": null
+    },
+    {
+      "nom": "Crabe",
+      "quantite": "en boite"
+    },
+    {
+      "nom": "Champignons noirs",
+      "quantite": null
+    },
+    {
+      "nom": "Soja",
+      "quantite": null
+    },
+    {
+      "nom": "Oignon",
+      "quantite": null
+    },
+    {
+      "nom": "Vermicelle chinois",
+      "quantite": null
+    },
+    {
+      "nom": "Carotte (facultative)",
+      "quantite": "1 à râper"
+    },
+    {
+      "nom": "Oeuf",
+      "quantite": "1"
+    },
+    {
+      "nom": "Estragon",
+      "quantite": null
+    },
+    {
+      "nom": "Persil Chinois (coriandre en fait)",
+      "quantite": null
+    },
+    {
+      "nom": "Menthe fraîche",
+      "quantite": null
+    },
+    {
+      "nom": "Farine",
+      "quantite": "100g"
+    },
+    {
+      "nom": "Feuille de riz (des petites en quarts)",
+      "quantite": null
+    },
+    {
+      "nom": "Eau caramélisée",
+      "quantite": "pour tremper les feuilles"
+    },
+    {
+      "nom": "Huile",
+      "quantite": "pour la cuisson"
+    },
+    {
+      "nom": "Accompagnement: Concombre, coriandre, menthe, et feuilles de laitue",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Hachez le tout menu dans une bassine propre et mélanger avec l'oeuf, le sel, le poivre et la carotte râpée.",
+    "Préparez une eau caramélisée dans un saladier assez grand.",
+    "Trempez les feuilles de riz dedans, mettre la valeur d'une grosse cuillère de farce et empaqueter en pliant les coins et en roulant pour faire la forme du nem.",
+    "Cuisson: Dans une poêle huilée faire revenir, ou dans le lèchefrite du four moins gras.",
+    "Servir enroulé dans une feuille de laitue avec du concombre, de la coriandre et de la menthe."
+  ],
+  "image": []
+}

@@ -1,0 +1,53 @@
+{
+  "titre": "Pâtes aux courgettes et aux amandes, sauce chaude au chèvre",
+  "description": "",
+  "portions": 4,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "15 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Tagliatelles (fraîches c’est mieux)",
+      "quantite": "300 g"
+    },
+    {
+      "nom": "Petites courgettes",
+      "quantite": "500 g"
+    },
+    {
+      "nom": "Poudre d’amandes",
+      "quantite": "50 g"
+    },
+    {
+      "nom": "Chèvre frais",
+      "quantite": "150 g"
+    },
+    {
+      "nom": "Crème liquide",
+      "quantite": "4 cuillères à soupe"
+    },
+    {
+      "nom": "Huile d’olive",
+      "quantite": "4 cuillères à soupe"
+    },
+    {
+      "nom": "Ail",
+      "quantite": "2 gousses"
+    },
+    {
+      "nom": "Piment d’Espelette, sel",
+      "quantite": ""
+    }
+  ],
+  "etapes": [
+    "Lavez et essuyez les courgettes. Coupez-les en dés après avoir éliminé les extrémités. Pelez et émincez l’ail.",
+    "Faites chauffer la moitié de l’huile dans une sauteuse. Mettez l’ail à revenir sans colorer, puis ajoutez les courgettes et faites-les sauter à feu vif en remuant, pour qu’elles dorent, 10 min environ.",
+    "Dans le même temps, mettez de l’eau salée à bouillir dans un faitout pour faire cuire les tagliatelles.",
+    "Émiettez le chèvre dans une petite casserole. Ajoutez la crème, la poudre d’amandes et le reste d'huile, relevez d’une pincée de piment. Faites chauffer sur feu doux en remuant de temps en temps pour obtenir une sauce crémeuse.",
+    "Faites cuire les pâtes environ 6 min après reprise de l’ébullition (goûtez pour vérifier la cuisson), égouttez-les rapidement, versez-les dans un plat chaud, ajoutez les courgettes et la sauce au chèvre, mélangez et servez aussitôt.",
+    "Notre bon accord : Un anjou blanc (vallée de la Loire)"
+  ],
+  "image": []
+}

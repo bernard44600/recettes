@@ -1,0 +1,58 @@
+{
+  "titre": "Pâté végétal",
+  "description": "'Les meilleures recettes végétariennes du monde entier' Mireille Ballero 1978. Il peut se conserver quelques jours au réfrigérateur.",
+  "portions": 8,
+  "temps_preparation": "10 mn",
+  "temps_cuisson": "15 mn",
+  "categorie": [
+    "Entrée"
+  ],
+  "ingredients": [
+    {
+      "nom": "Pain complet rassis",
+      "quantite": "250 gr"
+    },
+    {
+      "nom": "Gros oignons",
+      "quantite": "5"
+    },
+    {
+      "nom": "Ail",
+      "quantite": "3 gousses ou davantage"
+    },
+    {
+      "nom": "Graisse végétale",
+      "quantite": "100 g"
+    },
+    {
+      "nom": "Levure en poudre ou en paillettes (maltée)",
+      "quantite": "100 g"
+    },
+    {
+      "nom": "Poudre de basilic",
+      "quantite": "1 à 3 cuillères selon le goût (si t'as pas de frais)"
+    },
+    {
+      "nom": "Eau chaude",
+      "quantite": "4 verres"
+    },
+    {
+      "nom": "Olives noires et feuilles de menthe",
+      "quantite": "pour la décoration"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Faire tremper le pain dur dans l'eau chaude. Il doit être ramolli, mais attention, ne mettez pas trop d'eau.",
+    "Pendant ce temps, faire cuire à tout petit feu, dans la graisse végétale, les oignons coupés en lamelles, l'ail écrasé, avec le sel, le poivre et le basilic.",
+    "Couvrez et laissez cuire 1 heure, en mettant la casserole sur un diffuseur (truc que l'on pose sur le feu pour cuire tout doux) pour que les oignons soient bien dorés mais non brûlés.",
+    "Retirez du feu, versez dans une casserole plus grande si nécessaire et ajoutez le pain. Tournez pendant 1/4 d'heure sur feu vif.",
+    "Hors du feu ajoutez la levure et mélangez bien. Passez le tout à la moulinette dans un saladier ou un plat en terre. Huilez légèrement la surface.",
+    "Mettez le pâté sitôt refroidi au réfrigérateur.",
+    "Au moment de le déguster, démoulez-le sur un lit de feuilles de salade et décorez le dessus avec les olives noires et des feuilles de menthe."
+  ],
+  "image": []
+}

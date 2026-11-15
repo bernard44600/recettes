@@ -1,0 +1,77 @@
+{
+  "titre": "Koulibiac de saumon au beurre blanc",
+  "description": "À nouveau…Sylvie, ma grande sœur, pour le plaisir de ses invités et de René",
+  "portions": 4,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "30 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Saumon sans peau",
+      "quantite": "500 g"
+    },
+    {
+      "nom": "Riz basmati cuit et froid",
+      "quantite": "100 g"
+    },
+    {
+      "nom": "Champignons de Paris",
+      "quantite": "180 g"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "20 g + 150 g pour sauce"
+    },
+    {
+      "nom": "Oignon jaune",
+      "quantite": "1"
+    },
+    {
+      "nom": "Œufs durs",
+      "quantite": "4 + 1 jaune pour dorer"
+    },
+    {
+      "nom": "Persil haché",
+      "quantite": "3 c. à soupe"
+    },
+    {
+      "nom": "Aneth ciselée",
+      "quantite": "2 c. à soupe"
+    },
+    {
+      "nom": "Pâte feuilletée",
+      "quantite": "1 rouleau"
+    },
+    {
+      "nom": "Échalote pour sauce",
+      "quantite": "1 (ou plus)"
+    },
+    {
+      "nom": "Vin blanc",
+      "quantite": "5 cl"
+    },
+    {
+      "nom": "Jus de citron jaune",
+      "quantite": "1"
+    },
+    {
+      "nom": "Sel fin, poivre",
+      "quantite": ""
+    }
+  ],
+  "etapes": [
+    "Faire durcir les 4 œufs. Équeutez et lavez les champignons. Sortez le saumon du réfrigérateur.",
+    "Faire chauffer les 20 g de beurre et l'huile d’olive dans la poêle sur feu vif. Mettre l’oignon ciselé, réduire le feu. Ajoutez les champignons coupés en dés ou émincés et remontez le feu. Salez, poivrez, ajoutez une noix de beurre.",
+    "Taillez le saumon en gros cubes et le mettre dans un saladier. Coupez les œufs menus et les mettre dans un autre saladier. Ajoutez le riz, les champignons, les oignons, le persil, l’aneth le sel et le poivre et mettez les dans un 3ème saladier.",
+    "Étalez la pâte feuilletée. Mettre les œufs en forme de rectangle au milieu de la pâte, puis dessus la farce aux champignons et le riz et enfin les cubes de saumon. Salez, poivrez, persil et aneth.",
+    "Enroulez le tout pour faire comme un rôti en pinçant les deux extrémités enduites d’eau au préalable, pour les souder.",
+    "Badigeonnez avec le jaune d’œuf pour dorer la pâte, retournez-la pour laisser voir le côté sans plis et badigeonnez à nouveau. Faites des traits avec un couteau. Enfournez à 220°C.",
+    "Pour la sauce beurre blanc : Dans une casserole, mettre l’échalote ciselée, le vin blanc, le jus de citron. Faire réduire. Incorporer le beurre froid en cubes en fouettant. Assaisonner.",
+    "Dégustez avec la sauce beurre blanc et une salade verte ou de la mâche."
+  ],
+  "image": [
+    "koulibiac-de-saumon-au-beurre-blanc.jpg"
+  ]
+}

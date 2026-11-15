@@ -1,0 +1,30 @@
+{
+  "titre": "Cocktail à la fraise",
+  "description": "Emmanuelle, D.U. d'alcoologie. Apéro fraise bien sympa et frais quand on est un peu nombreux.",
+  "portions": 8,
+  "temps_preparation": "5 mn",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Liqueur de fraise ou sirop",
+      "quantite": "1 bol environ 250 ml"
+    },
+    {
+      "nom": "Mousseux",
+      "quantite": "2 bouteilles"
+    },
+    {
+      "nom": "Rosé",
+      "quantite": "1 bouteille"
+    }
+  ],
+  "etapes": [
+    "Trouver une dame jeanne ou un contenant pouvant recevoir plusieurs litres.",
+    "Mélanger la liqueur de fraise, le mousseux et le rosé.",
+    "Petit truc pratique : A savoir qu'avec une bouteille qui fait couramment 75cl on remplit 6 verres de 12.5 cl (environ un pot de yaourt). Donc avec cette quantité là j'ai déjà 14 verres."
+  ],
+  "image": []
+}

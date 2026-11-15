@@ -1,0 +1,44 @@
+{
+  "titre": "Pommes dauphine",
+  "description": "Spécialité de Jeannette, rituel des Noël Clavier lors des grandes tablées",
+  "portions": 3,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "35 mn",
+  "categorie": [
+    "accompagnement"
+  ],
+  "ingredients": [
+    {
+      "nom": "Pommes de terre à purée (Bintje)",
+      "quantite": "400 g"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "100 g"
+    },
+    {
+      "nom": "Farine",
+      "quantite": "100 g"
+    },
+    {
+      "nom": "Œufs",
+      "quantite": "2"
+    },
+    {
+      "nom": "Huile pour friture",
+      "quantite": ""
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": ""
+    }
+  ],
+  "etapes": [
+    "Épluchez les pommes de terre, lavez-les et faites-les cuire 25 mn dans une grande casserole d’eau salée.",
+    "Préparez une pâte à choux : mettez dans une casserole 20 cl d’eau, le beurre et une pincée de sel, faites bouillir, versez-y toute la farine d’un seul coup. Remuez au fouet. Retirez du feu et ajoutez les 2 œufs en fouettant.",
+    "Lorsque les pommes de terre sont cuites, égouttez-les et passez-les au moulin à légumes, grille fine. Ajoutez alors la pâte à choux en mélangeant intimement. Rectifiez l’assaisonnement.",
+    "Laissez refroidir et formez des boulettes de la grosseur d’une noix.",
+    "Faites chauffer l’huile, plongez les boulettes dans l’huile bien chaude. Lorsqu’elles sont dorées, égouttez-les sur du papier absorbant."
+  ],
+  "image": []
+}

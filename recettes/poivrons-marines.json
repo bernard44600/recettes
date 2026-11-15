@@ -1,0 +1,53 @@
+{
+  "titre": "Poivrons marinés",
+  "description": "Recette de Claudie. Soit faut aimer les poivrons, mais pour qui aime les poivrons, c'est très bon.",
+  "portions": 6,
+  "temps_preparation": "30 mn",
+  "temps_cuisson": "20 mn",
+  "categorie": [
+    "Entrée"
+  ],
+  "ingredients": [
+    {
+      "nom": "Poivrons (2 rouges, 2 verts, 2 jaunes)",
+      "quantite": "6"
+    },
+    {
+      "nom": "Gousses d'ail",
+      "quantite": "2"
+    },
+    {
+      "nom": "Thym",
+      "quantite": "2 branches"
+    },
+    {
+      "nom": "Vinaigre de xérès",
+      "quantite": "2 cuillères à soupe"
+    },
+    {
+      "nom": "Huile d'olive",
+      "quantite": "3 cuillères à soupe"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "1 cuillère à café"
+    },
+    {
+      "nom": "Sel",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Lavez les poivrons, essuyez-les et faites-les griller 20 mn sous le gril du four, le plus près de la source de chaleur en les tournant régulièrement.",
+    "Lorsque la peau a noirci et se détache toute seule de la chair, laissez-les tiédir, puis pelez-les, retirez le pédoncule, les graines et le filament blanc.",
+    "Taillez le poivron en lanières de 3 centimètres de large. Mettez-les dans un récipient en les rangeant par couleur.",
+    "Poudrez-les de sucre et salez-les.",
+    "Pelez les gousses d'ail et passez-les au presse-ail (si t'en as pas tu l'éminces c'est bon aussi).",
+    "Mélangez l'ail, le thym émietté, le vinaigre et l'huile, arrosez les poivrons de ce mélange, couvrez et laissez mariner pendant au moins 24h.",
+    "Pour servir, égoutter les poivrons, coupez-les en carrés de la taille d'une bouchée avant de les ranger sur un ravier."
+  ],
+  "image": [
+    "poivrons-marines-2.png",
+    "poivrons-marines.png"
+  ]
+}

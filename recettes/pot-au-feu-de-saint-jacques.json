@@ -1,0 +1,49 @@
+{
+  "slug": "pot-au-feu-de-saint-jacques",
+  "titre": "Pot-au-feu de saint-jacques",
+  "description": "Plat mer et terre, avec un super équilibre entre gout de crustacés et viande",
+  "categorie": [
+    "Dessert"
+  ],
+  "portions": "",
+  "temps_preparation": "20mn",
+  "temps_cuisson": "1h",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "700 g",
+      "nom": "poireaux"
+    },
+    {
+      "quantite": "4",
+      "nom": "carottes"
+    },
+    {
+      "quantite": "500 g",
+      "nom": "champignons frais ou boîte"
+    },
+    {
+      "quantite": "500 g",
+      "nom": "lardons fumé"
+    },
+    {
+      "quantite": "1 kg",
+      "nom": "noix Saint-Jacques surgelé"
+    },
+    {
+      "quantite": "2 cs",
+      "nom": "Cognac"
+    },
+    {
+      "quantite": "200 ml",
+      "nom": "crème fraîche épaisse"
+    }
+  ],
+  "etapes": [
+    "Couper les poireaux et les carottes en dés les faire revenir dans du beurre mettre de côté ",
+    "Faire revenir les champignons coupés et lardons ",
+    "Faire cuire les noix de Saint-Jacques et ajouter deux bouchons de Cognac ",
+    "Mettre toute la préparation dans une cocotte ou un wok et laisser mijoter jusqu'à cuisson des légumes ",
+    "Rajouter la crème fraîche au dernier moment"
+  ]
+}

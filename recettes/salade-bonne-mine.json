@@ -1,0 +1,48 @@
+{
+  "slug": "salade-bonne-mine",
+  "titre": "Salade bonne mine",
+  "description": "CVF 168",
+  "categorie": [
+    "Entrée"
+  ],
+  "portions": "4",
+  "temps_preparation": "20",
+  "temps_cuisson": "15",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "200g",
+      "nom": "potimarron"
+    },
+    {
+      "quantite": "80g",
+      "nom": "quinoa"
+    },
+    {
+      "quantite": "150g",
+      "nom": "fromage de brebis type ossoirati."
+    },
+    {
+      "quantite": "1 cs",
+      "nom": "vinaigre"
+    },
+    {
+      "quantite": "",
+      "nom": "3 cs D’huile d’olive."
+    },
+    {
+      "quantite": "",
+      "nom": "1 Echalote"
+    },
+    {
+      "quantite": "",
+      "nom": "sel, poivre"
+    }
+  ],
+  "etapes": [
+    "Faites cuire le quinoa dans une casserole selon les instructions du sachet, soit environ 15mn dans 3 fois son volume d'eau. Egoutez-le et laissez-le refroidir le temps de la préparation.",
+    "Pendant ce temps éplucher le potimarron et détailler sa chair en fins bâtonnets afin d'obtenir une julienne couper le fromage en tout petits dés peler l'échalote et hacher-la finement",
+    "Préparez une vinaigrette : dans un bol émulsifiez à la fourchette le vinaigre et l'huile avec sel et poivre.",
+    "Dans un saladier, réunissez le quinoa refroidi, la julienne de potimaron, l'échalote et le fromage en dés, versez enfin la vinaigrette et mélangez. Servir à température ambiante."
+  ]
+}

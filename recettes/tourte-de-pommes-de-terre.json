@@ -1,0 +1,61 @@
+{
+  "titre": "Tourte de pommes de terre",
+  "description": "C.V.F. n° 75 'Variations autour de nos plats uniques'... plusieurs recettes sympas. Servez très chaud avec une salade verte.",
+  "portions": 6,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "80 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Pâte brisée",
+      "quantite": "1 rouleau"
+    },
+    {
+      "nom": "Pâte feuilletée",
+      "quantite": "1 rouleau"
+    },
+    {
+      "nom": "Pommes de terre à chair ferme (type charlotte)",
+      "quantite": "1,5 kg"
+    },
+    {
+      "nom": "Comté râpé",
+      "quantite": "200 g"
+    },
+    {
+      "nom": "Crème liquide",
+      "quantite": "30 cl"
+    },
+    {
+      "nom": "Jaune d'oeuf",
+      "quantite": "1"
+    },
+    {
+      "nom": "Échalotes",
+      "quantite": "2"
+    },
+    {
+      "nom": "Noix de muscade",
+      "quantite": "1 pincée"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Préchauffez le four à th 8 (240°). Epluchez et émincez les échalotes. Pelez, lavez et essuyez les pommes de terre. Coupez-les en fines rondelles (au robot de préférence).",
+    "Dans un saladier, mettez les pommes de terre et les échalotes. Salez, poivrez, poudrez de muscade. Mélangez.",
+    "Disposez la pâte brisée dans un moule à tarte à bords assez hauts. Coupez la pâte à ras du moule.",
+    "Versez la moitié des pommes de terre assaisonnées, nappez de crème, couvrez avec la moitié du fromage râpé et recommencez l'opération avec le reste des ingrédients.",
+    "Déroulez la pâte feuilletée sur le dessus. Soudez les bords avec ceux de la pâte brisée en pinçant régulièrement entre les doigts mouillés d'eau froide.",
+    "Pratiquez une cheminée au centre et maintenez-la avec une bande de papier d'aluminium repliée plusieurs fois pour la solidifier.",
+    "Découpez quelques feuilles pour le décor dans les chutes de pâte. Badigeonnez le dessus de la tourte et les feuilles décoratives de jaune d'œuf battu à l'aide d'un pinceau.",
+    "Faites cuire au four chaud pendant 20 min, puis baissez le th à 5 (150°), et poursuivez la cuisson encore 1 heure (couvrez d'alu si elle colore trop vite). Vérifiez qu'elles soient tendres avec une lame de couteau."
+  ],
+  "image": [
+    "tourte-de-pommes-de-terre.png"
+  ]
+}

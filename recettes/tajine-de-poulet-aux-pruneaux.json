@@ -1,0 +1,79 @@
+{
+  "titre": "Tajine de poulet aux pruneaux",
+  "description": "Noël 2020 avec Jérémy, Claire, Manuel, Jennifer et Bernard. C.V.F n° 102. J'ai mis le double de pruneaux, c'était pas mal. Variations: Sur cette base mijotez d'autres tajines en remplaçant les pruneaux par des dattes, figues ou abricots secs. Servez très chaud.",
+  "portions": 6,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "55 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Poulet fermier coupé en morceaux",
+      "quantite": "1 gros"
+    },
+    {
+      "nom": "Pruneaux dénoyautés",
+      "quantite": "12 (ou le double)"
+    },
+    {
+      "nom": "Amandes non mondées (sans peau)",
+      "quantite": "50 gr"
+    },
+    {
+      "nom": "Oignons",
+      "quantite": "3"
+    },
+    {
+      "nom": "Miel liquide (type miel d'Acacia)",
+      "quantite": "2 cuillères à soupe"
+    },
+    {
+      "nom": "Jus de citron",
+      "quantite": "le jus de 1"
+    },
+    {
+      "nom": "Poudre de cumin",
+      "quantite": "1½ cuillère à café"
+    },
+    {
+      "nom": "Poudre de cannelle",
+      "quantite": "1½ cuillère à café"
+    },
+    {
+      "nom": "Poudre de coriandre",
+      "quantite": "1½ cuillère à café"
+    },
+    {
+      "nom": "Graines de sésame",
+      "quantite": "2 cuillères à soupe"
+    },
+    {
+      "nom": "Huile",
+      "quantite": "4 cuillères à soupe"
+    },
+    {
+      "nom": "Brins de coriandre",
+      "quantite": "8 (ou plus selon les goûts)"
+    },
+    {
+      "nom": "Eau chaude",
+      "quantite": "20 cl"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Pelez les oignons et coupez-les en fines rondelles. Faites chauffer l'huile dans une cocotte.",
+    "Mettez les morceaux de poulet à dorer sur toutes leurs faces, puis égouttez-les et réservez.",
+    "A leur place, faites fondre les oignons 5 min en remuant, ajoutez les pruneaux, le miel, le jus de citron et toutes les épices. Salez et poivrez.",
+    "Remuez et remettez les morceaux de poulet. Mouillez avec 20 cl d'eau chaude, remuez, couvrez et laissez mijoter environ 40 min.",
+    "Pendant ce temps, faites dorer à sec dans une poêle antiadhésive les amandes, puis les graines de sésame (séparément car elles ne cuisent pas de la même façon).",
+    "5 min avant la fin de la cuisson du tajine, ajoutez les amandes et le sésame dans la cocotte.",
+    "Au dernier moment, parsemez de coriandre fraîchement ciselée.",
+    "Si vous le préparez à l'avance, réchauffez-le doucement dans la cocotte ou au four à th 5 (150°) dans un plat à tajine."
+  ],
+  "image": []
+}

@@ -1,0 +1,27 @@
+{
+  "titre": "Caillebotte",
+  "description": "Spécialité du pays de retz au lait type panacotta",
+  "portions": 4,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    { "nom": "lait cru entier, frais de préference", "quantite": "1l" },
+    { "nom": "caille brun (presure en pharmacie)", "quantite": "" },
+    { "nom": "Sucre", "quantite": "?" }
+  ],
+  "etapes": [
+
+    "Dissoudre le presure dans un verre d'eau, ou mettre 4 gouttes si c'est liquide",
+    "Chauffer très peu ou temperature ambiante chaude (2h) ....",
+    "Faire tiédir, laisser reposer jusqu'a ce qu'il soit ferme, idéalement 12h au frigo",
+    "Découper en petits carrés",
+    "Eventuellement : passer au feu très doux en retirant l'eau qui se libère",
+    "Servir frais avec saupoudrage de sucre, ou lait sucré, café au lait, miel, confiture, ou une creme anglaise",
+    "ne pas mettre au dessus de4 gouttes (sinon gout amer)",
+    "Sans présure : Autrefois, on utilisait des fleurs de chardonnette (petit chardon sauvage) ou de la queue de Jeanne (algue) pour faire cailler le lait. Ces méthodes sont toujours utilisées dans certaines régions"
+  ],
+  "image": []
+}

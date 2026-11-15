@@ -1,0 +1,75 @@
+{
+  "titre": "Gigot à la cuillère",
+  "description": "C.V.F. Avec un bouquet garni, et la 'tuerie' les échalotes confites... miam, miam. Vous n'aurez pas besoin de couteau pour le découper, la viande est si tendre qu'elle se sert à la cuillère. Vous pouvez mener la cuisson en 2 fois.",
+  "portions": 8,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "7 heures",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Gigot",
+      "quantite": "1 gros d'environ 2,5 kg"
+    },
+    {
+      "nom": "Carottes",
+      "quantite": "500 gr"
+    },
+    {
+      "nom": "Branche de céleri",
+      "quantite": "1"
+    },
+    {
+      "nom": "Échalotes longues (ou ovales)",
+      "quantite": "10"
+    },
+    {
+      "nom": "Oignons",
+      "quantite": "2"
+    },
+    {
+      "nom": "Rhum brun",
+      "quantite": "2 cuillères à soupe"
+    },
+    {
+      "nom": "Vin blanc sec",
+      "quantite": "30 cl"
+    },
+    {
+      "nom": "Fond de veau en poudre",
+      "quantite": "2 cuillères à soupe diluées dans 15 cl d'eau bouillante"
+    },
+    {
+      "nom": "Bouquet garni",
+      "quantite": "1 (thym, laurier, persil ficelés ensemble)"
+    },
+    {
+      "nom": "Optionnel selon les régions",
+      "quantite": "1 blanc de poireau, un brin de romarin"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "20 gr"
+    },
+    {
+      "nom": "Huile",
+      "quantite": "2 cuillères à soupe"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Demandez au boucher de raccourcir le manche (l'os) du gigot pour pouvoir le cuire dans une cocotte en fonte de sa taille.",
+    "Préchauffez le four à 120° (thermostat 4).",
+    "Pelez les carottes, coupez-les en cubes. Effilez et tronçonnez la branche de céleri, épluchez et émincez les oignons.",
+    "Faites chauffer l'huile et le beurre dans la cocotte, faites-y dorer le gigot sur toutes ses faces, puis arrosez-le avec le rhum préalablement réchauffé dans une petite louche et faites flamber.",
+    "Baissez le feu, ajoutez dans la cocotte les carottes, les oignons, les échalotes non pelées et le céleri.",
+    "Mouillez avec le vin (tu verses dessus en répartissant), ajoutez le fond de veau dilué dans l'eau bouillante, salez, poivrez et mélangez.",
+    "Couvrez la cocotte et enfournez-la pour 7h (à partir de 5h le gigot est cuit, mais 7h assure qu'il soit totalement 'à la cuillère').",
+    "Servez le gigot directement dans la cocotte avec sa sauce et ses légumes."
+  ],
+  "image": []
+}

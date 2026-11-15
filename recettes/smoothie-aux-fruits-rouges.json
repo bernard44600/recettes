@@ -1,0 +1,39 @@
+{
+  "slug": "smoothie-aux-fruits-rouges",
+  "titre": "Smoothie aux fruits rouges",
+  "description": "Smoothie",
+  "categorie": [
+    "Dessert"
+  ],
+  "portions": "",
+  "temps_preparation": "",
+  "temps_cuisson": "",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "100 g",
+      "nom": "framboise"
+    },
+    {
+      "quantite": "100 g",
+      "nom": "mûres"
+    },
+    {
+      "quantite": "50 g",
+      "nom": "myrtilles"
+    },
+    {
+      "quantite": "",
+      "nom": "Une banane"
+    },
+    {
+      "quantite": "10 cl",
+      "nom": "eau gazeuse"
+    },
+    {
+      "quantite": "Une cuillère à soupe",
+      "nom": "miel"
+    }
+  ],
+  "etapes": []
+}

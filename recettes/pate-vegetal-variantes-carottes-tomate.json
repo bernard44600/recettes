@@ -1,0 +1,29 @@
+{
+  "titre": "Pâté végétal - variantes (carottes / tomate)",
+  "description": "Variantes proposées pour modifier le goût et la couleur du pâté végétal.",
+  "portions": 8,
+  "temps_preparation": "10 mn",
+  "temps_cuisson": "15 mn",
+  "categorie": [
+    "Entrée"
+  ],
+  "ingredients": [
+    {
+      "nom": "Carottes (pour variante aux carottes)",
+      "quantite": "250 g râpées"
+    },
+    {
+      "nom": "Épices de remplacement (muscade, coriandre, thym, romarin, marjolaine, laurier)",
+      "quantite": "à la place du basilic"
+    },
+    {
+      "nom": "Concentré de tomates (pour variante à la tomate)",
+      "quantite": "1 petite boite"
+    }
+  ],
+  "etapes": [
+    "Variante aux carottes: Ajouter 250 g de carottes râpées à cuire avec les oignons. Remplacez le basilic par de la muscade, coriandre, thym, romarin, marjolaine, laurier (à retirer avant de passer le pâté à la moulinette).",
+    "Variante à la tomate: Incorporez 1 petite boite de concentré de tomates au moment où tu mélanges les oignons et le pain trempé. Ne pas saler."
+  ],
+  "image": []
+}

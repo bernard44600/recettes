@@ -1,0 +1,56 @@
+{
+  "titre": "Petits bouchons au thon",
+  "description": "Recette de Christelle. Garnissez les empreintes (petits moules) au 2/3 de cette préparation car cela gonfle un peu.",
+  "portions": 20,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "20 mn",
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Thon égoutté",
+      "quantite": "180 gr"
+    },
+    {
+      "nom": "Oignons",
+      "quantite": "30 gr"
+    },
+    {
+      "nom": "Concentré de tomates",
+      "quantite": "50 gr"
+    },
+    {
+      "nom": "Crème fraîche épaisse",
+      "quantite": "60 gr"
+    },
+    {
+      "nom": "Gruyère",
+      "quantite": "90 gr"
+    },
+    {
+      "nom": "Oeufs",
+      "quantite": "4"
+    },
+    {
+      "nom": "Persil plat",
+      "quantite": "6 branches"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Placez vos empreintes sur la plaque perforée.",
+    "Préchauffez le four à 160° (thermostat 5/6).",
+    "Egouttez le thon. Epluchez et hachez l'oignon.",
+    "Dans un cul-de-poule, écrasez le thon à la fourchette.",
+    "Ajoutez le concentré de tomates, la crème, le gruyère, les oeufs, le sel, le poivre, le persil effeuillé et les oignons. Tout quoi...",
+    "Mixez le tout pour obtenir un mélange homogène.",
+    "Garnissez les empreintes (petits moules) au 2/3 de cette préparation.",
+    "Faire cuire 20 mn à 160°.",
+    "Dégustez frais avec une salade composée."
+  ],
+  "image": []
+}

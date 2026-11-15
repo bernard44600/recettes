@@ -1,0 +1,54 @@
+{
+  "titre": "Tarte au thon",
+  "description": "Par ma grande sœur Sylvie,",
+  "portions": 6,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "40 mn",
+  "categorie": [
+    "Plat",
+    "tarte"
+  ],
+  "ingredients": [
+    {
+      "nom": "Pâte brisée",
+      "quantite": "1 rouleau"
+    },
+    {
+      "nom": "Thon en boîte",
+      "quantite": "800 g (4 boîtes de 200 g)"
+    },
+    {
+      "nom": "Persil",
+      "quantite": "1 bouquet"
+    },
+    {
+      "nom": "Ail",
+      "quantite": "1 gousse"
+    },
+    {
+      "nom": "Œufs",
+      "quantite": "6"
+    },
+    {
+      "nom": "Crème fraîche (ou crème de soja)",
+      "quantite": "50 cl"
+    },
+    {
+      "nom": "Tomates",
+      "quantite": "2"
+    },
+    {
+      "nom": "Gruyère râpé",
+      "quantite": "100 g"
+    }
+  ],
+  "etapes": [
+    "Mélangez les œufs, la crème. Y ajoutez le thon égoutté, l’ail émincé finement, le persil ciselé.",
+    "Préchauffez la pâte brisée dans le four.",
+    "Garnir de la préparation.",
+    "Ajoutez les tomates coupées en rondelles dessus (éventuellement dégorgées au sel avant).",
+    "Mettre le gruyère râpé dessus.",
+    "Enfournez à th.200° pour 40 min."
+  ],
+  "image": []
+}

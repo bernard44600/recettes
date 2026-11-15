@@ -1,0 +1,37 @@
+{
+  "titre": "Rillettes de thon d",
+  "description": "Amuse-gueule savoureux à base de thon, facile à tartiner.",
+  "portions": 6,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "Apéro",
+    "Entrée"
+  ],
+  "ingredients": [
+    {
+      "nom": "thon",
+      "quantite": "1 boite"
+    },
+    {
+      "nom": "échalote",
+      "quantite": "1"
+    },
+    {
+      "nom": "moutarde",
+      "quantite": "1 c. à café"
+    },
+    {
+      "nom": "mayonnaise",
+      "quantite": "1 c. à café"
+    },
+    {
+      "nom": "poivre",
+      "quantite": "au goût"
+    }
+  ],
+  "etapes": [
+    "Mélanger tous les ingrédients avec un robot jusqu'à obtenir la consistance désirée (ne pas trop durcir pour pouvoir tartiner)."
+  ],
+  "image": []
+}

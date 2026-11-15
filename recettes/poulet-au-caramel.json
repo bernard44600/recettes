@@ -1,0 +1,83 @@
+{
+  "titre": "Poulet au caramel",
+  "description": "Retour du voyage en Nouvelle Calédonie chez Michèle, la sœur de mamie Jeannette",
+  "portions": 6,
+  "temps_preparation": "40 mn",
+  "temps_cuisson": "30 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Poulet (hauts de cuisses et cuisses)",
+      "quantite": "coupé en 4"
+    },
+    {
+      "nom": "Oignons jaunes",
+      "quantite": "7-8"
+    },
+    {
+      "nom": "Sucre semoule",
+      "quantite": "5 c. à café"
+    },
+    {
+      "nom": "Nuoc mam",
+      "quantite": "4 c. à soupe"
+    },
+    {
+      "nom": "Sauce soja ou tamari",
+      "quantite": " "
+    },
+    {
+      "nom": "Vinaigre d’alcool",
+      "quantite": "4 c. à soupe"
+    },
+    {
+      "nom": "Petits oignons verts ou ciboulette",
+      "quantite": ""
+    },
+    {
+      "nom": "Poivre",
+      "quantite": ""
+    },
+    {
+      "nom": "Pour le rougail :",
+      "quantite": ""
+    },
+    {
+      "nom": "Huile d’olive",
+      "quantite": "3 c. à soupe"
+    },
+    {
+      "nom": "Tomates",
+      "quantite": "3"
+    },
+    {
+      "nom": "Ail",
+      "quantite": "4 gousses"
+    },
+    {
+      "nom": "Cive ou ciboulette",
+      "quantite": "1"
+    },
+    {
+      "nom": "Coriandre fraîche",
+      "quantite": ""
+    },
+    {
+      "nom": "Jus de citron vert",
+      "quantite": "3"
+    },
+    {
+      "nom": "Piments oiseaux hachés",
+      "quantite": "2"
+    }
+  ],
+  "etapes": [
+    "Coupez les oignons, les mettre à cuire dans l’huile et attendre qu’ils blanchissent (mais pas dorés).",
+    "Rajoutez le poulet et 6 cuillères de sucre avec le nuoc mam, le soja, le vinaigre et du poivre.",
+    "Laissez cuire 30 min.",
+    "Servir avec la sauce “rougail” : mélangez l’huile d’olive, les tomates coupées en 4, l’ail écrasé, la cive émincée, la coriandre, le jus de citron et les piments oiseaux."
+  ],
+  "image": []
+}

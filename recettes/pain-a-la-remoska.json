@@ -1,0 +1,59 @@
+{
+  "slug": "pain-a-la-remoska",
+  "titre": "Pain à la remoska",
+  "description": "Pain mi-blé mi-seigle, cuit dans une Remoska (four électrique tchèque). Pâte fermentée longuement pour un goût authentique et une mie alvéolée.",
+  "categorie": [
+    "pain",
+    "plat principal"
+  ],
+  "portions": "1 pain",
+  "temps_preparation": "20",
+  "temps_cuisson": "45",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "350 g",
+      "nom": "farine de blé"
+    },
+    {
+      "quantite": "150 g",
+      "nom": "farine de seigle"
+    },
+    {
+      "quantite": "300 ml",
+      "nom": "eau (tiède)"
+    },
+    {
+      "quantite": "10 g",
+      "nom": "levure de boulanger (fraîche ou sèche)"
+    },
+    {
+      "quantite": "10 g",
+      "nom": "sel"
+    },
+    {
+      "quantite": "1 c. à s.",
+      "nom": "huile d'olive"
+    },
+    {
+      "quantite": "1 c. à c.",
+      "nom": "sucre"
+    },
+    {
+      "quantite": "un peu",
+      "nom": "lait (pour la dorure)"
+    }
+  ],
+  "etapes": [
+    "Dans un grand saladier, mélangez les deux farines et le sel.",
+    "Creusez un puits au centre, versez l'eau tiède, la levure, le sucre et l'huile d'olive. Mélangez jusqu'à obtenir une pâte homogène.",
+    "Couvrez et laissez reposer 5 à 8 heures à température ambiante (fermentation lente).",
+    "Répétez l'opération 3 fois : rabattez la pâte sur elle-même (pliage) à intervalles réguliers pendant la fermentation.",
+    "Après la dernière fermentation, rabattez la pâte 8 fois en ramenant les bords vers le centre.",
+    "Couvrez et laissez reposer 30 minutes dans un endroit tiède.",
+    "Farinez légèrement le fond de la Remoska, déposez-y la pâte (ou utilisez un moule adapté).",
+    "Badigeonnez le dessus du pain avec un peu de lait pour la dorure.",
+    "Enfournez dans la Remoska et faites cuire jusqu'à ce que le pain soit bien doré et sonne creux quand on tape dessous (environ 45 minutes selon le modèle).",
+    "Démoulez et laissez refroidir sur une grille."
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "titre": "Far aux pommes (et variante fruits rouges)",
+  "description": "Far moelleux aux pommes, avec une variante aux fruits rouges (framboises et myrtilles)",
+  "portions": 6,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "45-50 mn",
+  "categorie": [
+    "Dessert",
+    "Gâteau"
+  ],
+  "ingredients": [
+    { "nom": "Pommes (pour la version pommes)", "quantite": "4" },
+    { "nom": "Sucre de canne complet", "quantite": "2 cuillères à soupe" },
+    { "nom": "Beurre", "quantite": "40 g" },
+    { "nom": "Œufs", "quantite": "4" },
+    { "nom": "Sucre vanillé", "quantite": "80 g" },
+    { "nom": "Farine", "quantite": "120 g" },
+    { "nom": "Lait entier", "quantite": "1 l" },
+    { "nom": "Rhum", "quantite": "2 bouchons" },
+    { "nom": "Variante fruits rouges : Framboises", "quantite": "500 g" },
+    { "nom": "Variante fruits rouges : Myrtilles", "quantite": "250 g" },
+    { "nom": "Variante fruits rouges : Œufs", "quantite": "7" },
+    { "nom": "Variante fruits rouges : Sucre de canne", "quantite": "130 g" },
+    { "nom": "Variante fruits rouges : Vanille en poudre", "quantite": "1 grosse pincée" },
+    { "nom": "Variante fruits rouges : Farine", "quantite": "200 g" },
+    { "nom": "Variante fruits rouges : Lait entier", "quantite": "1,5 l" }
+  ],
+  "etapes": [
+    "Pour la version pommes : Préchauffer le four à 180°C. Beurrer un moule.",
+    "Peler et couper les pommes en lamelles. Les disposer dans le fond du moule.",
+    "Dans un saladier, battre les œufs avec les sucres, la farine, le lait et le rhum.",
+    "Verser la pâte sur les pommes. Enfourner pour 45-50 minutes.",
+    "Pour la variante fruits rouges : utiliser les mêmes proportions indiquées (7 œufs, 130 g sucre, 200 g farine, 1,5 l lait).",
+    "Disposer les fruits rouges dans le fond du moule, verser la pâte et cuire de la même façon."
+  ],
+  "image": []
+}

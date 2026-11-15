@@ -1,0 +1,34 @@
+{
+  "titre": "Riz au lait",
+  "description": "Recette de Régine, un week-end d'Escales. Laisser absorber tout le lait en fin de cuisson.",
+  "portions": 8,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "60 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Riz rond",
+      "quantite": "100 gr"
+    },
+    {
+      "nom": "Lait",
+      "quantite": "1 litre"
+    },
+    {
+      "nom": "Gousse de vanille",
+      "quantite": "1"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "75 gr (À METTRE EN FIN DE CUISSON)"
+    }
+  ],
+  "etapes": [
+    "Faire blanchir le riz rond dans de l'eau bouillante pendant une minute, puis l'égoutter.",
+    "Faire bouillir doucement le litre de lait avec le riz blanchi et la gousse de vanille fendue durant 45 minutes à 1 heure, en remuant de temps en temps.",
+    "Une fois que tout le lait est bien absorbé, ajouter les 75 gr de sucre en fin de cuisson. Modifier et laisser refroidir."
+  ],
+  "image": []
+}

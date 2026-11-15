@@ -1,0 +1,44 @@
+{
+  "titre": "Suite du foie gras: la cuisson au micro-ondes",
+  "description": "Technique qui permet de faire cuire le foie gras rapidement. Consommez dans les 2 semaines qui suivent la préparation ou mettez au congélateur pour le ressortir plus tard.",
+  "portions": 4,
+  "temps_preparation": "10 mn",
+  "temps_cuisson": "15 mn",
+  "categorie": [
+    "Entrée"
+  ],
+  "ingredients": [
+    {
+      "nom": "Lobe de foie",
+      "quantite": "environ 500 gr (les mêmes ingrédients que le B.A.BA)"
+    },
+    {
+      "nom": "Sel",
+      "quantite": "6 gr"
+    },
+    {
+      "nom": "Poivre blanc",
+      "quantite": "1 gr"
+    },
+    {
+      "nom": "Cognac (ou autre alcool)",
+      "quantite": "1 cl"
+    },
+    {
+      "nom": "Lait pour dégorger",
+      "quantite": "0,5 litre"
+    },
+    {
+      "nom": "Terrine",
+      "quantite": "d'environ 0,5 litre"
+    }
+  ],
+  "etapes": [
+    "After avoir dénervé, assaisonné et mariné le foie gras la veille, disposez-le le lendemain dans la terrine.",
+    "Passez au four à micro-ondes à 150 watts (puissance minimale) pendant 15 min (si 20% = 180 watts).",
+    "Sortez du four et pressez avec une planchette filmée surmontée d'un poids (une brique de lait). Réservez ainsi pendant 1 nuit pour faire remonter le gras emprisonné.",
+    "Le lendemain, si vous le souhaitez, récupérez le gras solidifié à la surface, faites-le fondre au micro-ondes à puissance minimale (ou à feu doux), puis versez-le sur la terrine et laissez refroidir.",
+    "Refermez d'un couvercle et conservez au réfrigérateur."
+  ],
+  "image": []
+}

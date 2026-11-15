@@ -1,0 +1,40 @@
+{
+  "slug": "semoule-au-lait",
+  "titre": "Semoule au lait",
+  "description": "dd",
+  "categorie": [],
+  "portions": "6-8",
+  "temps_preparation": "10",
+  "temps_cuisson": "10",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "100g",
+      "nom": "semoule de blé fine ou de semoule de riz"
+    },
+    {
+      "quantite": "90 g",
+      "nom": "sucre"
+    },
+    {
+      "quantite": "1 litre",
+      "nom": "lait"
+    },
+    {
+      "quantite": "1 cas",
+      "nom": "fleur d'oranger et/ou de rhum Ou gousse de vanille"
+    },
+    {
+      "quantite": "1 pincée",
+      "nom": "sel"
+    }
+  ],
+  "etapes": [
+    "Placez le lait, le sucre et le parfum dans une casserole et portez à ébullition (avec vanille éventuellement)",
+    "Option noix de beurre (en fin de cuisson), oeuf, pincée de sel",
+    "Baissez à feu doux, versez la semoule en pluie, et mélangez au fouet",
+    "Laissez cuire à feu doux en remuant régulièrement pour éviter que cela attache au fond. La semoule est prête lorsque la texture est homogène sur toute la hauteur de la casserole plus 2 minutes de cuisson.",
+    "Versez dans des verrines,",
+    "Laissez refroidir et conservez au frais"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "titre": "Sushis de légumes",
+  "description": "Ustensile trouvé avec Odile sur le marché de Pornichet. Les préparer prend du temps, à plusieurs c'est plus rigolo.",
+  "portions": 6,
+  "temps_preparation": "40 mn",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Courgettes, carottes, radis, pommes, poires",
+      "quantite": "bref un peu ce que vous avez dans vos paniers"
+    },
+    {
+      "nom": "Piques à olives / piques en bois",
+      "quantite": null
+    },
+    {
+      "nom": "Persil plat ou ciboulette",
+      "quantite": null
+    },
+    {
+      "nom": "Nuoc mam",
+      "quantite": null
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Utiliser un petit ustensile acheté sur le marché (le set-déco multifonctions) pour faire des tranches très minces avec les courgettes et des spaghettis avec les carottes et les pommes.",
+    "Enroulez les spaghettis de carottes avec la tranche de courgette émincée et mettre un pique en bois pour faire tenir.",
+    "Quant aux radis, on peut les découper pour faire des petites fleurs.",
+    "Pour plus d'idées, allez sur le site: la cuisine de Marie-l'éplucheur décorateur (vidéo)."
+  ],
+  "image": []
+}

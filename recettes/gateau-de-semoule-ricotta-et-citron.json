@@ -1,0 +1,48 @@
+{
+  "slug": "gateau-de-semoule-ricotta-et-citron",
+  "titre": "Gateau de semoule ricotta et citron",
+  "description": "kilometre-0 Le gâteau de semoule, c’est toujours économique et facile à faire. En plus, la semoule cuit en quelques minutes ce qui permet de ne pas tourner trop longtemps la préparation",
+  "categorie": [
+    "Dessert"
+  ],
+  "portions": "6",
+  "temps_preparation": "15",
+  "temps_cuisson": "60mn",
+  "image": [
+    "gateau-de-semoule-ricotta-et-citron.png"
+  ],
+  "ingredients": [
+    {
+      "quantite": "200g",
+      "nom": "semoule fine"
+    },
+    {
+      "quantite": "100à 250g",
+      "nom": "sucre vanillé"
+    },
+    {
+      "quantite": "1 l",
+      "nom": "lait entier"
+    },
+    {
+      "quantite": "4",
+      "nom": "oeufs"
+    },
+    {
+      "quantite": "250g",
+      "nom": "ricotta"
+    },
+    {
+      "quantite": "zeste",
+      "nom": "citron"
+    }
+  ],
+  "etapes": [
+    "Dans une casserole, faites bouillir le lait, le zeste de citron et le beurre, Versez la semoule et laissez-la cuire pendant 5 minutes",
+    "Préchauffez le four à 180°.",
+    "Battez les œufs et le sucre jusqu’à ce que le mélange blanchisse.Ajoutez la ricotta et mélangez de nouveau.",
+    "Ajoutez la semoule et mélangez jusqu’à l’ensemble soit homogène.",
+    "Versez la semoule dans un grand moule beurré. enfournez 50 mn",
+    "Laissez refroidir à température ambiante et réservez ce gâteau au frigo."
+  ]
+}

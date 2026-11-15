@@ -1,0 +1,65 @@
+{
+  "slug": "risotto-saumon-petit-pois-citron",
+  "titre": "Risotto saumon petit pois citron",
+  "description": "Magazine gourmand",
+  "categorie": [
+    "Plat"
+  ],
+  "portions": "4 personnes",
+  "temps_preparation": "",
+  "temps_cuisson": "",
+  "image": "",
+  "ingredients": [
+    {
+      "quantite": "4 pavés",
+      "nom": "saumon"
+    },
+    {
+      "quantite": "150 g",
+      "nom": "petits pois frais écossais"
+    },
+    {
+      "quantite": "",
+      "nom": "Un gros oignon"
+    },
+    {
+      "quantite": "",
+      "nom": "Un citron"
+    },
+    {
+      "quantite": "50 g",
+      "nom": "mascarpone"
+    },
+    {
+      "quantite": "50 g",
+      "nom": "parmesan"
+    },
+    {
+      "quantite": "300 g",
+      "nom": "riz arborio"
+    },
+    {
+      "quantite": "Un cube",
+      "nom": "bouillon de légumes"
+    },
+    {
+      "quantite": "3 cuillères à soupe de l'huile",
+      "nom": "olive"
+    }
+  ],
+  "etapes": [
+    "Fête fondre le cube de bouillon de légumes dans 75 cl d'eau à feu moyen ",
+    "Éplucher et émincer l'oignon ",
+    "Presser le citron pour en extraire le jus faites fondre l'oignon dans une grande casserole avec l'huile d'olive pendant 5 minutes ",
+    "Ajouter le riz et laisser cuire jusqu'à ce que les grains deviennent translucide ",
+    "Déglacés au jus de citron ",
+    "Versez deux louches de bouillon et ajouter les petits pois laisser cuire on remonte de temps en temps ",
+    "Une fois que tout le bouillon est a été absorbé versé de nouveau de louches répéter l'opération jusqu'à épuisement du bouillon ",
+    "Retirer la peau des pavés de saumon couper les en cube ",
+    "Dans une poêle à feu moyen faites les dorer 3 à 4 minutes sur chaque face ",
+    "Ajouter le mascarpone et le parmesan râpé poivré mélanger bien ",
+    "Retirer le risotto du feu couvrez et laisser reposer une dizaine de minutes ",
+    "Ajoutez les cubes de saumon au risotto décorer de zeste de citron et servaient ",
+    "Variantes essayées en novembre 2026 avec du jus de moules"
+  ]
+}

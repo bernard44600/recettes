@@ -1,0 +1,89 @@
+{
+  "titre": "Emincé de poulet mogador",
+  "description": "Marie Pierre, encensée par Manuel, devenue au fil du temps son plat d'anniversaire. Servir avec du riz nature.",
+  "portions": 8,
+  "temps_preparation": "40 mn",
+  "temps_cuisson": "45 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Blanc de poulet",
+      "quantite": "600 gr"
+    },
+    {
+      "nom": "Pois gourmands (plats en forme de lune) ou petits pois surgelés",
+      "quantite": "150 gr"
+    },
+    {
+      "nom": "Grosses oranges",
+      "quantite": "2"
+    },
+    {
+      "nom": "Bananes",
+      "quantite": "2"
+    },
+    {
+      "nom": "Pomme",
+      "quantite": "1"
+    },
+    {
+      "nom": "Racine de gingembre frais",
+      "quantite": "3 cm"
+    },
+    {
+      "nom": "Amandes effilées",
+      "quantite": "60 gr"
+    },
+    {
+      "nom": "Pincée de safran",
+      "quantite": "1"
+    },
+    {
+      "nom": "Lait de coco",
+      "quantite": "10 cl"
+    },
+    {
+      "nom": "Jus d'orange",
+      "quantite": "30 cl"
+    },
+    {
+      "nom": "Citron (jus)",
+      "quantite": "3 à 4 cuillères à soupe"
+    },
+    {
+      "nom": "Sucre en poudre",
+      "quantite": "2 cuillerées à soupe rases"
+    },
+    {
+      "nom": "Maïzena",
+      "quantite": "1 cuillerée à café"
+    },
+    {
+      "nom": "Huile",
+      "quantite": "1 cuillerée à soupe"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "1 cuillerée à soupe"
+    },
+    {
+      "nom": "Sel, poivre en grains et poivre fin ou du moulin",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Pelez et coupez la racine de gingembre en lamelles. Griller les amandes à sec dans une poêle antidérapante.",
+    "Coupez les blancs de poulet en lanières de 1 cm d'épaisseur. Dans une sauteuse, faites-les dorer dans l'huile et le beurre chauds. Salez-les, égouttez-les avec un écumoir et réserver au chaud. Jeter le gras de la sauteuse.",
+    "Versez le sucre dans la sauteuse, laissez-le caraméliser sans remuer, puis déglacer avec le jus d'orange, deux cuillerées à soupe de jus de citron et le lait de coco.",
+    "Ajoutez la pomme pelée, épépinée et coupée en cubes, la moitié des amandes, le gingembre, le safran et 3 ou 4 grains de poivre. Couvrez en laissant passer un filet d'air et laissez mijoter pendant 20 minutes.",
+    "Remettez les lanières de poulet dans la sauteuse. Continuer la cuisson à couvert environ 10 minutes.",
+    "Pendant ce temps, plonger les pois dans l'eau bouillante salée et faites-les cuire pendant 10 à 12 minutes après la reprise de l'ébullition. Égouttez-les et réservez-les au chaud.",
+    "Pelez les oranges à vif (enlevez la petite peau) et détachez les tranches. Peler et couper les bananes en rondelles. Arrosez-les du jus de citron restant. Chauffer ces fruits sur feu doux dans une casserole couverte. Poivrez-les.",
+    "Récupérez les lanières de poulet. Disposez-les dans un plat avec, autour, les tranches d'oranges, les rondelles de bananes et les pois gourmands. Tenir au chaud.",
+    "Passez la sauce restante au mixeur, remettez-la dans la sauteuse, incorporez la maïzena délayée au préalable dans une cuillère d'eau. Porter la sauce à ébullition en remuant.",
+    "Rectifiez l'assaisonnement, versez sur le plat de viande et parsemer des amandes grillées restantes. Servir avec du riz nature."
+  ],
+  "image": []
+}

@@ -1,0 +1,48 @@
+{
+  "titre": "Cake au jambon",
+  "description": "Après sur une base de cake qui te plait tu peux mettre ce que tu veux : dés de feta, tomates séchées, olives.....",
+  "portions": 6,
+  "temps_preparation": "10 mn",
+  "temps_cuisson": "45 mn",
+  "categorie": [
+    "Entrée"
+  ],
+  "ingredients": [
+    {
+      "nom": "Oeufs",
+      "quantite": "3"
+    },
+    {
+      "nom": "Farine",
+      "quantite": "100 gr"
+    },
+    {
+      "nom": "Huile",
+      "quantite": "½ tasse à café"
+    },
+    {
+      "nom": "Lait",
+      "quantite": "1 tasse"
+    },
+    {
+      "nom": "Jambon blanc",
+      "quantite": "coupé en petits morceaux"
+    },
+    {
+      "nom": "Levure",
+      "quantite": "1 sachet"
+    },
+    {
+      "nom": "Sel",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Battre les oeufs en omelette.",
+    "Découpez le jambon blanc en petits morceaux.",
+    "Ajoutez la farine et tous les autres ingrédients. Modifier le tout.",
+    "Mettre dans un four chaud à 180° pendant 45 mn.",
+    "Piquez un couteau (pas un beau bien affuté de papa) pour apprécier la cuisson. La lame doit ressortir propre."
+  ],
+  "image": []
+}

@@ -1,0 +1,39 @@
+{
+  "titre": "Tomates à l'omelette",
+  "description": "Recette de ma cousine Guylaine. Astuce: Pour éviter qu'elles rendent trop de jus tu peux les faire dégorger avant avec un peu de sel et tu les essuies avec du papier absorbant avant de les disposer dans le plat.",
+  "portions": 6,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "30 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Tomates",
+      "quantite": "2 ou 3 selon grosseur"
+    },
+    {
+      "nom": "Gruyère râpé",
+      "quantite": null
+    },
+    {
+      "nom": "Oeufs",
+      "quantite": "2 de plus que par personnes présentes"
+    },
+    {
+      "nom": "Herbes genre thym",
+      "quantite": null
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Sur le fond du plat, disposer les tomates coupées en rondelles (idéalement dégorgées au sel et essuyées).",
+    "Dans un saladier, mélanger les herbes, les oeufs battus et le gruyère râpé. Saler et poivrer.",
+    "Verser le mélange d'œufs sur les tomates.",
+    "Mettre au four à thermostat 4 ou 5 (environ 120°C - 150°C) pendant environ 30 mn."
+  ],
+  "image": []
+}

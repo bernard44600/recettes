@@ -1,0 +1,79 @@
+{
+  "titre": "Tajine 7 légumes",
+  "description": "C.V.F. n° 87 2002 faite, refaite et on la refera. Quand tu fais ça avec un plat à tajine, tu n'es pas obligé de le mettre au four et tu fais tout dans le même plat (sauf le bouillon). C'est pratique.",
+  "portions": 5,
+  "temps_preparation": "30 mn",
+  "temps_cuisson": "60 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Oignons frais",
+      "quantite": "1 botte"
+    },
+    {
+      "nom": "Gros oignons",
+      "quantite": "2"
+    },
+    {
+      "nom": "Tomates",
+      "quantite": "6"
+    },
+    {
+      "nom": "Carottes",
+      "quantite": "1 botte"
+    },
+    {
+      "nom": "Courgettes",
+      "quantite": "3"
+    },
+    {
+      "nom": "Coco plats",
+      "quantite": "250 g"
+    },
+    {
+      "nom": "Blettes (cardes)",
+      "quantite": "1 botte (sans les feuilles)"
+    },
+    {
+      "nom": "Navets",
+      "quantite": "1 botte"
+    },
+    {
+      "nom": "Huile d'olive",
+      "quantite": "6 cuillères à soupe"
+    },
+    {
+      "nom": "Tablettes de bouillon de volaille",
+      "quantite": "2 diluées dans 50 cl d'eau très chaude"
+    },
+    {
+      "nom": "Raz-el-hanout",
+      "quantite": "1 cuillère à soupe"
+    },
+    {
+      "nom": "Graines de cumin",
+      "quantite": "1 cuillère à café"
+    },
+    {
+      "nom": "Menthe",
+      "quantite": "½ bouquet"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Préchauffez le four à thermostat 6 (180°).",
+    "Ebouillantez, pelez, épépinez les tomates, concassez la chair. Effilez les cocos et pelez les autres légumes.",
+    "Eliminez les feuilles de blettes. Coupez les carottes en rondelles épaisses, les navets et les cocos en quatre, les courgettes en cubes, et les côtes de blettes en tronçons. Émincez les gros oignons.",
+    "Faites chauffer la moitié de l'huile dans un plat à tajine (ou une poêle ou une cocotte). Mettez les oignons émincés et les oignons frais à revenir sur feu doux, puis ajoutez les tomates concassées et faites-les confire sur feu moyen pendant 10 mn.",
+    "Préparez du bouillon en diluant les tablettes dans 50 cl d'eau très chaude.",
+    "Réunissez tous les légumes dans le plat à tajine avec le mélange oignons-tomates, ajoutez le reste d'huile, le raz-el-hanout, les graines de cumin, le bouillon et quelques feuilles de menthe. Salez et poivrez.",
+    "Mélangez, couvrez d'aluminium et enfournez pour 40 mn (ou poursuivez sur le feu dans le plat à tajine).",
+    "Servez très chaud après avoir parsemé du reste de menthe."
+  ],
+  "image": []
+}

@@ -1,0 +1,52 @@
+{
+  "slug": "pickles-d-oignon-rouge",
+  "titre": "Pickles d'oignon rouge",
+  "description": "Pour déguster avec salade et viande",
+  "categorie": [
+    "condiment",
+    "salade"
+  ],
+  "portions": "",
+  "temps_preparation": "10mn",
+  "temps_cuisson": "",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "1",
+      "nom": "oignon rouge"
+    },
+    {
+      "quantite": "50 g",
+      "nom": "vinaigre blanc"
+    },
+    {
+      "quantite": "50 g",
+      "nom": "vinaigre de cidre"
+    },
+    {
+      "quantite": "Une c. à café",
+      "nom": "sel"
+    },
+    {
+      "quantite": "1 c. à soupe",
+      "nom": "sucre roux"
+    },
+    {
+      "quantite": "100 ml",
+      "nom": "eau"
+    },
+    {
+      "quantite": "",
+      "nom": "Condiment au choix poivre vert rose badiane"
+    }
+  ],
+  "etapes": [
+    "Émincer très fin l'oignon dans un bocal propre ",
+    "Faire chauffer le vinaigre avec le sucre pour se dissoudre. ",
+    "À l'ébullition ajouter 100 ml d'eau ",
+    "Verser sur les oignons condiments contenus dans le bocal ",
+    "Recouvrir pour que l'oignon soit complètement immergé ",
+    "Fermer le bocal à chaud laisser refroidir ",
+    "Garder au réfrigérateur une fois ouvert"
+  ]
+}

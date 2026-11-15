@@ -1,0 +1,66 @@
+{
+  "titre": "Bottereaux ou merveilles",
+  "description": "Dans les Landes, la tante Simone nous régalait de ses merveilleux bottereaux",
+  "portions": 4,
+  "temps_preparation": "3h30",
+  "temps_cuisson": "Frits",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Farine",
+      "quantite": "200 g"
+    },
+    {
+      "nom": "Sucre cristallisé",
+      "quantite": "25 g"
+    },
+    {
+      "nom": "Lait",
+      "quantite": "250 ml"
+    },
+    {
+      "nom": "Œuf",
+      "quantite": "1"
+    },
+    {
+      "nom": "Beurre salé",
+      "quantite": "100 g"
+    },
+    {
+      "nom": "Levure de boulanger",
+      "quantite": "1 cuillère à café"
+    },
+    {
+      "nom": "Eau de vie",
+      "quantite": "5 cl"
+    },
+    {
+      "nom": "Eau tiède",
+      "quantite": "5 cl"
+    },
+    {
+      "nom": "====enrobage==",
+      "quantite": "======="
+    },
+    {
+      "nom": "Sucre cristallisé",
+      "quantite": "200 g"
+    },
+    {
+      "nom": "Huile pour friture",
+      "quantite": "50 cl"
+    }
+  ],
+  "etapes": [
+    "Dans un verre, délayer la levure de boulanger dans l’eau tiède. Coupez le beurre en petits morceaux, le laissez en attente.",
+    "Déposez la farine dans un grand saladier avec 25 g de sucre, l'œuf, l’alcool puis la levure. Mélangez énergiquement pendant 10 minutes jusqu’à l’obtention d’une boule de pâte.",
+    "Étalez cette pâte sur 1 cm d’épaisseur environ, répartir les petits morceaux de beurre sur toute sa surface. Appuyez avec les doigts afin de bien les incorporer à la pâte.",
+    "Pliez la pâte en trois en enfermant le beurre à l’intérieur, appuyez à nouveau avec les doigts, puis reconstituez une boule en ajoutant un peu de farine si besoin. Laisser reposer au moins 3 heures dans un endroit chaud, à l’abri des courants d’air, en la recouvrant d’un torchon épais.",
+    "Étalez la pâte jusqu’à ce qu’elle fasse 5 millimètres d’épaisseur puis la découper en losanges réguliers.",
+    "Faire chauffer l’huile, y déposer délicatement les bottereaux par 5 ou 6. Les retourner dès qu’une face brunit et les sortir dès qu’ils remontent à la surface.",
+    "Les déposer sur du papier absorbant puis les saupoudrer de sucre. Servir bien chauds."
+  ],
+  "image": []
+}

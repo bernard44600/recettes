@@ -1,0 +1,84 @@
+{
+  "titre": "Blanquette de lotte",
+  "description": "Sylvie Martin, prise dans une recette du thermomix. Possibilité de mettre moitié cabillaud, moitié lotte. Ajouter une carotte pour que la couleur soit plus belle et sympa.",
+  "portions": 6,
+  "temps_preparation": "40 mn",
+  "temps_cuisson": "35 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Filet de lotte",
+      "quantite": "600 gr (coupé en cubes)"
+    },
+    {
+      "nom": "Oignon jaune",
+      "quantite": "1"
+    },
+    {
+      "nom": "Gousse d'ail",
+      "quantite": "1"
+    },
+    {
+      "nom": "Blancs de poireaux",
+      "quantite": "100 gr"
+    },
+    {
+      "nom": "Vin blanc",
+      "quantite": "200 gr (2 petits verres, 20 cl)"
+    },
+    {
+      "nom": "Cube fumet de poisson",
+      "quantite": "1"
+    },
+    {
+      "nom": "Eau",
+      "quantite": "350 gr"
+    },
+    {
+      "nom": "Champignons de Paris",
+      "quantite": "300 gr"
+    },
+    {
+      "nom": "Crevettes cuites, décortiquées (surgelées)",
+      "quantite": "200 gr"
+    },
+    {
+      "nom": "Crème fraîche épaisse (ou crème de soja)",
+      "quantite": "100 gr"
+    },
+    {
+      "nom": "Maïzena",
+      "quantite": "20 gr"
+    },
+    {
+      "nom": "Jus de citron",
+      "quantite": "25 gr"
+    },
+    {
+      "nom": "Safran",
+      "quantite": "1 dose"
+    },
+    {
+      "nom": "Ciboulette fraîche",
+      "quantite": "15 gr ciselée"
+    },
+    {
+      "nom": "Carotte",
+      "quantite": "1 (optionnelle pour la couleur)"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": "2 pincées de chaque"
+    }
+  ],
+  "etapes": [
+    "Faire revenir 1 oignon, 1 gousse d'ail avec les blancs de poireaux. Ajoutez le vin blanc, le sel et le poivre. Faire cuire 6 mn.",
+    "Mettre les 350 gr d'eau, le cube de fumet de poisson et la lotte coupée en cubes.",
+    "Faire revenir les champignons de Paris à part, puis les ajouter dans la marmite avec les crevettes cuites décortiquées. Faire cuire le tout pendant 20 mn.",
+    "Dans le jus de cuisson des poireaux, lier la sauce en ajoutant la crème fraîche, la maïzena, le jus de citron et la dose de safran. Cuire 5 mn et ajouter la ciboulette ciselée.",
+    "Dressez les assiettes en nappant la lotte, les poireaux, les crevettes et les champignons de cette sauce."
+  ],
+  "image": []
+}

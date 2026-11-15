@@ -1,0 +1,70 @@
+{
+  "titre": "Pain d'épices",
+  "description": "Spécialité de Manuel qui le préparait très consciencieusement en pilant chaque épice. À la fin de la cuisson, pour décoller le pain d'épice, tremper un couteau dans l'eau chaude.",
+  "portions": 8,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "60 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Farine",
+      "quantite": "250 gr"
+    },
+    {
+      "nom": "Sachet de levure chimique",
+      "quantite": "1"
+    },
+    {
+      "nom": "Lait",
+      "quantite": "20 cl"
+    },
+    {
+      "nom": "Cassonade",
+      "quantite": "50 gr"
+    },
+    {
+      "nom": "Miel",
+      "quantite": "60 gr"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "25 gr (pour le moule)"
+    },
+    {
+      "nom": "Anis étoilé",
+      "quantite": "1 cuillerée à café"
+    },
+    {
+      "nom": "Cannelle",
+      "quantite": "1 cuillerée à café"
+    },
+    {
+      "nom": "Cardamome",
+      "quantite": "1 cuillerée à café"
+    },
+    {
+      "nom": "Noix de muscade",
+      "quantite": "1 cuillerée à café"
+    },
+    {
+      "nom": "Clou de girofle",
+      "quantite": "1"
+    },
+    {
+      "nom": "Sel",
+      "quantite": "1 pincée"
+    }
+  ],
+  "etapes": [
+    "Faire chauffer le lait avec le clou de girofle. A la première ébullition, incorporer la cassonade et le miel, puis retirer immédiatement du feu.",
+    "Beurrer et fariner généreusement un moule à cake.",
+    "Verser la farine et la levure dans un grand saladier. Ajouter les épices pilées et le sel.",
+    "Retirer le clou de girofle du lait chaud et verser le liquide sur la farine.",
+    "Travailler énergiquement la pâte à l'aide d'une spatule en bois.",
+    "Verser la pâte dans le moule à cake.",
+    "Faire cuire dans un four préchauffé à thermostat 6-7 (180°C - 210°C) pendant 60 mn."
+  ],
+  "image": []
+}

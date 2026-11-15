@@ -1,0 +1,76 @@
+{
+  "slug": "couscous-de-cabillaud-au-lard-",
+  "titre": "Couscous de cabillaud au lard.",
+  "description": "CVF fev mars 2016",
+  "categorie": [],
+  "portions": "4",
+  "temps_preparation": "40mn",
+  "temps_cuisson": "25mn",
+  "image": [
+    "couscous-de-cabillaud-au-lard.png"
+  ],
+  "ingredients": [
+    {
+      "quantite": "4 pavés",
+      "nom": "dos de cabillaud."
+    },
+    {
+      "quantite": "4 fines tranches",
+      "nom": "lard fumé"
+    },
+    {
+      "quantite": "200g",
+      "nom": "semoule moyenne."
+    },
+    {
+      "quantite": "2",
+      "nom": "carottes."
+    },
+    {
+      "quantite": "2",
+      "nom": "navets."
+    },
+    {
+      "quantite": "1/4",
+      "nom": "celeri-rave."
+    },
+    {
+      "quantite": "Une botte",
+      "nom": "cresson."
+    },
+    {
+      "quantite": "deux pétales",
+      "nom": "tomate séché."
+    },
+    {
+      "quantite": "1",
+      "nom": "oignon."
+    },
+    {
+      "quantite": "1 gousse",
+      "nom": "ail."
+    },
+    {
+      "quantite": "1 tablette",
+      "nom": "bouillon de légumes"
+    },
+    {
+      "quantite": "10 cl",
+      "nom": "huile d'olive."
+    },
+    {
+      "quantite": "",
+      "nom": "sel poivre"
+    }
+  ],
+  "etapes": [
+    "Diluez la tablette de bouillon d’eau dans 60cl d’eau chaude. Lavez et équeutez le cresson, coupez les tomates séchées en lanières, réservez-les.",
+    "Éplucher les carottes, les navets et le celéri, puis tailler les en bâtonnets réguliers d'environ 3x1 cm, peler l'oignon et l'ail, hacher les.",
+    "Dans une cocotte, faites revenir ces ingrédients 5mn avec 2 cuillères et soupe d'huile, versez le bouillon et laissez cuire 10 minutes à feu doux, retirez du feu, ajoutez les lanières de tomates et couvrez.",
+    "Enroulez les tranches de lard autour des pavés de cabillaud dans une sauteuse, faites-les revenir 5mn avec deux cuillerées à soupe d’huile en les retournant à mi-cuisson.",
+    "Égoutter les légumes, réservez-les, ainsi que le bouillon de cuisson.",
+    "Dans une jatte, versez la semoule, recouvrez-le à nouveau avec du bouillon, couvrez-le et faire cuire 5mn au micro-onde, sortez la jatte, égrainez à la fourchette, ajoutez le reste d'huile, remettez à cuire 1mn, égrainez à nouveau.",
+    "Mixer le cresson avec le bouillon de légumes restants.",
+    "Dans 4 assiettes, dressez un dôme de semoule, répartissez les légumes, puis déposez un pavé de cabillaud, versez un cordon de cresson tout autour et dégustez bien chaud."
+  ]
+}

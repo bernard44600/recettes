@@ -1,0 +1,32 @@
+{
+  "slug": "bechamel-la-maizena",
+  "titre": "Bechamel à la maizena",
+  "description": "gout très différent mais utilisation proche (en 2026 nutritioniste)",
+  "categorie": [
+    "sauce",
+    "regime"
+  ],
+  "portions": "",
+  "temps_preparation": "5mn",
+  "temps_cuisson": "",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "1 c à soupe",
+      "nom": "huile pépins de raisins - eau  - ou huile d’olive"
+    },
+    {
+      "quantite": "1 à 2c à soupe",
+      "nom": "maïzena"
+    },
+    {
+      "quantite": "",
+      "nom": "lait 1/2 écrémé"
+    },
+    {
+      "quantite": "",
+      "nom": "sel, poivre, muscade"
+    }
+  ],
+  "etapes": []
+}

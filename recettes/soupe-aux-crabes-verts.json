@@ -1,0 +1,73 @@
+{
+  "titre": "Soupe aux crabes verts",
+  "description": "Recette de Tonton Michel. Pendant les pêches à pied, ramasser les crabes verts dans les baignoires entre les rochers. Les mettre au congélateur dans un sachet en plastique. Quand on en a suffisamment, penser à faire une soupe.",
+  "portions": null,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "15 mn",
+  "categorie": [
+    "Soupe"
+  ],
+  "ingredients": [
+    {
+      "nom": "Crabes",
+      "quantite": "congelés, en quantité suffisante"
+    },
+    {
+      "nom": "Oignons",
+      "quantite": "+++++"
+    },
+    {
+      "nom": "Carottes",
+      "quantite": "2"
+    },
+    {
+      "nom": "Ail",
+      "quantite": null
+    },
+    {
+      "nom": "Bouquet garni",
+      "quantite": "1"
+    },
+    {
+      "nom": "Concentré de tomate",
+      "quantite": "1 boite 4/4 recouverte d'eau"
+    },
+    {
+      "nom": "Piments de cayenne",
+      "quantite": "une pincée"
+    },
+    {
+      "nom": "Huile d'olive",
+      "quantite": null
+    },
+    {
+      "nom": "Poivre",
+      "quantite": "EPICEZ +++++++++"
+    },
+    {
+      "nom": "Riz ou blé",
+      "quantite": "pour épaissir"
+    },
+    {
+      "nom": "Safran et croûtons aillés",
+      "quantite": null
+    },
+    {
+      "nom": "Rouille (mayonnaise + safran + ail pilé)",
+      "quantite": null
+    },
+    {
+      "nom": "Sel",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Mettre tous les ingrédients de base dans un faitout et cuire le tout 1/4 d'heure.",
+    "Ensuite, triez les crabes avec un écumoir (car on garde la soupe) pour les écraser avec la grosse grille du presse-purée.",
+    "Ajoutez les légumes restants et écraser le tout avec la grille moyenne.",
+    "Pour faire épaissir la soupe, la faire recuire avec du riz ou du blé en ajoutant le jus.",
+    "Ajoutez du safran et des croûtons aillés.",
+    "Trempez avec de la 'rouille' au moment de servir."
+  ],
+  "image": []
+}

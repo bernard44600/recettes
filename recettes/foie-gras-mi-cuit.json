@@ -1,0 +1,39 @@
+{
+  "titre": "Foie gras mi-cuit",
+  "description": "José San Millan, atelier d'un soir avec Edith.",
+  "portions": 6,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "30 mn",
+  "categorie": [
+    "Entrée"
+  ],
+  "ingredients": [
+    {
+      "nom": "Foie gras",
+      "quantite": "maximum 500 gr (400 à 450 gr c'est bien)"
+    },
+    {
+      "nom": "Armagnac",
+      "quantite": "pour humecter"
+    },
+    {
+      "nom": "Terrine",
+      "quantite": "1"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Au préalable, tremper 1 heure dans de l'eau tiède (certain le font dégorger dans du lait une nuit au réfrigérateur).",
+    "Séparer les lobes délicatement, enlevez le fiel, les nerfs, les vaisseaux et le vert, sans trop casser le foie.",
+    "Humecter d'armagnac, salez, poivrez bien uniformément et sans faire de paquet.",
+    "Disposez dans une terrine. Pressez fortement (jusqu'à ce que la trace des doigts s'imprime), petit lobe en dessous.",
+    "La cuisson: Au bain-marie, mettre la terrine dans le bain-marie. Quand la température atteint 70°C, maintenir cette température constamment.",
+    "Attendre que l'intérieur du foie soit à 53°C (environ 1/2 heure après).",
+    "After la cuisson, pressez légèrement pour faire remonter la graisse.",
+    "Laissez refroidir puis mettre au réfrigérateur."
+  ],
+  "image": []
+}

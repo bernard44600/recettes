@@ -1,0 +1,44 @@
+{
+  "slug": "gelee-de-sureau",
+  "titre": "Gelée de sureau",
+  "description": "Gelée parfumée aux fleurs de sureau, au goût de loukoum à la rose. Une recette de Marie Jeanne (2023), réalisée avec de l'agar-agar pour une prise ferme sans pectine.",
+  "categorie": [
+    "Dessert",
+    "confiture"
+  ],
+  "portions": "",
+  "temps_preparation": "15",
+  "temps_cuisson": "10",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "8 à 12",
+      "nom": "ombelles de fleurs de sureau fraîches"
+    },
+    {
+      "quantite": "1/2",
+      "nom": "citron jaune bio (en rondelles)"
+    },
+    {
+      "quantite": "1.5 L",
+      "nom": "eau (pour l'infusion)"
+    },
+    {
+      "quantite": "650 g",
+      "nom": "sucre en poudre"
+    },
+    {
+      "quantite": "6 g",
+      "nom": "agar-agar"
+    }
+  ],
+  "etapes": [
+    "Fin mai – début juin, récoltez 8 à 12 ombelles de fleurs de sureau bien fleuries et bien garnies.",
+    "Ôtez les tiges, ne gardez que les fleurs. Si besoin, rincez-les très rapidement dans une passoire pour retirer les insectes.",
+    "Placez les fleurs dans une bassine, ajoutez les rondelles de 1/2 citron bio et recouvrez de 1,5 L d'eau. Laissez macérer toute une nuit.",
+    "Le lendemain, retirez les rondelles de citron. Portez à ébullition l'ensemble (fleurs + eau).",
+    "À chaud, essorez les fleurs et filtrez le jus à travers une étamine ou un torchon propre. Répétez le filtrage jusqu'à obtenir un jus très clair.",
+    "Mélangez le sucre et l'agar-agar, puis ajoutez-les au jus. Portez à ébullition (92°C minimum) et laissez cuire 5 minutes sans cesser de remuer.",
+    "Versez en pots et laissez refroidir. La gelée se fige en refroidissant."
+  ]
+}

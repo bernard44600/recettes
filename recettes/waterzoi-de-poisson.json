@@ -1,0 +1,70 @@
+{
+  "slug": "waterzoi-de-poisson",
+  "titre": "Waterzoi de poisson",
+  "description": "Plat d'hiver",
+  "categorie": [
+    "Soupe"
+  ],
+  "portions": "",
+  "temps_preparation": "20",
+  "temps_cuisson": "20",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "700g",
+      "nom": "cabillaud (6 pavés)"
+    },
+    {
+      "quantite": "700g",
+      "nom": "saumon"
+    },
+    {
+      "quantite": "3",
+      "nom": "branches de céléri"
+    },
+    {
+      "quantite": "2",
+      "nom": "blancs de poireaux"
+    },
+    {
+      "quantite": "3",
+      "nom": "biscottes"
+    },
+    {
+      "quantite": "2cas",
+      "nom": "fumet de poisson (en poudre)"
+    },
+    {
+      "quantite": "1",
+      "nom": "bopuquet garni"
+    },
+    {
+      "quantite": "4",
+      "nom": "feuilles de sauge"
+    },
+    {
+      "quantite": "25cl",
+      "nom": "creme épaisse"
+    },
+    {
+      "quantite": "1cas",
+      "nom": "jus de citron"
+    },
+    {
+      "quantite": "50g",
+      "nom": "beurre"
+    },
+    {
+      "quantite": "?",
+      "nom": "sel, poivre"
+    }
+  ],
+  "etapes": [
+    "delayez le fumet dans 1.2l d'eau chaude. écraser les biscottes.couper les pavés de poisson en gros cubes.",
+    "effilez et émincez le céléri, lavez les blanc de poireau, les couper en rondelles",
+    "dans une cocotte : mettez le poireau, céléri, sauge et bouquet garni.Posez dessus les mot=rceaux de poisson. Versez le fumet pour recouvrir le poisson.Ajouter beurre en dés. ",
+    "portez le tout a ébullition, puis baissez le feu, ciouvrez et laisser mijoter 10mn",
+    "égouttez les morceaux de poissons a l'écumoire, et les réserver au chaud. Versez dans la cocotte, la creme fraiche, le jus de ciotron et les biscottes. faittes réduire sur feu vif.Poivrez et salez peu",
+    "dès que la sauce devient onctueuse, remettez le poisson dans la cocotte, Servez chaud"
+  ]
+}

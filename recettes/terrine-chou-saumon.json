@@ -1,0 +1,58 @@
+{
+  "titre": "Terrine chou-saumon",
+  "description": "C.V.F. n° 125 simple, surprenant, chic et léger, Manuel adore.... La réfrigération préconisée est de 4h minimum, mais la terrine peut être préparée la veille.",
+  "portions": 6,
+  "temps_preparation": "10 mn",
+  "temps_cuisson": "5 mn",
+  "categorie": [
+    "Entrée"
+  ],
+  "ingredients": [
+    {
+      "nom": "Feuilles de chou vert",
+      "quantite": "6"
+    },
+    {
+      "nom": "Saumon fumé",
+      "quantite": "200 g"
+    },
+    {
+      "nom": "St Moret",
+      "quantite": "300 g"
+    },
+    {
+      "nom": "Crème liquide",
+      "quantite": "4 cuillères à soupe"
+    },
+    {
+      "nom": "Aneth",
+      "quantite": "1 bouquet"
+    },
+    {
+      "nom": "Cerfeuil",
+      "quantite": "10 feuilles"
+    },
+    {
+      "nom": "Gélatine (2 g)",
+      "quantite": "1 feuille"
+    },
+    {
+      "nom": "Vinaigrette à l'huile d'olive",
+      "quantite": "pour le service"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Faites blanchir les feuilles de chou 5 mn à l'eau bouillante salée.",
+    "Plongez-les aussitôt dans de l'eau froide puis égouttez-les à fond. Ciselez les herbes.",
+    "Faites tremper la gélatine dans de l'eau froide. Dans une petite casserole, faites chauffer la crème liquide et faites-y fondre la gélatine égouttée.",
+    "Mélangez cette crème au St Moret, ajoutez les herbes, salez et poivrez.",
+    "Tapissez un petit moule à cake de film étirable, mettez une feuille de chou, une tranche de saumon, du St Moret, et recommencez jusqu'à épuisement des ingrédients, rabattez le film en tassant et mettez au frais 4h minimum.",
+    "Servez la terrine tranchée avec une vinaigrette à l'huile d'olive.",
+    "Notre bon accord: un pineau blanc d'Alsace."
+  ],
+  "image": []
+}

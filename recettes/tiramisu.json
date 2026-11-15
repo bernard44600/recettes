@@ -1,0 +1,55 @@
+{
+  "titre": "Tiramisu",
+  "description": "Saveur d'Italie, Véro Guy. L'avantage est qu'il n'y a pas de cuisson. Il est possible de le préparer la veille pour laisser du temps le jour J.",
+  "portions": 8,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "4h frigo",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Jaunes d'oeufs",
+      "quantite": "4"
+    },
+    {
+      "nom": "Blancs d'oeufs",
+      "quantite": "4 montés en neige"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "50 gr"
+    },
+    {
+      "nom": "Mascarpone",
+      "quantite": "1 pot (250 gr)"
+    },
+    {
+      "nom": "Rhum ou autre alcool fort",
+      "quantite": "3 cuillerées à soupe"
+    },
+    {
+      "nom": "Biscuits à la cuillère",
+      "quantite": "1 boite (pas des boudoirs, mais au pire tant pis)"
+    },
+    {
+      "nom": "Café noir",
+      "quantite": "1 tasse"
+    },
+    {
+      "nom": "Cacao en poudre amer type Van Houten",
+      "quantite": "pour saupoudrer (le meilleur)"
+    }
+  ],
+  "etapes": [
+    "Dans un grand récipient, mixez (mélangez) les jaunes d'œufs, les blancs préalablement montés en neige très ferme, et le sucre.",
+    "Ajoutez le pot de mascarpone et les 3 cuillères de rhum. Modifier délicatement le tout.",
+    "Prendre les biscuits à la cuillère et trempez-les dans le café noir très rapidement (sinon ils ramollissent et deviennent de la charpie).",
+    "Tapissez le fond d'un plat rectangulaire avec ces biscuits imbibés.",
+    "Ajoutez une première couche de crème au mascarpone.",
+    "Alternez ensuite les couches de biscuits et de mélange en terminant obligatoirement par une couche de crème.",
+    "Saupoudrez généreusement le dessus de cacao amer Van Houten.",
+    "Mettre au réfrigérateur pendant 4 heures minimum pour obtenir une consistance assez ferme."
+  ],
+  "image": []
+}

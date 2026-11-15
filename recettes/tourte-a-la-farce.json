@@ -1,0 +1,67 @@
+{
+  "titre": "Tourte à la farce",
+  "description": "Appréciée de tous. Astuce et qualité du rendu et des saveurs: Faire cuire les ingrédients séparément. Attention aux paluches à la sortie du four.",
+  "portions": 6,
+  "temps_preparation": "40 mn",
+  "temps_cuisson": "45 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Pâtes feuilletées",
+      "quantite": "2"
+    },
+    {
+      "nom": "Champignons",
+      "quantite": "500 gr"
+    },
+    {
+      "nom": "Poireaux",
+      "quantite": "3 petits"
+    },
+    {
+      "nom": "Persil",
+      "quantite": "½ botte"
+    },
+    {
+      "nom": "Ail",
+      "quantite": "2 ou 3 gousses"
+    },
+    {
+      "nom": "Oignon",
+      "quantite": "1"
+    },
+    {
+      "nom": "Farine de viande (pas obligatoire)",
+      "quantite": "veau ou farce à tomate"
+    },
+    {
+      "nom": "Jaune d'oeuf (ou lait)",
+      "quantite": "1 pour la déco (pas obligatoire)"
+    },
+    {
+      "nom": "Huile d'olive",
+      "quantite": null
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Dans une sauteuse, faire revenir l'oignon émincé, ajouter les poireaux coupés en lamelles fines. Faire revenir en veillant à garder les lamelles un peu fermes. Réservez dans un petit saladier.",
+    "Faire cuire les champignons sans matière grasse avec une cuillère d'eau et un peu de gros sel pour leur faire rendre leur eau.",
+    "Quand ils sont cuits, jeter l'eau en en gardant la valeur de deux cuillères à soupe. Ajouter une cuillère à soupe d'huile d'olive, puis le persil, l'ail émincé et le poivre. Goûter pour réajuster le sel. Réservez.",
+    "Si vous utilisez un troisième ingrédient comme la farce de viande, le faire cuire séparément en jetant le gras de cuisson.",
+    "Rassemblez tous les ingrédients cuits dans la sauteuse et faire revenir ensemble 2 ou 3 minutes. Éteindre le feu et laisser tiédir la garniture.",
+    "Déroulez la première pâte dans un plat à tarte en conservant le papier de cuisson. Piquez le fond avec une fourchette. Répartir la garniture uniformément sur la pâte.",
+    "Prendre la seconde pâte et la poser sur le dessus en la faisant dépasser. Coupez ce qui est en trop (garder pour la déco).",
+    "Remplir un verre à moitié d'eau. Pour souder les deux pâtes, humidifier les bords, écrasez-les ensemble et retourner vers l'intérieur pour faire un petit bourrelet.",
+    "Au centre de la tourte, découpez un petit cercle avec un couteau pour faire une cheminée.",
+    "Préchauffer le four à 180 degrés environ (thermostat 6 ou 7).",
+    "Pendant que le four chauffe, étaler le jaune d'œuf partout sur la pâte à l'aide d'un pinceau (à défaut d'œuf on peut prendre du lait ça fait aussi joli).",
+    "Enfourner pour 45 minutes. Si c'est bien grillé avant selon votre four, sortir la tourte."
+  ],
+  "image": []
+}

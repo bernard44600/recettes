@@ -1,0 +1,34 @@
+{
+  "slug": "confiture-de-noah",
+  "titre": "Confiture de noah",
+  "description": "...",
+  "categorie": [
+    "Dessert"
+  ],
+  "portions": "",
+  "temps_preparation": "10",
+  "temps_cuisson": "10",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "1kg",
+      "nom": "raisins"
+    },
+    {
+      "quantite": "80%",
+      "nom": "sucre par rapport aux fruits"
+    },
+    {
+      "quantite": "1 jus",
+      "nom": "citron"
+    }
+  ],
+  "etapes": [
+    "Cuisson par lots de 1kg",
+    "dans le cuit-vapeur mettre 10mn",
+    "récupérer le jus pour la gelée",
+    "la pulpe pour la confiture, la passer au moulin pour retirer les grains et peau",
+    "difficile d'obtenir une gelée ferme",
+    "voir Noah - Clinton - Isabelle Cépages résistants & interdits | Vitis Prohibita  https://www.vitis-prohibita.com"
+  ]
+}

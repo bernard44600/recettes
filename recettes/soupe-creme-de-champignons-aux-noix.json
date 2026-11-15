@@ -1,0 +1,58 @@
+{
+  "titre": "Soupe: crème de champignons aux noix",
+  "description": "Référence C.V.F 'les soupes', faite plusieurs fois toujours autant appréciée. Servez bien chaud.",
+  "portions": 4,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "15 mn",
+  "categorie": [
+    "Soupe"
+  ],
+  "ingredients": [
+    {
+      "nom": "Champignons de Paris",
+      "quantite": "500 gr"
+    },
+    {
+      "nom": "Cèpes frais",
+      "quantite": "100 gr"
+    },
+    {
+      "nom": "Echalotes",
+      "quantite": "2"
+    },
+    {
+      "nom": "Cerneaux de noix",
+      "quantite": "20 gr"
+    },
+    {
+      "nom": "Tablettes de bouillon de volaille",
+      "quantite": "2 diluées dans 1 litre d'eau bouillante"
+    },
+    {
+      "nom": "Crème fraîche épaisse",
+      "quantite": "15 cl"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "20 gr"
+    },
+    {
+      "nom": "Huile de noix",
+      "quantite": "1 cuillère à soupe"
+    },
+    {
+      "nom": "Sel, poivre du moulin",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Coupez les pieds terreux des champignons, nettoyez-les rapidement sous l'eau froide avec une brosse douce puis essuyez dans un torchon. Émincez-les.",
+    "Pelez et hachez les échalotes. Concassez les cerneaux de noix. Diluez les tablettes de bouillon dans 1 litre d'eau bouillante.",
+    "Faites chauffer le beurre dans une poêle et mettez les champignons à revenir. Salez et poivrez.",
+    "Dès que leur eau de végétation s'est évaporée, retirez-les et, à la place, faites dorer les échalotes.",
+    "Mixez les champignons, les échalotes, la crème et le bouillon chaud dans un blender (ou au mixeur) pour obtenir une préparation mousseuse.",
+    "Répartissez dans des bols ou des assiettes à soupe, arrosez d'un filet d'huile de noix et saupoudrez de cerneaux concassés.",
+    "Le bon accord vin: un bergerac rouge (sud-ouest)."
+  ],
+  "image": []
+}

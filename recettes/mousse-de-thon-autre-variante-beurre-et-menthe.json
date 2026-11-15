@@ -1,0 +1,38 @@
+{
+  "titre": "Mousse de thon - autre variante (beurre et menthe)",
+  "description": "Une version plus riche et très fraîche.",
+  "portions": 6,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Thon",
+      "quantite": "200g"
+    },
+    {
+      "nom": "Beurre mou 'en pommade'",
+      "quantite": "50 gr"
+    },
+    {
+      "nom": "Menthe",
+      "quantite": "12 feuilles"
+    },
+    {
+      "nom": "Citron",
+      "quantite": "1 jus"
+    },
+    {
+      "nom": "Saler et poivrer",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Écrasez le thon avec le beurre mou, le sel et le poivre.",
+    "Ajouter le jus de citron et les feuilles de menthe ciselées.",
+    "Mettre au frais."
+  ],
+  "image": []
+}

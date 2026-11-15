@@ -1,0 +1,46 @@
+{
+  "titre": "Foie gras et son b.a.b.a",
+  "description": "Recette de Catherine, pour la dégustation se fier à Jérémy 'c'est une tuerie'. Conservez au réfrigérateur et consommez dans les 2 mois qui suivent.",
+  "portions": 6,
+  "temps_preparation": "10 mn",
+  "temps_cuisson": "30 mn",
+  "categorie": [
+    "Entrée"
+  ],
+  "ingredients": [
+    {
+      "nom": "Lobe de foie",
+      "quantite": "environ 500 gr"
+    },
+    {
+      "nom": "Sel",
+      "quantite": "6 gr (1/2 sel fin et 1/2 sel nitrité ou du sel fin et 1 pincée de sucre)"
+    },
+    {
+      "nom": "Poivre blanc",
+      "quantite": "1 gr (soit 2 gr au kilo)"
+    },
+    {
+      "nom": "Cognac (ou armagnac, cherry, porto, sauternes...)",
+      "quantite": "1 cl pour l'assaisonnement / 5 cl pour la marinade"
+    },
+    {
+      "nom": "Lait (ou eau salée)",
+      "quantite": "0,5 litre pour dégorger la veille"
+    },
+    {
+      "nom": "Terrine",
+      "quantite": "d'environ 0,5 litre"
+    }
+  ],
+  "etapes": [
+    "Dégorgez: retirez le fiel si vous constatez que le foie en a, puis immergez le lobe dans du lait (ou de l'eau salée) pour le faire dégorger pendant 1 nuit au réfrigérateur.",
+    "Dénervez: Le lendemain, égouttez et épongez. Séparez les deux parties du lobe et écartez les dans le sens de la longueur. Ôtez au minimum les deux veines principales (la veine surélevée et la veine centrale). Ne manipulez pas trop pour éviter qu'il ne se décompose.",
+    "Dosez: Pesez le foie après son dénervage pour rester très exact sur les quantités d'assaisonnement (6 gr de sel et 1 gr de poivre blanc pour 500 gr).",
+    "Marinez: Mélanger le sel et le poivre et assaisonnez le foie recto et verso. Déposez le foie dans un plat et versez dessus le cognac ou autre alcool. Laissez mariner couvert d'un film plastique pendant une nuit au réfrigérateur.",
+    "Montez: Disposez les lobes dans une terrine en commençant par le plus gros au fond (face lisse contre la terrine), ajoutez les brisures au milieu et terminez par les derniers lobes retournés (face lisse en haut).",
+    "Cuisson: Passez au four à 125° (th.4) dans un bain-marie pendant 30 mn.",
+    "Finitions: A la sortie du four, tassez le foie cuit pour faire sortir le gras. Le reverser ensuite sur la terrine refroidie. Conservez au réfrigérateur."
+  ],
+  "image": []
+}

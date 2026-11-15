@@ -1,0 +1,49 @@
+{
+  "titre": "Cake",
+  "description": "Recette de Michèle Gouribon. Tenir compte du fait que la pâte double de volume en cuisant.",
+  "portions": 8,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "45 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Farine",
+      "quantite": "125 gr"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "125 gr"
+    },
+    {
+      "nom": "Matière grasse (beurre ou autre)",
+      "quantite": "125 gr"
+    },
+    {
+      "nom": "Oeufs",
+      "quantite": "2"
+    },
+    {
+      "nom": "Levure",
+      "quantite": "1 sachet"
+    },
+    {
+      "nom": "Fruits confits ou raisins secs",
+      "quantite": "100 gr macérés dans le rhum"
+    },
+    {
+      "nom": "Sel",
+      "quantite": "1 pincée"
+    }
+  ],
+  "etapes": [
+    "Dans un saladier, travaillez énergiquement le sucre et la matière grasse pour obtenir une pâte bien onctueuse et blanchie.",
+    "Versez les fruits confits ou raisins avec leur rhum de macération, puis ajoutez 1 œuf entier. Travaillez à nouveau le mélange.",
+    "Ajoutez le second œuf, travaillez à nouveau la pâte.",
+    "Verser enfin la farine et la levure préalablement mélangées ensemble au préalable. Modifier doucement.",
+    "Beurrez soigneusement un moule à cake et y verser la pâte.",
+    "Faire cuire au four à thermostat 3-4 (environ 90°C - 120°C) pendant 45 minutes."
+  ],
+  "image": []
+}

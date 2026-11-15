@@ -1,0 +1,39 @@
+{
+  "titre": "Blinis sans gluten",
+  "description": "Weta, Marie France Chapelin lors d'un sympathique apéro.",
+  "portions": 8,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "20 mn",
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Yaourts nature",
+      "quantite": "4"
+    },
+    {
+      "nom": "Oeuf",
+      "quantite": "1"
+    },
+    {
+      "nom": "Farine (au total)",
+      "quantite": "4 pots de yaourt"
+    },
+    {
+      "nom": "Farine de sarrasin",
+      "quantite": "1 pot de yaourt (inclus dans les 4 pots)"
+    },
+    {
+      "nom": "Farine de riz",
+      "quantite": "3 pots de yaourt (inclus dans les 4 pots)"
+    }
+  ],
+  "etapes": [
+    "Faire la pâte en mélangeant les yaourts, l'œuf et les farines.",
+    "Graissez la poêle.",
+    "Faire des petits pâtés de pâte dans la poêle que tu aplatis.",
+    "Cuire recto/verso."
+  ],
+  "image": []
+}

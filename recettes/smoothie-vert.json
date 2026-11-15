@@ -1,0 +1,40 @@
+{
+  "titre": "Smoothie vert énergie",
+  "description": "Un smoothie vitaminé pour bien commencer la journée.",
+  "portions": 1,
+  "temps_preparation": "5 mn",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "boisson",
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Épinards frais",
+      "quantite": "1 poignée"
+    },
+    {
+      "nom": "Banane",
+      "quantite": "1 pièce"
+    },
+    {
+      "nom": "Kiwi",
+      "quantite": "1 pièce"
+    },
+    {
+      "nom": "Lait d'amande",
+      "quantite": "150 ml"
+    },
+    {
+      "nom": "Graines de chia",
+      "quantite": "1 c. à café"
+    }
+  ],
+  "etapes": [
+    "Peler la banane et le kiwi, les couper en morceaux.",
+    "Mettre tous les ingrédients dans un blender.",
+    "Mixer jusqu'à obtenir une texture lisse.",
+    "Servir immédiatement."
+  ],
+  "image": []
+}

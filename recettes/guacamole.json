@@ -1,0 +1,46 @@
+{
+  "titre": "Guacamole",
+  "description": "Recette offerte par Emilie, sympa car pas besoin de sachet tout préparé. Dans l'urgence tu peux prendre un sachet de préparation du commerce, j'y ajoute quelques gouttes de tabasco.",
+  "portions": 6,
+  "temps_preparation": "10 mn",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Avocat bien mûr",
+      "quantite": "1"
+    },
+    {
+      "nom": "Piment de cayenne",
+      "quantite": "1½ cuillère à café"
+    },
+    {
+      "nom": "Paprika",
+      "quantite": "1 cuillère à café"
+    },
+    {
+      "nom": "Ail semoule",
+      "quantite": "1½ cuillère à café"
+    },
+    {
+      "nom": "Gingembre moulu",
+      "quantite": "1½ cuillère à café"
+    },
+    {
+      "nom": "Citron",
+      "quantite": "quelques gouttes si besoin"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Ecrasez l'avocat en purée.",
+    "Rajoutez les épices, le sel et le poivre.",
+    "Si vous ne servez pas le guacamole de suite, ajoutez quelques gouttes de citron pour éviter qu'il noircisse."
+  ],
+  "image": []
+}

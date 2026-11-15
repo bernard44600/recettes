@@ -1,0 +1,35 @@
+{
+  "titre": "Soupe angevine",
+  "description": "Recette de Manuel, la cousine Nicole aussi la fait. Vraiment pratique quand on est nombreux. Important pour que ça soit meilleur : Stocker les ingrédients au réfrigérateur.",
+  "portions": 8,
+  "temps_preparation": "10 mn",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Mousseux",
+      "quantite": "1 bouteille (75 cl)"
+    },
+    {
+      "nom": "Jus de citron (ou Pulco)",
+      "quantite": "10 cl (ou 1 louche)"
+    },
+    {
+      "nom": "Sirop de sucre de canne",
+      "quantite": "10 cl (ou 1 louche)"
+    },
+    {
+      "nom": "Triple sec, cointreau ou grand marnier",
+      "quantite": "10 cl (ou 1 louche)"
+    }
+  ],
+  "etapes": [
+    "Stocker tous les ingrédients au réfrigérateur.",
+    "Préparez la soupe au dernier moment (sinon elle perd ses bulles).",
+    "Mélangez doucement les ingrédients dans un saladier ou une coupe à punch.",
+    "Servir à la louche (une petite louche pas la grosse, c'est plus facile à verser dans les flûtes ou coupes)."
+  ],
+  "image": []
+}

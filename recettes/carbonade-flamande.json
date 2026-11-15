@@ -1,0 +1,48 @@
+{
+  "titre": "Carbonade flamande",
+  "description": "Importée de Lille, recette du cru..... Bien l'hiver. Cuit et recuit le lendemain c'est encore meilleur.",
+  "portions": 6,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "75 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Viande de boeuf",
+      "quantite": "1 kilo"
+    },
+    {
+      "nom": "Bière ambrée Jenlain (une bonne bière)",
+      "quantite": "1 bouteille"
+    },
+    {
+      "nom": "Pain d'épices",
+      "quantite": "3 tranches"
+    },
+    {
+      "nom": "Herbes, ail, oignons",
+      "quantite": null
+    },
+    {
+      "nom": "Lardons (facultatif)",
+      "quantite": null
+    },
+    {
+      "nom": "Huile",
+      "quantite": null
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Mettre tous les ingrédients ensemble dans un faitout (sauf le pain d'épice).",
+    "Recouvrir complètement de bière ambrée.",
+    "Cuire à couvert pendant une heure.",
+    "Ouvrir le faitout et couper les tranches de pain d'épice en morceaux.",
+    "Ajouter le pain d'épice à la viande et poursuivre la cuisson 10 à 15 minutes jusqu'à ce que le pain d'épice fonde complètement dans la sauce."
+  ],
+  "image": []
+}

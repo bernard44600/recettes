@@ -1,0 +1,35 @@
+{
+  "slug": "gelee-de-baies-de-sureau",
+  "titre": "Gelée de baies de sureau",
+  "description": "Gelée de baies de sureau noir, à la fois fruitée et légèrement tannique. Réalisée avec de l'agar-agar pour une prise naturelle.",
+  "categorie": [
+    "Dessert",
+    "confiture"
+  ],
+  "portions": "",
+  "temps_preparation": "20",
+  "temps_cuisson": "15",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "1.5 kg",
+      "nom": "baies de sureau noir (pour obtenir 1 L de jus)"
+    },
+    {
+      "quantite": "500 g",
+      "nom": "sucre en poudre (par litre de jus)"
+    },
+    {
+      "quantite": "4 g",
+      "nom": "agar-agar (par litre de jus)"
+    }
+  ],
+  "etapes": [
+    "Égrappez et lavez les baies de sureau. Placez-les dans une casserole et couvrez d'eau à hauteur.",
+    "Portez à ébullition, puis écrasez les baies pour libérer le jus. Laissez mijoter 10 minutes.",
+    "Filtrez le jus à travers une étamine ou un torchon propre. Pressez bien pour extraire tout le jus.",
+    "Mesurez le jus obtenu. Pour chaque litre de jus, ajoutez 500 g de sucre et 4 g d'agar-agar (mélangés au préalable).",
+    "Portez à ébullition (92°C minimum) et laissez cuire 5 minutes en remuant constamment.",
+    "Versez en pots et laissez refroidir. La gelée prend au refroidissement."
+  ]
+}

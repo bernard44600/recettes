@@ -1,0 +1,42 @@
+{
+  "titre": "Vin de pissenlit",
+  "description": "Grande mode dans les années 1980. Bon apéritif.",
+  "portions": 8,
+  "temps_preparation": "? semaines",
+  "temps_cuisson": null,
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Fleurs de pissenlit",
+      "quantite": "3 litres (remplir des bocaux du 'parfait')"
+    },
+    {
+      "nom": "Eau",
+      "quantite": "4 litres"
+    },
+    {
+      "nom": "Oranges",
+      "quantite": "4"
+    },
+    {
+      "nom": "Citrons",
+      "quantite": "4"
+    },
+    {
+      "nom": "Raisins",
+      "quantite": "250 g"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "600 g"
+    }
+  ],
+  "etapes": [
+    "Avoir une jarre pour mettre tout ça dedans.",
+    "Laissez macérer ? semaines.",
+    "Filtrer et mettre en bouteilles."
+  ],
+  "image": []
+}

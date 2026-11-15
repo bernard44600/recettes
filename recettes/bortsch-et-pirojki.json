@@ -1,0 +1,84 @@
+{
+  "titre": "Bortsch et pirojki",
+  "description": "Soupe d’Europe centrale, betterave impérative pour la couleur; Prévoir du temps",
+  "portions": 6,
+  "temps_preparation": "40 mn",
+  "temps_cuisson": "2 heures 15 mn",
+  "categorie": [
+    "Soupe",
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Betteraves crues",
+      "quantite": "500 g"
+    },
+    {
+      "nom": "Céleri rave",
+      "quantite": "½"
+    },
+    {
+      "nom": "Petit chou",
+      "quantite": "1"
+    },
+    {
+      "nom": "Poireaux",
+      "quantite": "2"
+    },
+    {
+      "nom": "Tomates",
+      "quantite": "2"
+    },
+    {
+      "nom": "Macreuse de bœuf",
+      "quantite": "600 g"
+    },
+    {
+      "nom": "Crème épaisse",
+      "quantite": "10 cl"
+    },
+    {
+      "nom": "Jus de citron",
+      "quantite": "½"
+    },
+    {
+      "nom": "Pour les pirojki :",
+      "quantite": ""
+    },
+    {
+      "nom": "Champignons de Paris",
+      "quantite": "200 g"
+    },
+    {
+      "nom": "Oignons",
+      "quantite": "2"
+    },
+    {
+      "nom": "Huile",
+      "quantite": "1 cuillère à soupe"
+    },
+    {
+      "nom": "Œuf + 1 jaune",
+      "quantite": "1 + 1"
+    },
+    {
+      "nom": "Aneth",
+      "quantite": "1 bouquet"
+    },
+    {
+      "nom": "Sel, poivre",
+      "quantite": ""
+    }
+  ],
+  "etapes": [
+    "Pelez les betteraves et le céleri. Coupez-les en gros cubes. Éliminez les premières feuilles du chou, coupez-les en lanières. Nettoyez les poireaux, coupez-les en tronçons. Épépinez les tomates, concassez-les. Coupez la viande en dés.",
+    "Mettez la viande dans un faitout avec 2,5 l d’eau, salez, poivrez et portez à ébullition. Laissez cuire à frémissements 1h puis ajoutez tous les légumes. Laissez frémir encore 1h.",
+    "Pendant ce temps, pelez et émincez les oignons, brossez et émincez les champignons, faites-les revenir à l’huile dans une poêle 5 min, réservez.",
+    "Une fois la soupe cuite, filtrez le bouillon. Récupérez la viande et le chou, remettez les autres légumes dans le bouillon. Dans un saladier, travaillez la viande à la fourchette. Ajoutez le chou, les champignons et les oignons, l’aneth ciselé, salez et poivrez. Ajoutez l’œuf entier, mélangez. Préchauffez le four à 180° (th 6).",
+    "Déroulez la pâte. Découpez-y 6 disques avec un bol retourné ou un emporte-pièce. Garnissez-les de farce à la viande, repliez en chausson. Soudez les bords, dorez au jaune d’œuf. Posez les pirojki sur la plaque du four tapissée de papier sulfurisé, enfournez pour 15 min.",
+    "Dans un bol, mélangez la crème et le jus de citron. Faites réchauffer la soupe sur feu doux. Versez-la dans de grands bols, garnissez de 1 cuillère de crème au citron et servez chaud avec les pirojki.",
+    "Notre bon accord : un ventoux rouge (vallée du Rhône)",
+    "Les pirojkis peuvent être servis tout seuls en entrée. Bons baisers de Russie"
+  ],
+  "image": []
+}

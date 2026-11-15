@@ -1,0 +1,33 @@
+{
+  "titre": "Taboulé",
+  "description": "Taboulé frais aux herbes et tomates, sans cuisson de la semoule (repos au frais)",
+  "portions": 4,
+  "temps_preparation": "30 mn",
+  "temps_cuisson": "0 mn (repos : une nuit)",
+  "categorie": [
+    "Salade",
+    "Entrée"
+  ],
+  "ingredients": [
+    { "nom": "Semoule (ou boulgour)", "quantite": "50-70 g par personne" },
+    { "nom": "Persil frais", "quantite": "1/2 à 1 botte" },
+    { "nom": "Menthe fraîche", "quantite": "6-7 branches" },
+    { "nom": "Oignons blancs (ou rouges)", "quantite": "2-3" },
+    { "nom": "Tomates", "quantite": "3-4" },
+    { "nom": "Concombre (facultatif, bio)", "quantite": "1/4 à 1/2" },
+    { "nom": "Raisins secs (facultatif)", "quantite": "2-3 cuillères à soupe" },
+    { "nom": "Huile d'olive", "quantite": "5-6 cuillères à soupe" },
+    { "nom": "Jus de citron", "quantite": "5-6 cuillères à soupe" },
+    { "nom": "Sel, poivre", "quantite": "selon goût" },
+    { "nom": "Cumin moulu", "quantite": "1 pincée" },
+    { "nom": "Piment d'Espelette (facultatif)", "quantite": "selon goût" }
+  ],
+  "etapes": [
+    "La veille : mettre la semoule dans un grand saladier. Ajouter tous les légumes et herbes ciselés (persil, menthe, oignons, tomates en dés, concombre en dés).",
+    "Ajouter les raisins secs réhydratés dans l'eau tiède (si utilisés), l'huile, le citron, le sel, le poivre, le cumin et le piment.",
+    "Bien mélanger. Couvrir et mettre au réfrigérateur toute une nuit.",
+    "Le lendemain, sortir le taboulé et détacher les grains à la fourchette. Goûter et rectifier l'assaisonnement.",
+    "Variante express : faire gonfler la semoule dans de l'eau salée avant d'ajouter les légumes."
+  ],
+  "image": []
+}

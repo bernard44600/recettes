@@ -1,0 +1,33 @@
+{
+  "titre": "Salade de pois chiches",
+  "description": "Salade relevée et parfumée, idéale en accompagnement ou en plat léger",
+  "portions": 4,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "0 mn (si pois chiches en boîte)",
+  "categorie": [
+    "Salade",
+    "Accompagnement"
+  ],
+  "ingredients": [
+    { "nom": "Pois chiches (cuits ou en boîte)", "quantite": "environ 400 g" },
+    { "nom": "Persil frais", "quantite": "1/2 botte" },
+    { "nom": "Cumin moulu", "quantite": "1 à 2 cuillères à café" },
+    { "nom": "Oignon blanc", "quantite": "1 beau ou 2 moyens" },
+    { "nom": "Gomasio (sésame grillé + sel)", "quantite": "1 cuillère à soupe" },
+    { "nom": "Cive ou ciboulette", "quantite": "1 ou 2 branches" },
+    { "nom": "Ail", "quantite": "2 gousses" },
+    { "nom": "Huile d'olive", "quantite": "3-4 cuillères à soupe" },
+    { "nom": "Jus de citron", "quantite": "3 cuillères à soupe (environ 2 citrons)" },
+    { "nom": "Tamari (sauce soja)", "quantite": "1 cuillère" },
+    { "nom": "Sel (fleur de sel de préférence), poivre", "quantite": "selon goût" },
+    { "nom": "5 épices (facultatif)", "quantite": "selon goût" }
+  ],
+  "etapes": [
+    "Rincer et égoutter les pois chiches. Les mettre dans un saladier.",
+    "Ajouter le persil émincé, les oignons coupés en rondelles (détacher les rondelles) et le reste des oignons hachés finement.",
+    "Ajouter l'ail émincé, le gomasio, le cumin, le tamari, l'huile d'olive, le citron, le poivre et les 5 épices si utilisés.",
+    "Bien mélanger. Goûter et ajuster l'assaisonnement.",
+    "Si la salade est trop sèche, ajouter un peu d'huile ou un peu de jus de cuisson des pois chiches. Les pois chiches doivent briller légèrement."
+  ],
+  "image": []
+}

@@ -1,0 +1,58 @@
+{
+  "titre": "Lapin à la moutarde",
+  "description": "Grenoble 1986 Pierre et Agnès place Notre Dame. Vachtement bon... Se prépare à l'avance.",
+  "portions": 6,
+  "temps_preparation": "12 à 24h",
+  "temps_cuisson": "30 mn par livre",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Lapin entier non découpé",
+      "quantite": "1"
+    },
+    {
+      "nom": "Moutarde",
+      "quantite": "suffisamment pour le badigeonner entier"
+    },
+    {
+      "nom": "Lanières de lard",
+      "quantite": "2 ou 3 (pour éviter qu'il soit trop sec)"
+    },
+    {
+      "nom": "Gousses d'ail",
+      "quantite": "pour le piquer un peu partout"
+    },
+    {
+      "nom": "Jaune d'oeuf (pour la sauce)",
+      "quantite": "1"
+    },
+    {
+      "nom": "Moutarde (pour la sauce)",
+      "quantite": "8 cuillères à café"
+    },
+    {
+      "nom": "Crème fraîche (pour la sauce)",
+      "quantite": "8 cuillères à café (et plus si affinités)"
+    },
+    {
+      "nom": "Jus de citron (pour la sauce)",
+      "quantite": "1 peu"
+    },
+    {
+      "nom": "Sel et poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Piquez le lapin avec l'ail.",
+    "Le badigeonner de moutarde partout, dessus, dessous.",
+    "Le faire macérer de 12 à 24 heures.",
+    "Encerclez-le de lanières de lard.",
+    "Mettre au four à cuire entier à feu 'vif' (assez chaud). Comptez 20 à 30 mn par livre.",
+    "Dans un bol, préparer la sauce en mélangeant le jaune d'œuf, les 8 c. à café de moutarde, la crème fraîche, le jus de citron, le sel et le poivre.",
+    "Ajoutez la sauce 20 mn avant de sortir le lapin du four."
+  ],
+  "image": []
+}

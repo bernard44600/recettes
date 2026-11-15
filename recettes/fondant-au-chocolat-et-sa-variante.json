@@ -1,0 +1,49 @@
+{
+  "titre": "Fondant au chocolat et sa variante",
+  "description": "Fait et refait et toujours aimé. Choix entre la méthode de préparation de papa ou celle de maman. Faire reposer 5 minutes à la fin.",
+  "portions": 6,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "15 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Chocolat noir à cuire",
+      "quantite": "200g (soit une tablette)"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "120 gr"
+    },
+    {
+      "nom": "Farine",
+      "quantite": "60 gr"
+    },
+    {
+      "nom": "Beurre",
+      "quantite": "120 gr"
+    },
+    {
+      "nom": "Sucre vanillé",
+      "quantite": "1 sachet"
+    },
+    {
+      "nom": "Oeufs",
+      "quantite": "3"
+    },
+    {
+      "nom": "Moule à manqué beurré",
+      "quantite": "1"
+    }
+  ],
+  "etapes": [
+    "Option Papa : Faire fondre le chocolat au bain-marie.",
+    "Option Maman (Plus rapide) : Je fais fondre le chocolat directement avec les 120 gr de beurre, puis je mélange avec les autres ingrédients.",
+    "Faire une omelette (mélange) avec les œufs, le sucre, le sucre vanillé, le chocolat, le beurre fondu et la farine.",
+    "Mettre le tout dans le moule à manqué beurré.",
+    "Enfourner pour 15 minutes à 180°C (thermostat 6).",
+    "Au bout des 15 minutes, éteindre le four mais laisser le gâteau reposer dedans pendant encore 5 minutes avant de le sortir."
+  ],
+  "image": []
+}

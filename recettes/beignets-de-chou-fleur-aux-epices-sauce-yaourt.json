@@ -1,0 +1,81 @@
+{
+  "titre": "Beignets de chou-fleur aux épices, sauce yaourt",
+  "description": "Beignets de chou-fleur épicés accompagnés d'une sauce au yaourt, citron vert et coriandre.",
+  "portions": 4,
+  "temps_preparation": "30 mn",
+  "temps_cuisson": "30 mn",
+  "categorie": [
+    "Entrée",
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "chou fleur",
+      "quantite": "350 g (1 petit)"
+    },
+    {
+      "nom": "oeufs",
+      "quantite": "4"
+    },
+    {
+      "nom": "ail",
+      "quantite": "1 gousse"
+    },
+    {
+      "nom": "échalotes",
+      "quantite": "2"
+    },
+    {
+      "nom": "farine",
+      "quantite": "120 g"
+    },
+    {
+      "nom": "cumin en poudre",
+      "quantite": "1 CC"
+    },
+    {
+      "nom": "curcuma",
+      "quantite": "1 CC"
+    },
+    {
+      "nom": "sel",
+      "quantite": "1.5 CC"
+    },
+    {
+      "nom": "poivre",
+      "quantite": ""
+    },
+    {
+      "nom": "huile pour friture",
+      "quantite": ""
+    },
+    {
+      "nom": "==== sauce ==",
+      "quantite": "======="
+    },
+    {
+      "nom": "yaourt grec",
+      "quantite": "300 g"
+    },
+    {
+      "nom": "coriandre",
+      "quantite": "1 bouquet"
+    },
+    {
+      "nom": "citrons verts (bio)",
+      "quantite": "2"
+    },
+    {
+      "nom": "huile d'olive",
+      "quantite": "2 CS."
+    }
+  ],
+  "etapes": [
+    "Râpez le zest d'un citron et pressez les 2 fruits. Ciselez la coriandre. Dans un bol, mélangez au yaourt avec le zest et le jus de citron, la coriandre, l'huile d'olive, sel et poivre. Réservez au frais.",
+    "Détaillez le chou fleurs en bouquets. Plongez-les dans un faitout d'eau bouillante salée pour les faire \"blanchir\" environ 15 mn de cuisson. Egouttez-les et réservez.",
+    "Émincez finement la gousse d'ail et les échalotes. Dans un saladier, mélangez la farine, les oeufs, l'ail et l'échalote, le cumin, le curcuma, le sel et du poivre. Fouettez vivement pour obtenir une pâte lisse. Ajoutez le chou-fleur encore chaud en l'écrasant grossièrement dans la pâte.",
+    "Faites chauffer l'huile dans une friteuse. Plongez-y délicatement des portions de pâte au chou-fleur. Comptez 3 à 4 min par friture. Egouttez sur du papier absorbant.",
+    "Servez chaud avec la sauce à part."
+  ],
+  "image": []
+}

@@ -1,0 +1,28 @@
+{
+  "titre": "Rigadeaux ou coques",
+  "description": "On en trouve plage Benoit à la Baule. Y a qu'à se baisser. C'est très bon dans des pâtes fraîches.",
+  "portions": null,
+  "temps_preparation": "24 h",
+  "temps_cuisson": null,
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Rigadeaux ou coques",
+      "quantite": null
+    },
+    {
+      "nom": "Eau",
+      "quantite": "pour dessabler"
+    }
+  ],
+  "etapes": [
+    "Le plus important est de les faire dessabler dans de l'eau pendant 24 heures avant de les manger sinon c'est immangeable.",
+    "Avant de se régaler il est important de bien les nettoyer plusieurs fois même. Un petit caillou c'est vraiment pas bon.",
+    "Les faire ouvrir dans un faitout en les tournant régulièrement. Quand ils sont tous ouverts c'est bon.",
+    "Quand la cuisson est terminée, les mettre dans un écumoir ou une passoire à égoutter, mais pas trop, car tièdes c'est bien meilleur.",
+    "Il faut les préparer le jour même, et pas la veille, et ne pas les mettre au réfrigérateur."
+  ],
+  "image": []
+}

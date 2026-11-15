@@ -1,0 +1,53 @@
+{
+  "titre": "Gâteau nantais",
+  "description": "Découvert grâce un technicien du labo très gourmand, décrit aussi dans C.V.F. n° 148",
+  "portions": 4,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "40 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Sucre glace",
+      "quantite": "150 g"
+    },
+    {
+      "nom": "Sucre en poudre",
+      "quantite": "150 g"
+    },
+    {
+      "nom": "Poudre d’amandes",
+      "quantite": "100 g"
+    },
+    {
+      "nom": "Farine",
+      "quantite": "40 g"
+    },
+    {
+      "nom": "Beurre mou",
+      "quantite": "125 g"
+    },
+    {
+      "nom": "Œufs",
+      "quantite": "3"
+    },
+    {
+      "nom": "Sel",
+      "quantite": ""
+    },
+    {
+      "nom": "Rhum brun",
+      "quantite": "10 cl"
+    }
+  ],
+  "etapes": [
+    "Préchauffez le four à 180°C (th 6). Beurrez les bords d’un moule à manqué de 22 cm, tapissez le fond d’un disque de papier sulfurisé.",
+    "Dans le bol d’un robot, mettez le sucre en poudre et le beurre. Mélangez pour obtenir un mélange mousseux, puis incorporez peu à peu la farine, la poudre d’amandes, 2 cuillères à soupe de rhum, les œufs et une pincée de sel.",
+    "Versez la pâte dans le moule, enfournez pour 40 min environ. Vérifiez la cuisson (lame d’un couteau à peine humide).",
+    "Démoulez le gâteau sur un plat. Mélangez 2 cuillerées à soupe de rhum avec la même quantité d’eau et badigeonnez le gâteau encore chaud.",
+    "Dans un bol, mélangez le sucre glace avec le reste du rhum pour obtenir un glaçage épais. Étalez-le sur le gâteau à l’aide d’une spatule puis laissez sécher le glaçage au moins 1h à température ambiante avant de servir.",
+    "Notre bon accord : un muscat-de-rivesaltes."
+  ],
+  "image": []
+}

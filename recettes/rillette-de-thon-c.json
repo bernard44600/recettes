@@ -1,0 +1,37 @@
+{
+  "titre": "Rillettes de thon c",
+  "description": "Rue cuvier, à la fête du 'haricot' chacun faisait ses amuses gueules. En voici un. A consommer sans modération.",
+  "portions": 6,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "0 mn",
+  "categorie": [
+    "Apéro"
+  ],
+  "ingredients": [
+    {
+      "nom": "Thon",
+      "quantite": "1 boite"
+    },
+    {
+      "nom": "Échalote",
+      "quantite": "1"
+    },
+    {
+      "nom": "Moutarde",
+      "quantite": "1 cuillère à café"
+    },
+    {
+      "nom": "Mayonnaise",
+      "quantite": "1 cuillère à café"
+    },
+    {
+      "nom": "Poivre",
+      "quantite": null
+    }
+  ],
+  "etapes": [
+    "Mélangez le tout avec un robot jusqu'à la consistance désirée.",
+    "Ici ce qu'on veut c'est pouvoir le tartiner donc pas trop dur."
+  ],
+  "image": []
+}

@@ -1,0 +1,65 @@
+{
+  "titre": "Terrine d’asperges vertes",
+  "description": "Par ma collègue “Prune” (Martine). Prévoir, car la terrine doit refroidir une heure",
+  "portions": 4,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "25 mn",
+  "categorie": [
+    "Entrée"
+  ],
+  "ingredients": [
+    {
+      "nom": "Petites asperges vertes (bocal possible)",
+      "quantite": "350 g"
+    },
+    {
+      "nom": "Orange",
+      "quantite": "1"
+    },
+    {
+      "nom": "Ciboulette",
+      "quantite": "1 bouquet"
+    },
+    {
+      "nom": "Échalote",
+      "quantite": "1"
+    },
+    {
+      "nom": "Crème liquide",
+      "quantite": "10 cl"
+    },
+    {
+      "nom": "Œufs",
+      "quantite": "3"
+    },
+    {
+      "nom": "Comté",
+      "quantite": "30 g"
+    },
+    {
+      "nom": "Yaourt brassé ou velouté",
+      "quantite": "1"
+    },
+    {
+      "nom": "Piment d’Espelette en poudre",
+      "quantite": "1 pincée"
+    },
+    {
+      "nom": "Fleur de sel, poivre du moulin",
+      "quantite": ""
+    }
+  ],
+  "etapes": [
+    "Préchauffez le four à th.6 (180°).",
+    "Ciselez la ciboulette. Pelez et ciselez l’échalote. Coupez les asperges en petits morceaux. Râpez le comté.",
+    "Dans le bol d’un mixeur, versez les asperges, la moitié de la ciboulette, l’échalote, le comté, les œufs, la crème liquide et le piment. Salez. Mixez.",
+    "Rectifiez l'assaisonnement si nécessaire.",
+    "Mettez le tout dans un saladier. Ajoutez le reste de la ciboulette et mélangez à l’aide d’une cuillère.",
+    "Versez la préparation dans une terrine préalablement beurrée ou filmée. Disposez-la dans un grand plat et versez de l’eau chaude autour. Enfournez et faites cuire au bain-marie 25 min.",
+    "Au bout de 15 min de cuisson, couvrez d’un papier d’aluminium pour éviter que la terrine ne colore trop.",
+    "Laissez refroidir au moins une heure après cuisson.",
+    "Préparez la sauce : mélangez le jus d’orange et le yaourt, salez et poivrez. Servez la terrine avec sa sauce.",
+    "La touche finale : pour une version encore plus aérienne, accompagnez d’une chantilly à la menthe ou au lard fumé."
+  ],
+  "image": []
+}

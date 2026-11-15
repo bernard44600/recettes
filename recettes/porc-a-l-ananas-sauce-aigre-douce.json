@@ -1,0 +1,83 @@
+{
+  "titre": "Porc à l’ananas à la sauce aigre douce",
+  "description": "2015, Recette de Manuel, le gourmand gourmet",
+  "portions": 4,
+  "temps_preparation": "45 mn",
+  "temps_cuisson": "15 mn",
+  "categorie": [
+    "Plat"
+  ],
+  "ingredients": [
+    {
+      "nom": "Viande de porc",
+      "quantite": "450 g"
+    },
+    {
+      "nom": "Vinaigre blanc",
+      "quantite": "6 cuillères à soupe"
+    },
+    {
+      "nom": "Sauce tomates",
+      "quantite": "250 ml"
+    },
+    {
+      "nom": "Poivron rouge",
+      "quantite": "1"
+    },
+    {
+      "nom": "Poivron vert",
+      "quantite": "1"
+    },
+    {
+      "nom": "Oignon jaune",
+      "quantite": "1"
+    },
+    {
+      "nom": "Carottes",
+      "quantite": "4"
+    },
+    {
+      "nom": "Ananas en conserve (sans sucre ajouté)",
+      "quantite": "350 g"
+    },
+    {
+      "nom": "Farine",
+      "quantite": "2 cuillères à soupe"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "3 cuillères à soupe"
+    },
+    {
+      "nom": "Sauce huître",
+      "quantite": "1 cuillère à soupe"
+    },
+    {
+      "nom": "Sauce de soja",
+      "quantite": "2 cuillères à soupe"
+    },
+    {
+      "nom": "Branches de céleri",
+      "quantite": "2"
+    },
+    {
+      "nom": "Fécule de maïs",
+      "quantite": "1 cuillère à soupe"
+    },
+    {
+      "nom": "Huile d’arachide et d’olive",
+      "quantite": "500 ml + 2 c. à soupe"
+    }
+  ],
+  "etapes": [
+    "Coupez la viande en carrés de 2 cm. Dans un bol faire mariner les morceaux avec ½ pincée de poivre, ½ pincée de sel et 2 cuillères à soupe de soja.",
+    "Versez 4 cuillères à soupe de farine dans un bol. Roulez chaque morceau mariné dedans.",
+    "Faire chauffer 500 ml d’huile d’arachide et faire frire la viande à feu modéré. Dorer, puis déposer sur du papier absorbant.",
+    "Coupez oignons, carottes, céleri et poivrons en lamelles. Réservez.",
+    "Égouttez l’ananas en conservant le jus. Coupez les tranches d’ananas en morceaux de 2 cm.",
+    "Sauce : mélangez 3 c. à soupe de sucre avec les 250 ml de tomates, le vinaigre, 1 c. à soupe de fécule, le jus d’ananas, 1 c. à soupe de sauce d'huître, une pincée de sel.",
+    "Faites chauffer 2 c. à soupe d’huile dans le wok. Ajoutez les lamelles d’oignons, revenir, puis ajoutez carottes, céleri, poivrons, faites sauter 3 min à feu vif.",
+    "Ajoutez la viande, l’ananas et la sauce. Mélangez 4 min. Ajustez le sel. Servir chaud avec du riz nature."
+  ],
+  "image": []
+}

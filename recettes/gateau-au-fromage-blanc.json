@@ -1,0 +1,53 @@
+{
+  "titre": "Gâteau au fromage blanc",
+  "description": "Recette pour faire plaisir à papa qui adore les tourteaux fromagers, mais moins bon.",
+  "portions": 6,
+  "temps_preparation": "20 mn",
+  "temps_cuisson": "1h15",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Fromage blanc à 0%",
+      "quantite": "1kg250"
+    },
+    {
+      "nom": "Oeufs",
+      "quantite": "4"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "125 gr"
+    },
+    {
+      "nom": "Essence de vanille",
+      "quantite": "1 cuillère à café"
+    },
+    {
+      "nom": "Citrons (pour le zeste)",
+      "quantite": "zeste de 2 citrons"
+    },
+    {
+      "nom": "Farine",
+      "quantite": "120 gr"
+    },
+    {
+      "nom": "Raisins de Corinthe",
+      "quantite": "80 gr"
+    },
+    {
+      "nom": "Huile",
+      "quantite": "pour le moule"
+    }
+  ],
+  "etapes": [
+    "Laissez tremper les raisins de Corinthe dans un bol d'eau chaude pour les faire gonfler.",
+    "Dans une terrine, battez au fouet les jaunes d'œufs avec le sucre jusqu'à ce que le mélange blanchisse.",
+    "Ajoutez l'essence de vanille, le zeste de citron râpé, la farine tamisée, le fromage blanc à 0% et les raisins bien égouttés. Modifier le tout.",
+    "Battez les blancs des œufs en neige très ferme, et incorporez-les délicatement et doucement à la préparation à l'aide d'une spatule.",
+    "Huilez un grand moule et y verser la préparation.",
+    "Mettre au four pour cuire pendant 1h15."
+  ],
+  "image": []
+}

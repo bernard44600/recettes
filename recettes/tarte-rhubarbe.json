@@ -1,0 +1,35 @@
+{
+  "slug": "tarte-rhubarbe",
+  "titre": "Tarte rhubarbe",
+  "description": "tarte classique",
+  "categorie": [
+    "Dessert"
+  ],
+  "portions": "6",
+  "temps_preparation": "10",
+  "temps_cuisson": "20",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "500g",
+      "nom": "rhubarbe"
+    },
+    {
+      "quantite": "1",
+      "nom": "oeuf"
+    },
+    {
+      "quantite": "50g",
+      "nom": "amandes"
+    },
+    {
+      "quantite": "50g",
+      "nom": "sucre"
+    },
+    {
+      "quantite": "80g",
+      "nom": "creme de soja (ou fromage blanc ?)"
+    }
+  ],
+  "etapes": []
+}

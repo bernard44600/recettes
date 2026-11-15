@@ -1,0 +1,50 @@
+{
+  "titre": "Crousti moelleux aux framboises",
+  "description": "Par Françoise Clémenceau, dans un super moule offert par Baptiste pour Noël 2021",
+  "portions": "4 à 6 pers",
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "35-40 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Beurre",
+      "quantite": "50 g"
+    },
+    {
+      "nom": "Sucre",
+      "quantite": "150 g (200 g initialement)"
+    },
+    {
+      "nom": "Flocons d’avoine (ou spéculoos écrasés)",
+      "quantite": "150 g"
+    },
+    {
+      "nom": "Œufs",
+      "quantite": "4"
+    },
+    {
+      "nom": "Framboises (fraîches ou surgelées)",
+      "quantite": "400 g"
+    },
+    {
+      "nom": "Mascarpone",
+      "quantite": "250 g"
+    },
+    {
+      "nom": "Amandes mondées pour décoration",
+      "quantite": "4 par moule (64)"
+    }
+  ],
+  "etapes": [
+    "Faire fondre le beurre, ajouter 75 g de sucre, les flocons d’avoine (ou spéculoos) et un blanc d'œuf.",
+    "Amalgamez cette préparation et déposez au fond du moule en tassant bien, puis répartir les framboises (non décongelées si congelées).",
+    "Dans un cul-de-poule, battre les œufs restants (3 plus 1 jaune) avec les 75 g de sucre restant, ajoutez le mascarpone et déposez le tout sur les framboises.",
+    "Cuire 35 à 40 min à 180°C.",
+    "Servir frais. Décoration : 4 amandes mondées (ou amandes effilées) autour de la framboise pour faire comme une fleur."
+  ],
+  "image": [
+    "crousti-moelleux-aux-framboises.jpg"
+  ]
+}

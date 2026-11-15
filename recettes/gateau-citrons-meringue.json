@@ -1,0 +1,42 @@
+{
+  "titre": "Gâteau citrons meringue",
+  "description": "Fanny quand elle passait ses vacances à s’occuper de Jérémy et Manuel l’été",
+  "portions": 6,
+  "temps_preparation": "15 mn",
+  "temps_cuisson": "10+5 mn",
+  "categorie": [
+    "Dessert"
+  ],
+  "ingredients": [
+    {
+      "nom": "Pâte sablée",
+      "quantite": "1"
+    },
+    {
+      "nom": "Œufs",
+      "quantite": "3"
+    },
+    {
+      "nom": "Lait concentré sucré",
+      "quantite": "1 tube"
+    },
+    {
+      "nom": "Citrons",
+      "quantite": "3"
+    },
+    {
+      "nom": "Sucre glace",
+      "quantite": "1 c. à soupe"
+    }
+  ],
+  "etapes": [
+    "Faire cuire la pâte sablée à blanc.",
+    "Mélangez 3 jaunes d'œufs avec un tube de lait concentré.",
+    "Ajoutez 2 à 3 jus de citrons jaunes.",
+    "Mettre la préparation sur la pâte cuite.",
+    "Battre les blancs d'œufs en neige en y ajoutant la cuillère de sucre glace.",
+    "Mettre au four et bien surveiller. Le blanc doit tout juste être doré. Environ 5 min.",
+    "Important : sortir de suite avant que les blancs d'œuf deviennent noirs."
+  ],
+  "image": []
+}

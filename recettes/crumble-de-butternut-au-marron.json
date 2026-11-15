@@ -1,0 +1,52 @@
+{
+  "slug": "crumble-de-butternut-au-marron",
+  "titre": "Crumble de butternut au marron",
+  "description": "Cvf numéro 172 novembre 2016",
+  "categorie": [
+    "Dessert"
+  ],
+  "portions": "",
+  "temps_preparation": "15mn",
+  "temps_cuisson": "20mn",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "1 petite",
+      "nom": "courge butternut"
+    },
+    {
+      "quantite": "250 g",
+      "nom": "marron au naturel en bocal ou boîte"
+    },
+    {
+      "quantite": "80 g",
+      "nom": "parmesan râpé"
+    },
+    {
+      "quantite": "1",
+      "nom": "oignon"
+    },
+    {
+      "quantite": "150 g",
+      "nom": "farine"
+    },
+    {
+      "quantite": "150 g",
+      "nom": "beurre"
+    },
+    {
+      "quantite": "",
+      "nom": "Sel poivre"
+    }
+  ],
+  "etapes": [
+    "Couper la courge en grosse rondelles épluchez-les et vider l'intérieur recouper la chair en dés. ",
+    "Peler et émincer l'oignon .",
+    "Dans une sauteuse fait chauffer 20 g de beurre mettez-y l'oignon à fondre doucement puis ajouter les dés de courge salé poivrer mélanger couvrez et laisser et cuire 15 minutes ",
+    "Préchauffer le four à 180 degrés beurrer un plat à four dans une jatte réunissez le parmesan la farine et le reste de beurre soulever le mélange en les frottant pour obtenir un sable grossier ",
+    "Verser de contenu de la sauteuse dans le plat à four parsemer de marron grossièrement concassé ",
+    "Couvrez du sable au parmesan",
+    "Enfourner pour 35 minutes jusqu'à ce que le crumble soit doré est croustillant ",
+    "Servir très chaud avec une viande blanche ou une volaille"
+  ]
+}

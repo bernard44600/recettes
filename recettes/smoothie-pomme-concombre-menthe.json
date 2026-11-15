@@ -1,0 +1,43 @@
+{
+  "slug": "smoothie-pomme-concombre-menthe",
+  "titre": "Smoothie pomme concombre menthe",
+  "description": "Smoothie avec les produits du jardin",
+  "categorie": [
+    "Dessert"
+  ],
+  "portions": "",
+  "temps_preparation": "",
+  "temps_cuisson": "",
+  "image": [],
+  "ingredients": [
+    {
+      "quantite": "2",
+      "nom": "pommes vertes"
+    },
+    {
+      "quantite": "1",
+      "nom": "concombre"
+    },
+    {
+      "quantite": "1/2",
+      "nom": "jus de citron"
+    },
+    {
+      "quantite": "10 feuilles",
+      "nom": "menthe fraîches"
+    },
+    {
+      "quantite": "20 cl",
+      "nom": "eau gazeuse"
+    },
+    {
+      "quantite": "2 cas",
+      "nom": "crème fraîche"
+    },
+    {
+      "quantite": "4-6",
+      "nom": "glaçons"
+    }
+  ],
+  "etapes": []
+}
